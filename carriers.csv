@@ -1,0 +1,2971 @@
+mcc,mnc,iso,country,country_code,network
+302,22,CA,Canada,1,Telus Mobility
+302,22,CA,Canada,1,Telus Mobility
+302,32,CA,Canada,1,Rogers
+302,36,CA,Canada,1,Telus Mobility
+302,37,CA,Canada,1,Fido
+302,38,CA,Canada,1,K-Net Mobile
+302,49,CA,Canada,1,Freedom Mobile
+302,50,CA,Canada,1,Videotron
+302,51,CA,Canada,1,Videotron
+302,53,CA,Canada,1,K-Net Mobile
+302,61,CA,Canada,1,Bell Mobility
+302,62,CA,Canada,1,Ice Wireless
+302,63,CA,Canada,1,Bell Mobility
+302,64,CA,Canada,1,Bell Mobility
+302,66,CA,Canada,1,Bell Mobility
+302,68,CA,Canada,1,SaskTel Mobility
+302,69,CA,Canada,1,Bell Mobility
+302,72,CA,Canada,1,Rogers
+302,75,CA,Canada,1,SaskTel Mobility
+302,76,CA,Canada,1,Telus Mobility
+302,78,CA,Canada,1,SaskTel Mobility
+302,82,CA,Canada,1,Rogers
+302,86,CA,Canada,1,Telus Mobility
+302,220,CA,Canada,1,Telus Mobility
+302,221,CA,Canada,1,Telus Mobility
+302,270,CA,Canada,1,eastlink
+302,299,CA,Canada,1,Failed Calls
+302,299,CA,Canada,1,Xplore Mobile
+302,320,CA,Canada,1,Rogers
+302,360,CA,Canada,1,Telus Mobility
+302,370,CA,Canada,1,Fido
+302,380,CA,Canada,1,K-Net Mobile
+302,490,CA,Canada,1,Freedom Mobile
+302,491,CA,Canada,1,Freedom Mobile
+302,500,CA,Canada,1,Videotron
+302,510,CA,Canada,1,Videotron
+302,520,CA,Canada,1,Videotron
+302,530,CA,Canada,1,K-Net Mobile
+302,610,CA,Canada,1,Bell Mobility
+302,620,CA,Canada,1,Ice Wireless
+302,630,CA,Canada,1,Bell Mobility
+302,640,CA,Canada,1,Bell Mobility
+302,660,CA,Canada,1,Bell Mobility
+302,680,CA,Canada,1,SaskTel Mobility
+302,681,CA,Canada,1,SaskTel Mobility
+302,690,CA,Canada,1,Bell Mobility
+302,720,CA,Canada,1,Rogers
+302,721,CA,Canada,1,Rogers
+302,750,CA,Canada,1,SaskTel Mobility
+302,760,CA,Canada,1,Telus Mobility
+302,780,CA,Canada,1,SaskTel Mobility
+302,781,CA,Canada,1,SaskTel Mobility
+302,820,CA,Canada,1,Rogers
+302,860,CA,Canada,1,Telus Mobility
+302,999,CA,Canada,1,Fix Line
+310,010,US,United States of America,1,T-Mobile
+310,012,US,United States of America,1,Verizon Wireless
+310,013,US,United States of America,1,Verizon Wireless
+310,016,US,United States of America,1,AT&T Mobility
+310,020,US,United States of America,1,Union Wireless
+310,030,US,United States of America,1,AT&T Mobility
+310,035,US,United States of America,1,ETEX
+310,070,US,United States of America,1,AT&T Mobility
+310,080,US,United States of America,1,AT&T Mobility
+310,090,US,United States of America,1,AT&T Mobility
+310,110,US,United States of America,1,Verizon Wireless
+310,120,US,United States of America,1,T-Mobile
+310,130,US,United States of America,1,Appalachian Wireless
+310,150,US,United States of America,1,AT&T Mobility
+310,160,US,United States of America,1,T-Mobile
+310,170,US,United States of America,1,AT&T Mobility
+310,180,US,United States of America,1,AT&T Mobility
+310,190,US,United States of America,1,T-Mobile
+310,200,US,United States of America,1,T-Mobile
+310,210,US,United States of America,1,AT&T Mobility
+310,230,US,United States of America,1,T-Mobile
+310,240,US,United States of America,1,T-Mobile
+310,250,US,United States of America,1,T-Mobile
+310,260,US,United States of America,1,T-Mobile
+310,270,US,United States of America,1,T-Mobile
+310,271,US,United States of America,1,Verizon Wireless
+310,272,US,United States of America,1,Verizon Wireless
+310,273,US,United States of America,1,Verizon Wireless
+310,274,US,United States of America,1,Verizon Wireless
+310,275,US,United States of America,1,Verizon Wireless
+310,276,US,United States of America,1,Verizon Wireless
+310,277,US,United States of America,1,Verizon Wireless
+310,278,US,United States of America,1,Verizon Wireless
+310,279,US,United States of America,1,Verizon Wireless
+310,280,US,United States of America,1,AT&T Mobility
+310,280,US,United States of America,1,Pioneer Cellular
+310,280,US,United States of America,1,Verizon Wireless
+310,281,US,United States of America,1,Verizon Wireless
+310,282,US,United States of America,1,Verizon Wireless
+310,283,US,United States of America,1,Verizon Wireless
+310,284,US,United States of America,1,Verizon Wireless
+310,285,US,United States of America,1,Verizon Wireless
+310,286,US,United States of America,1,Verizon Wireless
+310,287,US,United States of America,1,Verizon Wireless
+310,288,US,United States of America,1,Verizon Wireless
+310,289,US,United States of America,1,Verizon Wireless
+310,299,US,United States of America,1,Failed Calls
+310,299,US,United States of America,1,Northstar Technology
+310,310,US,United States of America,1,T-Mobile
+310,340,US,United States of America,1,Limitless
+310,350,US,United States of America,1,Verizon Wireless
+310,360,US,United States of America,1,Pioneer Cellular
+310,380,US,United States of America,1,AT&T Mobility
+310,390,US,United States of America,1,Verizon Wireless
+310,410,US,United States of America,1,AT&T Mobility
+310,430,US,United States of America,1,GCI Wireless
+310,450,US,United States of America,1,Viaero Wireless
+310,480,US,United States of America,1,Verizon Wireless
+310,481,US,United States of America,1,Verizon Wireless
+310,482,US,United States of America,1,Verizon Wireless
+310,483,US,United States of America,1,Verizon Wireless
+310,484,US,United States of America,1,Verizon Wireless
+310,485,US,United States of America,1,Verizon Wireless
+310,486,US,United States of America,1,Verizon Wireless
+310,487,US,United States of America,1,Verizon Wireless
+310,488,US,United States of America,1,Verizon Wireless
+310,489,US,United States of America,1,Verizon Wireless
+310,490,US,United States of America,1,T-Mobile
+310,530,US,United States of America,1,T-Mobile
+310,540,US,United States of America,1,OWTC
+310,570,US,United States of America,1,Pioneer Cellular
+310,590,US,United States of America,1,Verizon Wireless
+310,591,US,United States of America,1,Verizon Wireless
+310,592,US,United States of America,1,Verizon Wireless
+310,593,US,United States of America,1,Verizon Wireless
+310,594,US,United States of America,1,Verizon Wireless
+310,595,US,United States of America,1,Verizon Wireless
+310,596,US,United States of America,1,Verizon Wireless
+310,597,US,United States of America,1,Verizon Wireless
+310,598,US,United States of America,1,Verizon Wireless
+310,599,US,United States of America,1,Verizon Wireless
+310,600,US,United States of America,1,Cellcom
+310,630,US,United States of America,1,Choice Wireless
+310,660,US,United States of America,1,T-Mobile
+310,670,US,United States of America,1,AT&T Mobility
+310,680,US,United States of America,1,AT&T Mobility
+310,690,US,United States of America,1,Limitless
+310,700,US,United States of America,1,cv cellular
+310,710,US,United States of America,1,ASTAC Cellular
+310,740,US,United States of America,1,Viaero Wireless
+310,750,US,United States of America,1,Appalachian Wireless
+310,760,US,United States of America,1,ASTAC Cellular
+310,770,US,United States of America,1,Verizon Wireless
+310,800,US,United States of America,1,T-Mobile
+310,820,US,United States of America,1,Verizon Wireless
+310,830,US,United States of America,1,T-Mobile
+310,860,US,United States of America,1,West Central Wireless
+310,870,US,United States of America,1,T-Mobile
+310,880,US,United States of America,1,DTC Wireless
+310,880,US,United States of America,1,T-Mobile
+310,882,US,United States of America,1,T-Mobile
+310,890,US,United States of America,1,Verizon Wireless
+310,891,US,United States of America,1,Verizon Wireless
+310,892,US,United States of America,1,Verizon Wireless
+310,893,US,United States of America,1,Verizon Wireless
+310,894,US,United States of America,1,Verizon Wireless
+310,895,US,United States of America,1,Verizon Wireless
+310,896,US,United States of America,1,Verizon Wireless
+310,897,US,United States of America,1,Verizon Wireless
+310,898,US,United States of America,1,Verizon Wireless
+310,899,US,United States of America,1,Verizon Wireless
+310,910,US,United States of America,1,Verizon Wireless
+310,940,US,United States of America,1,T-Mobile
+310,950,US,United States of America,1,AT&T Mobility
+310,990,US,United States of America,1,Evolve
+310,999,US,United States of America,1,Fix Line
+311,010,US,United States of America,1,T-Mobile
+311,012,US,United States of America,1,Verizon Wireless
+311,013,US,United States of America,1,Verizon Wireless
+311,016,US,United States of America,1,AT&T Mobility
+311,030,US,United States of America,1,AT&T Mobility
+311,070,US,United States of America,1,AT&T Mobility
+311,080,US,United States of America,1,AT&T Mobility
+311,090,US,United States of America,1,AT&T Mobility
+311,110,US,United States of America,1,Verizon Wireless
+311,120,US,United States of America,1,T-Mobile
+311,150,US,United States of America,1,AT&T Mobility
+311,160,US,United States of America,1,T-Mobile
+311,170,US,United States of America,1,AT&T Mobility
+311,180,US,United States of America,1,AT&T Mobility
+311,190,US,United States of America,1,T-Mobile
+311,200,US,United States of America,1,T-Mobile
+311,210,US,United States of America,1,AT&T Mobility
+311,230,US,United States of America,1,T-Mobile
+311,240,US,United States of America,1,T-Mobile
+311,250,US,United States of America,1,T-Mobile
+311,260,US,United States of America,1,T-Mobile
+311,270,US,United States of America,1,T-Mobile
+311,271,US,United States of America,1,Verizon Wireless
+311,272,US,United States of America,1,Verizon Wireless
+311,273,US,United States of America,1,Verizon Wireless
+311,274,US,United States of America,1,Verizon Wireless
+311,275,US,United States of America,1,Verizon Wireless
+311,276,US,United States of America,1,Verizon Wireless
+311,277,US,United States of America,1,Verizon Wireless
+311,278,US,United States of America,1,Verizon Wireless
+311,279,US,United States of America,1,Verizon Wireless
+311,280,US,United States of America,1,AT&T Mobility
+311,280,US,United States of America,1,Pioneer Cellular
+311,280,US,United States of America,1,Verizon Wireless
+311,281,US,United States of America,1,Verizon Wireless
+311,282,US,United States of America,1,Verizon Wireless
+311,283,US,United States of America,1,Verizon Wireless
+311,284,US,United States of America,1,Verizon Wireless
+311,285,US,United States of America,1,Verizon Wireless
+311,286,US,United States of America,1,Verizon Wireless
+311,287,US,United States of America,1,Verizon Wireless
+311,288,US,United States of America,1,Verizon Wireless
+311,289,US,United States of America,1,Verizon Wireless
+311,299,US,United States of America,1,Northstar Technology
+311,311,US,United States of America,1,T-Mobile
+311,340,US,United States of America,1,Limitless
+311,350,US,United States of America,1,Verizon Wireless
+311,360,US,United States of America,1,Pioneer Cellular
+311,370,US,United States of America,1,GCI Wireless
+311,380,US,United States of America,1,AT&T Mobility
+311,390,US,United States of America,1,Verizon Wireless
+311,410,US,United States of America,1,AT&T Mobility
+311,430,US,United States of America,1,GCI Wireless
+311,480,US,United States of America,1,Verizon Wireless
+311,481,US,United States of America,1,Verizon Wireless
+311,482,US,United States of America,1,Verizon Wireless
+311,483,US,United States of America,1,Verizon Wireless
+311,484,US,United States of America,1,Verizon Wireless
+311,485,US,United States of America,1,Verizon Wireless
+311,486,US,United States of America,1,Verizon Wireless
+311,487,US,United States of America,1,Verizon Wireless
+311,488,US,United States of America,1,Verizon Wireless
+311,489,US,United States of America,1,Verizon Wireless
+311,490,US,United States of America,1,T-Mobile
+311,530,US,United States of America,1,T-Mobile
+311,570,US,United States of America,1,Pioneer Cellular
+311,590,US,United States of America,1,Verizon Wireless
+311,591,US,United States of America,1,Verizon Wireless
+311,592,US,United States of America,1,Verizon Wireless
+311,593,US,United States of America,1,Verizon Wireless
+311,594,US,United States of America,1,Verizon Wireless
+311,595,US,United States of America,1,Verizon Wireless
+311,596,US,United States of America,1,Verizon Wireless
+311,597,US,United States of America,1,Verizon Wireless
+311,598,US,United States of America,1,Verizon Wireless
+311,599,US,United States of America,1,Verizon Wireless
+311,660,US,United States of America,1,T-Mobile
+311,670,US,United States of America,1,AT&T Mobility
+311,680,US,United States of America,1,AT&T Mobility
+311,690,US,United States of America,1,Limitless
+311,770,US,United States of America,1,Verizon Wireless
+311,800,US,United States of America,1,T-Mobile
+311,820,US,United States of America,1,Verizon Wireless
+311,830,US,United States of America,1,T-Mobile
+311,870,US,United States of America,1,T-Mobile
+311,880,US,United States of America,1,T-Mobile
+311,882,US,United States of America,1,T-Mobile
+311,890,US,United States of America,1,Verizon Wireless
+311,891,US,United States of America,1,Verizon Wireless
+311,892,US,United States of America,1,Verizon Wireless
+311,893,US,United States of America,1,Verizon Wireless
+311,894,US,United States of America,1,Verizon Wireless
+311,895,US,United States of America,1,Verizon Wireless
+311,896,US,United States of America,1,Verizon Wireless
+311,897,US,United States of America,1,Verizon Wireless
+311,898,US,United States of America,1,Verizon Wireless
+311,899,US,United States of America,1,Verizon Wireless
+311,910,US,United States of America,1,Verizon Wireless
+311,940,US,United States of America,1,T-Mobile
+311,950,US,United States of America,1,AT&T Mobility
+312,010,US,United States of America,1,T-Mobile
+312,012,US,United States of America,1,Verizon Wireless
+312,013,US,United States of America,1,Verizon Wireless
+312,016,US,United States of America,1,AT&T Mobility
+312,030,US,United States of America,1,AT&T Mobility
+312,070,US,United States of America,1,AT&T Mobility
+312,080,US,United States of America,1,AT&T Mobility
+312,090,US,United States of America,1,AT&T Mobility
+312,110,US,United States of America,1,Verizon Wireless
+312,120,US,United States of America,1,T-Mobile
+312,130,US,United States of America,1,Appalachian Wireless
+312,150,US,United States of America,1,AT&T Mobility
+312,160,US,United States of America,1,T-Mobile
+312,170,US,United States of America,1,AT&T Mobility
+312,180,US,United States of America,1,AT&T Mobility
+312,190,US,United States of America,1,T-Mobile
+312,200,US,United States of America,1,T-Mobile
+312,210,US,United States of America,1,AT&T Mobility
+312,230,US,United States of America,1,T-Mobile
+312,240,US,United States of America,1,T-Mobile
+312,250,US,United States of America,1,T-Mobile
+312,260,US,United States of America,1,T-Mobile
+312,270,US,United States of America,1,T-Mobile
+312,271,US,United States of America,1,Verizon Wireless
+312,272,US,United States of America,1,Verizon Wireless
+312,273,US,United States of America,1,Verizon Wireless
+312,274,US,United States of America,1,Verizon Wireless
+312,275,US,United States of America,1,Verizon Wireless
+312,276,US,United States of America,1,Verizon Wireless
+312,277,US,United States of America,1,Verizon Wireless
+312,278,US,United States of America,1,Verizon Wireless
+312,279,US,United States of America,1,Verizon Wireless
+312,280,US,United States of America,1,AT&T Mobility
+312,280,US,United States of America,1,Verizon Wireless
+312,281,US,United States of America,1,Verizon Wireless
+312,282,US,United States of America,1,Verizon Wireless
+312,283,US,United States of America,1,Verizon Wireless
+312,284,US,United States of America,1,Verizon Wireless
+312,285,US,United States of America,1,Verizon Wireless
+312,286,US,United States of America,1,Verizon Wireless
+312,287,US,United States of America,1,Verizon Wireless
+312,288,US,United States of America,1,Verizon Wireless
+312,289,US,United States of America,1,Verizon Wireless
+312,299,US,United States of America,1,Northstar Technology
+312,340,US,United States of America,1,Limitless
+312,350,US,United States of America,1,Verizon Wireless
+312,380,US,United States of America,1,AT&T Mobility
+312,390,US,United States of America,1,Verizon Wireless
+312,410,US,United States of America,1,AT&T Mobility
+312,480,US,United States of America,1,Verizon Wireless
+312,481,US,United States of America,1,Verizon Wireless
+312,482,US,United States of America,1,Verizon Wireless
+312,483,US,United States of America,1,Verizon Wireless
+312,484,US,United States of America,1,Verizon Wireless
+312,485,US,United States of America,1,Verizon Wireless
+312,486,US,United States of America,1,Verizon Wireless
+312,487,US,United States of America,1,Verizon Wireless
+312,488,US,United States of America,1,Verizon Wireless
+312,489,US,United States of America,1,Verizon Wireless
+312,490,US,United States of America,1,T-Mobile
+312,530,US,United States of America,1,T-Mobile
+312,590,US,United States of America,1,Verizon Wireless
+312,591,US,United States of America,1,Verizon Wireless
+312,592,US,United States of America,1,Verizon Wireless
+312,593,US,United States of America,1,Verizon Wireless
+312,594,US,United States of America,1,Verizon Wireless
+312,595,US,United States of America,1,Verizon Wireless
+312,596,US,United States of America,1,Verizon Wireless
+312,597,US,United States of America,1,Verizon Wireless
+312,598,US,United States of America,1,Verizon Wireless
+312,599,US,United States of America,1,Verizon Wireless
+312,660,US,United States of America,1,T-Mobile
+312,670,US,United States of America,1,AT&T Mobility
+312,680,US,United States of America,1,AT&T Mobility
+312,690,US,United States of America,1,Limitless
+312,710,US,United States of America,1,ASTAC Cellular
+312,750,US,United States of America,1,Appalachian Wireless
+312,760,US,United States of America,1,ASTAC Cellular
+312,770,US,United States of America,1,Verizon Wireless
+312,800,US,United States of America,1,T-Mobile
+312,820,US,United States of America,1,Verizon Wireless
+312,830,US,United States of America,1,T-Mobile
+312,870,US,United States of America,1,T-Mobile
+312,880,US,United States of America,1,T-Mobile
+312,882,US,United States of America,1,T-Mobile
+312,890,US,United States of America,1,Verizon Wireless
+312,891,US,United States of America,1,Verizon Wireless
+312,892,US,United States of America,1,Verizon Wireless
+312,893,US,United States of America,1,Verizon Wireless
+312,894,US,United States of America,1,Verizon Wireless
+312,895,US,United States of America,1,Verizon Wireless
+312,896,US,United States of America,1,Verizon Wireless
+312,897,US,United States of America,1,Verizon Wireless
+312,898,US,United States of America,1,Verizon Wireless
+312,899,US,United States of America,1,Verizon Wireless
+312,910,US,United States of America,1,Verizon Wireless
+312,940,US,United States of America,1,T-Mobile
+312,950,US,United States of America,1,AT&T Mobility
+313,016,US,United States of America,1,AT&T Mobility
+313,030,US,United States of America,1,AT&T Mobility
+313,070,US,United States of America,1,AT&T Mobility
+313,080,US,United States of America,1,AT&T Mobility
+313,090,US,United States of America,1,AT&T Mobility
+313,150,US,United States of America,1,AT&T Mobility
+313,170,US,United States of America,1,AT&T Mobility
+313,180,US,United States of America,1,AT&T Mobility
+313,210,US,United States of America,1,AT&T Mobility
+313,280,US,United States of America,1,AT&T Mobility
+313,280,US,United States of America,1,Pioneer Cellular
+313,299,US,United States of America,1,Northstar Technology
+313,360,US,United States of America,1,Pioneer Cellular
+313,380,US,United States of America,1,AT&T Mobility
+313,410,US,United States of America,1,AT&T Mobility
+313,570,US,United States of America,1,Pioneer Cellular
+313,670,US,United States of America,1,AT&T Mobility
+313,680,US,United States of America,1,AT&T Mobility
+313,950,US,United States of America,1,AT&T Mobility
+314,299,US,United States of America,1,Northstar Technology
+315,299,US,United States of America,1,Northstar Technology
+316,010,US,United States of America,1,T-Mobile
+316,120,US,United States of America,1,T-Mobile
+316,160,US,United States of America,1,T-Mobile
+316,190,US,United States of America,1,T-Mobile
+316,200,US,United States of America,1,T-Mobile
+316,230,US,United States of America,1,T-Mobile
+316,240,US,United States of America,1,T-Mobile
+316,250,US,United States of America,1,T-Mobile
+316,260,US,United States of America,1,T-Mobile
+316,270,US,United States of America,1,T-Mobile
+316,299,US,United States of America,1,Northstar Technology
+316,490,US,United States of America,1,T-Mobile
+316,530,US,United States of America,1,T-Mobile
+316,660,US,United States of America,1,T-Mobile
+316,800,US,United States of America,1,T-Mobile
+316,830,US,United States of America,1,T-Mobile
+316,870,US,United States of America,1,T-Mobile
+316,880,US,United States of America,1,T-Mobile
+316,882,US,United States of America,1,T-Mobile
+316,940,US,United States of America,1,T-Mobile
+289,67,GE,Abkhazia,7,Aquafon
+289,68,GE,Abkhazia,7,A-Mobile
+289,88,GE,Abkhazia,7,A-Mobile
+289,299,GE,Abkhazia,7,Failed Calls
+289,999,GE,Abkhazia,7,Fix Line
+401,01,KZ,Kazakhstan,7,Beeline
+401,02,KZ,Kazakhstan,7,Kcell
+401,07,KZ,Kazakhstan,7,Altel
+401,08,KZ,Kazakhstan,7,Kazakhstan Online
+401,77,KZ,Kazakhstan,7,Tele2
+401,299,KZ,Kazakhstan,7,Arna
+401,299,KZ,Kazakhstan,7,Failed Call(s)
+401,999,KZ,Kazakhstan,7,Fix Line
+602,01,EG,Egypt,20,Orange
+602,02,EG,Egypt,20,Vodafone
+602,03,EG,Egypt,20,Etisalat
+602,04,EG,Egypt,20,WE
+602,299,EG,Egypt,20,Failed Calls
+602,999,EG,Egypt,20,Fix Line
+655,01,ZA,South Africa,27,Vodacom
+655,02,ZA,South Africa,27,Telkom
+655,05,ZA,South Africa,27,Telkom
+655,07,ZA,South Africa,27,Cell C
+655,10,ZA,South Africa,27,MTN
+655,12,ZA,South Africa,27,MTN
+655,19,ZA,South Africa,27,Rain
+655,38,ZA,South Africa,27,Rain
+655,73,ZA,South Africa,27,Rain
+655,74,ZA,South Africa,27,Rain
+655,299,ZA,South Africa,27,Failed Calls
+655,299,ZA,South Africa,27,Lycamobile
+655,299,ZA,South Africa,27,Virgin Mobile
+655,999,ZA,South Africa,27,Fix Line
+202,01,GR,Greece,30,Cosmote
+202,02,GR,Greece,30,Cosmote
+202,03,GR,Greece,30,OTE
+202,04,GR,Greece,30,OSE
+202,05,GR,Greece,30,Vodafone
+202,09,GR,Greece,30,Wind
+202,10,GR,Greece,30,Wind
+202,12,GR,Greece,30,Yuboto
+202,15,GR,Greece,30,BWS
+202,16,GR,Greece,30,Inter Telecom
+202,299,GR,Greece,30,AMD Telecom
+202,299,GR,Greece,30,Apifon
+202,299,GR,Greece,30,Interconnect
+202,299,GR,Greece,30,M-STAT
+202,299,GR,Greece,30,Nova
+202,299,GR,Greece,30,OTEGLOBE
+202,299,GR,Greece,30,Premium Net
+202,999,GR,Greece,30,Fix Line
+204,00,NL,Netherlands,31,Intovoice
+204,02,NL,Netherlands,31,T-Mobile
+204,03,NL,Netherlands,31,Voiceworks Mobile
+204,04,NL,Netherlands,31,Vodafone
+204,05,NL,Netherlands,31,ElephantTalk
+204,07,NL,Netherlands,31,Move / Teleena
+204,08,NL,Netherlands,31,KPN
+204,09,NL,Netherlands,31,Lycamobile
+204,10,NL,Netherlands,31,KPN
+204,12,NL,Netherlands,31,KPN
+204,15,NL,Netherlands,31,Ziggo
+204,16,NL,Netherlands,31,T-Mobile
+204,18,NL,Netherlands,31,Ziggo Services
+204,20,NL,Netherlands,31,T-Mobile
+204,21,NL,Netherlands,31,ProRail
+204,23,NL,Netherlands,31,KORE
+204,24,NL,Netherlands,31,Private Mobility
+204,26,NL,Netherlands,31,SpeakUp
+204,27,NL,Netherlands,31,L-mobi
+204,28,NL,Netherlands,31,Lancelot
+204,29,NL,Netherlands,31,Tismi
+204,30,NL,Netherlands,31,ASPIDER Solutions
+204,33,NL,Netherlands,31,Truphone
+204,63,NL,Netherlands,31,MessageBird
+204,69,NL,Netherlands,31,KPN
+204,98,NL,Netherlands,31,Lancelot
+204,299,NL,Netherlands,31,88 mobile
+204,299,NL,Netherlands,31,AGMS
+204,299,NL,Netherlands,31,Belcentrale
+204,299,NL,Netherlands,31,BodyTrace
+204,299,NL,Netherlands,31,Combird Mobile
+204,299,NL,Netherlands,31,Dean Mobile
+204,299,NL,Netherlands,31,Eazit
+204,299,NL,Netherlands,31,EziMobile
+204,299,NL,Netherlands,31,Failed Calls
+204,299,NL,Netherlands,31,KeenMobile
+204,299,NL,Netherlands,31,Motto
+204,299,NL,Netherlands,31,Okta8
+204,299,NL,Netherlands,31,Premium Numbers
+204,299,NL,Netherlands,31,Premium Routing
+204,299,NL,Netherlands,31,Redworks
+204,299,NL,Netherlands,31,Vectone Mobile
+204,299,NL,Netherlands,31,interactive digital media / IDM
+204,299,NL,Netherlands,31,mGage
+204,999,NL,Netherlands,31,Fix Line
+204,999,NL,Netherlands,31,Fix Line
+206,00,BE,Belgium,32,Proximus
+206,01,BE,Belgium,32,Proximus
+206,02,BE,Belgium,32,Infrabel
+206,04,BE,Belgium,32,Proximus
+206,05,BE,Belgium,32,Telenet
+206,06,BE,Belgium,32,Lycamobile
+206,07,BE,Belgium,32,Vectone Mobile
+206,08,BE,Belgium,32,VOOmobile
+206,10,BE,Belgium,32,Mobistar / Orange
+206,20,BE,Belgium,32,Base
+206,23,BE,Belgium,32,Dust Mobile
+206,25,BE,Belgium,32,Dense Air
+206,28,BE,Belgium,32,BICS
+206,30,BE,Belgium,32,Mobile Vikings
+206,33,BE,Belgium,32,Ericsson
+206,34,BE,Belgium,32,onoff
+206,99,BE,Belgium,32,Lancelot
+206,299,BE,Belgium,32,FEBO
+206,299,BE,Belgium,32,GianCom
+206,299,BE,Belgium,32,L-mobi
+206,299,BE,Belgium,32,Legos
+206,299,BE,Belgium,32,Nord Connect
+206,299,BE,Belgium,32,PM Factory
+206,299,BE,Belgium,32,Voxbone / Bandwidth
+206,299,BE,Belgium,32,interactive digital media / IDM
+206,999,BE,Belgium,32,Fix Line
+208,01,FR,France,33,Orange
+208,02,FR,France,33,Orange
+208,03,FR,France,33,MobiquiThings
+208,08,FR,France,33,SFR
+208,09,FR,France,33,SFR
+208,10,FR,France,33,SFR
+208,11,FR,France,33,SFR
+208,12,FR,France,33,Truphone
+208,13,FR,France,33,SFR
+208,15,FR,France,33,Free Mobile
+208,16,FR,France,33,Free Mobile
+208,17,FR,France,33,Legos
+208,20,FR,France,33,Bouygues Telecom
+208,21,FR,France,33,Bouygues Telecom
+208,22,FR,France,33,Transatel
+208,24,FR,France,33,MobiquiThings
+208,25,FR,France,33,Lycamobile
+208,26,FR,France,33,NRJ
+208,27,FR,France,33,Coriolis
+208,28,FR,France,33,Airmob
+208,30,FR,France,33,Syma Mobile
+208,31,FR,France,33,Vectone Mobile
+208,32,FR,France,33,Orange
+208,34,FR,France,33,Cellhire
+208,35,FR,France,33,Free Mobile
+208,36,FR,France,33,Free Mobile
+208,37,FR,France,33,IP Directions
+208,38,FR,France,33,Lebara
+208,39,FR,France,33,Networth Telecom
+208,88,FR,France,33,Bouygues Telecom
+208,89,FR,France,33,Hub One
+208,91,FR,France,33,Orange
+208,94,FR,France,33,Halys
+208,299,FR,France,33,Add-On Multimedia
+208,299,FR,France,33,Afone Mobile
+208,299,FR,France,33,Alphalink
+208,299,FR,France,33,Alphalink
+208,299,FR,France,33,Annatel
+208,299,FR,France,33,Atlas
+208,299,FR,France,33,Auchan
+208,299,FR,France,33,Auchan
+208,299,FR,France,33,Axialys
+208,299,FR,France,33,BJT
+208,299,FR,France,33,BJT
+208,299,FR,France,33,Bazile
+208,299,FR,France,33,Bretagne Telecom
+208,299,FR,France,33,CAT
+208,299,FR,France,33,CELESTE
+208,299,FR,France,33,CPRO
+208,299,FR,France,33,CRH
+208,299,FR,France,33,CRT
+208,299,FR,France,33,CTExcel
+208,299,FR,France,33,Codepi
+208,299,FR,France,33,Coolwave
+208,299,FR,France,33,Doctolib
+208,299,FR,France,33,Failed Calls
+208,299,FR,France,33,Foliateam
+208,299,FR,France,33,Happy Telecom
+208,299,FR,France,33,Hexatel
+208,299,FR,France,33,IP Telecom
+208,299,FR,France,33,Iptis
+208,299,FR,France,33,JOi
+208,299,FR,France,33,Kertel
+208,299,FR,France,33,Keyyo Mobile
+208,299,FR,France,33,LASOTEL
+208,299,FR,France,33,LITEYEAR
+208,299,FR,France,33,La Poste Mobile
+208,299,FR,France,33,La Poste Mobile
+208,299,FR,France,33,Linkt
+208,299,FR,France,33,Netcom
+208,299,FR,France,33,Nordnet
+208,299,FR,France,33,OpenIP
+208,299,FR,France,33,Paritel
+208,299,FR,France,33,Prixtel
+208,299,FR,France,33,Prixtel
+208,299,FR,France,33,SCT TELECOM
+208,299,FR,France,33,SCT TELECOM
+208,299,FR,France,33,SIMbioz
+208,299,FR,France,33,Sewan Communications
+208,299,FR,France,33,TDF
+208,299,FR,France,33,Tismi
+208,299,FR,France,33,Trunkline
+208,299,FR,France,33,VA SOLUTIONS
+208,299,FR,France,33,VOIP Telecom
+208,299,FR,France,33,i-via
+208,299,FR,France,33,onoff
+208,299,FR,France,33,unyc
+208,999,FR,France,33,Fix Line
+214,01,ES,Spain,34,Vodafone
+214,02,ES,Spain,34,Alta Tecnologia en Comunicacions
+214,03,ES,Spain,34,Orange
+214,04,ES,Spain,34,Yoigo
+214,05,ES,Spain,34,Movistar
+214,06,ES,Spain,34,Vodafone
+214,07,ES,Spain,34,Movistar
+214,08,ES,Spain,34,Euskaltel Movil
+214,09,ES,Spain,34,Orange
+214,10,ES,Spain,34,Zinnia
+214,12,ES,Spain,34,Venus Movil
+214,14,ES,Spain,34,Avatel Movil
+214,16,ES,Spain,34,mobil R
+214,17,ES,Spain,34,mobil R
+214,19,ES,Spain,34,Simyo
+214,21,ES,Spain,34,Orange
+214,22,ES,Spain,34,Digi.Mobil
+214,23,ES,Spain,34,Yoigo
+214,25,ES,Spain,34,Lycamobile
+214,27,ES,Spain,34,Truphone
+214,29,ES,Spain,34,Yoigo
+214,33,ES,Spain,34,Yoigo
+214,34,ES,Spain,34,ION MOBILE
+214,35,ES,Spain,34,SUMA movil
+214,36,ES,Spain,34,Alai
+214,37,ES,Spain,34,Vodafone
+214,38,ES,Spain,34,Movistar
+214,299,ES,Spain,34,ACN
+214,299,ES,Spain,34,Adamo Telecom
+214,299,ES,Spain,34,Aurea
+214,299,ES,Spain,34,Billing Financial
+214,299,ES,Spain,34,Bluephone
+214,299,ES,Spain,34,CloudComms
+214,299,ES,Spain,34,Dialoga
+214,299,ES,Spain,34,Dragonet
+214,299,ES,Spain,34,Evolutio
+214,299,ES,Spain,34,Failed Calls
+214,299,ES,Spain,34,GNET
+214,299,ES,Spain,34,Global
+214,299,ES,Spain,34,Jetnet
+214,299,ES,Spain,34,Lemonvil
+214,299,ES,Spain,34,Olephone
+214,299,ES,Spain,34,On Movil
+214,299,ES,Spain,34,Oniti Telecom
+214,299,ES,Spain,34,OperadorsCat
+214,299,ES,Spain,34,PTV Telecom movil
+214,299,ES,Spain,34,Pepephone
+214,299,ES,Spain,34,Premium Numbers
+214,299,ES,Spain,34,Quattre
+214,299,ES,Spain,34,SEWAN
+214,299,ES,Spain,34,Sarenet
+214,299,ES,Spain,34,Suop
+214,299,ES,Spain,34,Syma
+214,299,ES,Spain,34,Telsome
+214,299,ES,Spain,34,The Telecom Boutique
+214,299,ES,Spain,34,You Mobile
+214,999,ES,Spain,34,Fix Line
+216,01,HU,Hungary,36,Telenor
+216,02,HU,Hungary,36,MVM NET
+216,03,HU,Hungary,36,Digi
+216,30,HU,Hungary,36,Telekom
+216,70,HU,Hungary,36,Vodafone
+216,71,HU,Hungary,36,Vodafone
+216,299,HU,Hungary,36,Antenna
+216,299,HU,Hungary,36,Invitech
+216,299,HU,Hungary,36,Mobil4
+216,299,HU,Hungary,36,Netfone
+216,299,HU,Hungary,36,TARR
+216,299,HU,Hungary,36,Vidanet
+216,999,HU,Hungary,36,Fix line
+222,01,IT,Italy,39,TIM
+222,06,IT,Italy,39,Vodafone
+222,07,IT,Italy,39,Noverca Italia
+222,08,IT,Italy,39,Fastweb
+222,10,IT,Italy,39,Vodafone
+222,30,IT,Italy,39,RFI
+222,33,IT,Italy,39,Poste Mobile
+222,34,IT,Italy,39,BT mobile
+222,35,IT,Italy,39,Lycamobile
+222,36,IT,Italy,39,Digi
+222,37,IT,Italy,39,WindTre / Hi3G
+222,39,IT,Italy,39,SMS.it / LINK Mobility
+222,40,IT,Italy,39,Agile Telecom
+222,42,IT,Italy,39,Enel
+222,43,IT,Italy,39,Telecom Italia Mobile
+222,44,IT,Italy,39,Mundio
+222,48,IT,Italy,39,Telecom Italia Mobile
+222,49,IT,Italy,39,Vianova Mobile
+222,50,IT,Italy,39,Iliad
+222,51,IT,Italy,39,ho.
+222,53,IT,Italy,39,CoopVoce
+222,54,IT,Italy,39,Plintron
+222,56,IT,Italy,39,spusu
+222,58,IT,Italy,39,rdcom
+222,88,IT,Italy,39,WindTre / WIND
+222,99,IT,Italy,39,WindTre / Hi3G
+222,299,IT,Italy,39,1Mobile
+222,299,IT,Italy,39,A-Tono
+222,299,IT,Italy,39,Compatel
+222,299,IT,Italy,39,Daily Telecom Mobile
+222,299,IT,Italy,39,DireQ
+222,299,IT,Italy,39,Esendex
+222,299,IT,Italy,39,Failed Calls
+222,299,IT,Italy,39,Kaleyra
+222,299,IT,Italy,39,Sparkle
+222,299,IT,Italy,39,Tiscali
+222,299,IT,Italy,39,Vola
+222,299,IT,Italy,39,Webcom
+222,999,IT,Italy,39,Fix Line
+222,999,IT,Italy,39,Premium Numbers
+226,01,RO,Romania,40,Vodafone
+226,02,RO,Romania,40,Telekom
+226,03,RO,Romania,40,Telekom
+226,05,RO,Romania,40,Digi Mobil
+226,10,RO,Romania,40,Orange
+226,16,RO,Romania,40,Lycamobile
+226,299,RO,Romania,40,Failed Calls
+226,299,RO,Romania,40,Iristel
+226,999,RO,Romania,40,Fix Line
+228,01,CH,Switzerland,41,Swisscom
+228,02,CH,Switzerland,41,Sunrise
+228,03,CH,Switzerland,41,Salt Mobile
+228,05,CH,Switzerland,41,Comfone
+228,06,CH,Switzerland,41,SBB
+228,07,CH,Switzerland,41,Sunrise
+228,08,CH,Switzerland,41,Sunrise
+228,09,CH,Switzerland,41,Comfone
+228,12,CH,Switzerland,41,Sunrise
+228,51,CH,Switzerland,41,relario
+228,53,CH,Switzerland,41,Sunrise
+228,54,CH,Switzerland,41,Lycamobile
+228,58,CH,Switzerland,41,Beeone
+228,59,CH,Switzerland,41,Vectone Mobile
+228,60,CH,Switzerland,41,Sunrise
+228,62,CH,Switzerland,41,Telecom26
+228,65,CH,Switzerland,41,Nexphone
+228,66,CH,Switzerland,41,Inovia
+228,69,CH,Switzerland,41,MTEL
+228,70,CH,Switzerland,41,Tismi
+228,999,CH,Switzerland,41,Fix Line
+232,01,AT,Austria,43,A1 Telekom
+232,02,AT,Austria,43,A1 Telekom
+232,03,AT,Austria,43,T-Mobile / Magenta
+232,04,AT,Austria,43,T-Mobile / Magenta
+232,05,AT,Austria,43,3
+232,07,AT,Austria,43,Ventocom
+232,09,AT,Austria,43,A1 Telekom
+232,10,AT,Austria,43,3
+232,11,AT,Austria,43,A1 Telekom
+232,12,AT,Austria,43,A1 Telekom
+232,13,AT,Austria,43,T-Mobile / Magenta
+232,14,AT,Austria,43,3
+232,16,AT,Austria,43,3
+232,17,AT,Austria,43,MRS
+232,18,AT,Austria,43,smartspace
+232,19,AT,Austria,43,3
+232,20,AT,Austria,43,Mtel
+232,22,AT,Austria,43,Plintron
+232,23,AT,Austria,43,T-Mobile / Magenta
+232,24,AT,Austria,43,Smartel Services
+232,25,AT,Austria,43,Holding Graz
+232,26,AT,Austria,43,LIWEST Mobil
+232,27,AT,Austria,43,Tismi
+232,91,AT,Austria,43,OBB Infrastruktur
+232,299,AT,Austria,43,ArgoNET
+232,299,AT,Austria,43,DIALOG telekom
+232,299,AT,Austria,43,DIMOCO
+232,299,AT,Austria,43,Digital Privacy
+232,299,AT,Austria,43,Innsbrucker Kommunalbetriebe
+232,299,AT,Austria,43,LINK Mobility
+232,299,AT,Austria,43,Lenovo Connect
+232,299,AT,Austria,43,Simple SMS
+232,299,AT,Austria,43,Skymond Mobile
+232,299,AT,Austria,43,Telfoni
+232,299,AT,Austria,43,educom
+232,299,AT,Austria,43,kabelplus
+232,999,AT,Austria,43,Fix Line
+234,00,GB,United Kingdom,44,BT Group
+234,01,GB,United Kingdom,44,Vectone Mobile
+234,02,GB,United Kingdom,44,O2
+234,03,GB,United Kingdom,44,Jersey Airtel
+234,04,GB,United Kingdom,44,FMS Solutions
+234,07,GB,United Kingdom,44,Vodafone
+234,08,GB,United Kingdom,44,BT OnePhone
+234,09,GB,United Kingdom,44,Tismi
+234,10,GB,United Kingdom,44,O2
+234,11,GB,United Kingdom,44,O2
+234,12,GB,United Kingdom,44,Network Rail
+234,13,GB,United Kingdom,44,Network Rail
+234,14,GB,United Kingdom,44,LINK Mobility
+234,15,GB,United Kingdom,44,Vodafone
+234,16,GB,United Kingdom,44,Talk Talk
+234,17,GB,United Kingdom,44,FlexTel
+234,18,GB,United Kingdom,44,Cloud9
+234,19,GB,United Kingdom,44,TeleWare
+234,20,GB,United Kingdom,44,3
+234,22,GB,United Kingdom,44,Telesign Mobile
+234,23,GB,United Kingdom,44,Icron Network
+234,24,GB,United Kingdom,44,Greenfone
+234,25,GB,United Kingdom,44,Truphone
+234,26,GB,United Kingdom,44,Lycamobile
+234,27,GB,United Kingdom,44,Tata Communications Ltd
+234,28,GB,United Kingdom,44,Marathon Telecom
+234,29,GB,United Kingdom,44,aql
+234,30,GB,United Kingdom,44,T-Mobile
+234,31,GB,United Kingdom,44,T-Mobile
+234,32,GB,United Kingdom,44,T-Mobile
+234,33,GB,United Kingdom,44,Orange
+234,34,GB,United Kingdom,44,Orange
+234,35,GB,United Kingdom,44,JSC Ingenicum
+234,36,GB,United Kingdom,44,Sure Isle of Man
+234,37,GB,United Kingdom,44,Synectiv
+234,38,GB,United Kingdom,44,Virgin Mobile
+234,39,GB,United Kingdom,44,Gamma Mobile
+234,40,GB,United Kingdom,44,spusu
+234,50,GB,United Kingdom,44,JT Mobile
+234,51,GB,United Kingdom,44,now broadband
+234,55,GB,United Kingdom,44,Sure Guernsey
+234,56,GB,United Kingdom,44,NCSC
+234,57,GB,United Kingdom,44,Sky
+234,58,GB,United Kingdom,44,Manx Telecom Mobile
+234,71,GB,United Kingdom,44,Home Office
+234,72,GB,United Kingdom,44,Hanhaa Mobile
+234,74,GB,United Kingdom,44,Pareteum
+234,75,GB,United Kingdom,44,Mass Response Service GmbH
+234,76,GB,United Kingdom,44,BT Group
+234,77,GB,United Kingdom,44,Vodafone
+234,78,GB,United Kingdom,44,Airwave
+234,89,GB,United Kingdom,44,Vodafone
+234,91,GB,United Kingdom,44,Vodafone
+234,92,GB,United Kingdom,44,Vodafone
+234,94,GB,United Kingdom,44,3
+234,95,GB,United Kingdom,44,Network Rail
+234,99,GB,United Kingdom,44,Sure Jersey
+234,999,GB,United Kingdom,44,Fix Line
+238,01,DK,Denmark,45,TDC
+238,02,DK,Denmark,45,Telenor
+238,03,DK,Denmark,45,Syniverse
+238,04,DK,Denmark,45,Nexcon.io
+238,06,DK,Denmark,45,3
+238,08,DK,Denmark,45,Voxbone / Bandwidth
+238,10,DK,Denmark,45,TDC
+238,12,DK,Denmark,45,Lycamobile
+238,13,DK,Denmark,45,Compatel
+238,14,DK,Denmark,45,Monty Mobile
+238,15,DK,Denmark,45,Net 1
+238,16,DK,Denmark,45,Tismi
+238,17,DK,Denmark,45,Gotanet
+238,20,DK,Denmark,45,Telia
+238,23,DK,Denmark,45,Banedanmark
+238,25,DK,Denmark,45,Viahub
+238,28,DK,Denmark,45,LINK Mobility
+238,30,DK,Denmark,45,Pareteum
+238,42,DK,Denmark,45,Greenwave
+238,73,DK,Denmark,45,Onomondo
+238,77,DK,Denmark,45,Telenor
+238,88,DK,Denmark,45,Cobira
+238,96,DK,Denmark,45,Telia
+238,299,DK,Denmark,45,42 Telecom
+238,299,DK,Denmark,45,5Tel
+238,299,DK,Denmark,45,Benemen
+238,299,DK,Denmark,45,Bolignet-Aarhus
+238,299,DK,Denmark,45,CBB Mobil
+238,299,DK,Denmark,45,Companymobile
+238,299,DK,Denmark,45,Comtalk
+238,299,DK,Denmark,45,Evercall
+238,299,DK,Denmark,45,Failed Calls
+238,299,DK,Denmark,45,Firmafon
+238,299,DK,Denmark,45,Firstcom
+238,299,DK,Denmark,45,Ipvision
+238,299,DK,Denmark,45,Lancelot
+238,299,DK,Denmark,45,Lebara
+238,299,DK,Denmark,45,MI Carrier Services
+238,299,DK,Denmark,45,Maxtel.dk
+238,299,DK,Denmark,45,Mitto
+238,299,DK,Denmark,45,Mobiweb
+238,299,DK,Denmark,45,NextM2M
+238,299,DK,Denmark,45,SimService
+238,299,DK,Denmark,45,Telenor Connexion
+238,299,DK,Denmark,45,Tripple Track
+238,299,DK,Denmark,45,Uni-tel
+238,299,DK,Denmark,45,Viptel
+238,299,DK,Denmark,45,celfon
+238,299,DK,Denmark,45,ipnordic
+238,999,DK,Denmark,45,Fix Line
+240,01,SE,Sweden,46,Telia
+240,02,SE,Sweden,46,3
+240,03,SE,Sweden,46,Net 1
+240,04,SE,Sweden,46,Telenor
+240,05,SE,Sweden,46,Tele2
+240,07,SE,Sweden,46,Tele2
+240,08,SE,Sweden,46,Telenor
+240,09,SE,Sweden,46,Com4
+240,11,SE,Sweden,46,Com Hem
+240,12,SE,Sweden,46,Lycamobile
+240,13,SE,Sweden,46,A3
+240,14,SE,Sweden,46,Tele2
+240,15,SE,Sweden,46,None
+240,16,SE,Sweden,46,None
+240,17,SE,Sweden,46,Gotanet
+240,18,SE,Sweden,46,Messit / Minicall
+240,19,SE,Sweden,46,Vectone Mobile
+240,20,SE,Sweden,46,Sierra Wireless
+240,21,SE,Sweden,46,Trafikverket
+240,22,SE,Sweden,46,EUtel
+240,23,SE,Sweden,46,Infobip
+240,25,SE,Sweden,46,Monty Mobile
+240,26,SE,Sweden,46,Twilio
+240,27,SE,Sweden,46,Globetouch
+240,28,SE,Sweden,46,LINK Mobility
+240,29,SE,Sweden,46,MI Carrier Services
+240,31,SE,Sweden,46,Rebtel
+240,32,SE,Sweden,46,Compatel
+240,33,SE,Sweden,46,Mobile Arts
+240,35,SE,Sweden,46,42 Telecom
+240,36,SE,Sweden,46,interactive digital media / IDM
+240,37,SE,Sweden,46,Sinch
+240,38,SE,Sweden,46,Voxbone / Bandwidth
+240,39,SE,Sweden,46,Primlight
+240,40,SE,Sweden,46,Netmore
+240,42,SE,Sweden,46,Telenor Connexion
+240,43,SE,Sweden,46,MobiWeb
+240,44,SE,Sweden,46,Telenabler
+240,45,SE,Sweden,46,Spirius
+240,46,SE,Sweden,46,Viahub
+240,47,SE,Sweden,46,Viatel
+240,48,SE,Sweden,46,Tismi
+240,63,SE,Sweden,46,Fink Telecom
+240,299,SE,Sweden,46,Advoco
+240,299,SE,Sweden,46,Allo Telecom
+240,299,SE,Sweden,46,BM Sverige
+240,299,SE,Sweden,46,BSG
+240,299,SE,Sweden,46,Bahnhof
+240,299,SE,Sweden,46,Benemen
+240,299,SE,Sweden,46,Bixia AB
+240,299,SE,Sweden,46,Biztel
+240,299,SE,Sweden,46,Bredband 2
+240,299,SE,Sweden,46,Bredbandsson
+240,299,SE,Sweden,46,Chilimobil
+240,299,SE,Sweden,46,Connectel
+240,299,SE,Sweden,46,Core Telecom
+240,299,SE,Sweden,46,EasyTelecom
+240,299,SE,Sweden,46,Failed Calls
+240,299,SE,Sweden,46,Fastcom
+240,299,SE,Sweden,46,Febo Telecom
+240,299,SE,Sweden,46,Fello
+240,299,SE,Sweden,46,Fibio
+240,299,SE,Sweden,46,Firstcom
+240,299,SE,Sweden,46,Fonia
+240,299,SE,Sweden,46,Global Telefoni
+240,299,SE,Sweden,46,GlobalConnect
+240,299,SE,Sweden,46,Horisen
+240,299,SE,Sweden,46,InfraCom
+240,299,SE,Sweden,46,Ipify
+240,299,SE,Sweden,46,Junyverse
+240,299,SE,Sweden,46,Karma Mobil
+240,299,SE,Sweden,46,Lancelot
+240,299,SE,Sweden,46,Loxysoft
+240,299,SE,Sweden,46,Maingate
+240,299,SE,Sweden,46,Megaphone
+240,299,SE,Sweden,46,MessageBird
+240,299,SE,Sweden,46,Mitto
+240,299,SE,Sweden,46,Molnstruktur
+240,299,SE,Sweden,46,My Beat
+240,299,SE,Sweden,46,Net at Once
+240,299,SE,Sweden,46,Netsize
+240,299,SE,Sweden,46,None
+240,299,SE,Sweden,46,Premium Numbers
+240,299,SE,Sweden,46,SSTNet
+240,299,SE,Sweden,46,Soluno
+240,299,SE,Sweden,46,Svea Billing Services
+240,299,SE,Sweden,46,Svensk Konsumentmobil
+240,299,SE,Sweden,46,TelaVox
+240,299,SE,Sweden,46,Telecom3 Sverige AB
+240,299,SE,Sweden,46,Teledigit Scandinavia AB
+240,299,SE,Sweden,46,Telekometen
+240,299,SE,Sweden,46,Tell it to Mi
+240,299,SE,Sweden,46,Telness
+240,299,SE,Sweden,46,Tolv Mobil
+240,299,SE,Sweden,46,Unicorn Telecom
+240,299,SE,Sweden,46,Verbal
+240,299,SE,Sweden,46,Vobbiz
+240,299,SE,Sweden,46,Voice Integrate
+240,299,SE,Sweden,46,Voicetech
+240,299,SE,Sweden,46,Weelia
+240,299,SE,Sweden,46,Wifi.se
+240,299,SE,Sweden,46,Wifog Sverige
+240,299,SE,Sweden,46,XPLORA
+240,299,SE,Sweden,46,easy pbx
+240,299,SE,Sweden,46,iCentrex
+240,299,SE,Sweden,46,miniTel
+240,299,SE,Sweden,46,onoff
+240,299,SE,Sweden,46,soatso
+240,999,SE,Sweden,46,Fix Line
+242,01,NO,Norway,47,Telenor
+242,02,NO,Norway,47,Telia / NetCom
+242,05,NO,Norway,47,Network Norway
+242,06,NO,Norway,47,ICE
+242,08,NO,Norway,47,Telia / NetCom
+242,09,NO,Norway,47,Com4
+242,10,NO,Norway,47,Nkom
+242,12,NO,Norway,47,Telenor
+242,14,NO,Norway,47,ICE
+242,15,NO,Norway,47,eRate
+242,16,NO,Norway,47,Iristel
+242,20,NO,Norway,47,BANE NOR
+242,21,NO,Norway,47,BANE NOR
+242,22,NO,Norway,47,Altibox Mobil
+242,23,NO,Norway,47,Lycamobile
+242,299,NO,Norway,47,Chilimobil
+242,299,NO,Norway,47,Failed Calls
+242,299,NO,Norway,47,GlobalConnect
+242,299,NO,Norway,47,JetNett
+242,299,NO,Norway,47,NextGenTel
+242,299,NO,Norway,47,Nodnett
+242,299,NO,Norway,47,None
+242,299,NO,Norway,47,Puzzel
+242,299,NO,Norway,47,Sierra Wireless
+242,299,NO,Norway,47,Svea
+242,299,NO,Norway,47,Telavox
+242,299,NO,Norway,47,bigblu
+242,299,NO,Norway,47,intility
+242,299,NO,Norway,47,unifon
+242,999,NO,Norway,47,Fix Line
+260,01,PL,Poland,48,Plus
+260,02,PL,Poland,48,T-Mobile
+260,03,PL,Poland,48,Orange
+260,04,PL,Poland,48,Aero2
+260,05,PL,Poland,48,Orange
+260,06,PL,Poland,48,Play
+260,07,PL,Poland,48,Netia
+260,09,PL,Poland,48,Lycamobile
+260,10,PL,Poland,48,T-Mobile
+260,11,PL,Poland,48,Plus
+260,12,PL,Poland,48,Cyfrowy Polsat
+260,13,PL,Poland,48,Move
+260,14,PL,Poland,48,Move
+260,14,PL,Poland,48,Telco Leaders
+260,15,PL,Poland,48,Aero2
+260,16,PL,Poland,48,Aero2
+260,17,PL,Poland,48,Aero2
+260,18,PL,Poland,48,AMD Telecom
+260,19,PL,Poland,48,NetBalt
+260,20,PL,Poland,48,Tismi
+260,22,PL,Poland,48,Twilio
+260,27,PL,Poland,48,Ntel Solutions
+260,32,PL,Poland,48,Compatel
+260,34,PL,Poland,48,T-Mobile
+260,35,PL,Poland,48,PKP
+260,39,PL,Poland,48,Voxbone / Bandwidth
+260,41,PL,Poland,48,EZ Mobile
+260,42,PL,Poland,48,MobiWeb
+260,45,PL,Poland,48,Virgin Mobile
+260,45,PL,Poland,48,Virgin Mobile
+260,47,PL,Poland,48,SMSHIGHWAY
+260,48,PL,Poland,48,Agile Telecom
+260,49,PL,Poland,48,Messagebird
+260,90,PL,Poland,48,Polska Spolka Gazownictwa
+260,97,PL,Poland,48,Politechnika Lodzka Uczelniane
+260,98,PL,Poland,48,Play
+260,299,PL,Poland,48,3S
+260,299,PL,Poland,48,BSG
+260,299,PL,Poland,48,Benemen
+260,299,PL,Poland,48,Caritas Laczy
+260,299,PL,Poland,48,Cludo
+260,299,PL,Poland,48,Failed Calls
+260,299,PL,Poland,48,I.M. Consulting
+260,299,PL,Poland,48,IZZI
+260,299,PL,Poland,48,Inea
+260,299,PL,Poland,48,JMDI J. Maleszko
+260,299,PL,Poland,48,Klucz Mobile
+260,299,PL,Poland,48,LoVo
+260,299,PL,Poland,48,Metro Mobile
+260,299,PL,Poland,48,Mobile Vikings
+260,299,PL,Poland,48,Mobiledata
+260,299,PL,Poland,48,Moja GSM
+260,299,PL,Poland,48,NAU Mobile
+260,299,PL,Poland,48,NIMBOW
+260,299,PL,Poland,48,Nasza Wizja
+260,299,PL,Poland,48,Next Mobile
+260,299,PL,Poland,48,Polvoice
+260,299,PL,Poland,48,Pomagacz
+260,299,PL,Poland,48,Premium Mobile
+260,299,PL,Poland,48,Premium Numbers
+260,299,PL,Poland,48,SAT FILM
+260,299,PL,Poland,48,SGT
+260,299,PL,Poland,48,Softelnet
+260,299,PL,Poland,48,TELGAM
+260,299,PL,Poland,48,TOYAmobilna
+260,299,PL,Poland,48,Tele GO
+260,299,PL,Poland,48,TeleCube
+260,299,PL,Poland,48,Telenabler
+260,299,PL,Poland,48,UPC
+260,299,PL,Poland,48,Vectra
+260,299,PL,Poland,48,Vonage
+260,299,PL,Poland,48,e-Telko
+260,299,PL,Poland,48,lajt mobile
+260,299,PL,Poland,48,multiMOBILE
+260,299,PL,Poland,48,nc+ Mobile
+260,299,PL,Poland,48,w naszej Rodzinie
+260,999,PL,Poland,48,Fix Line
+262,01,DE,Germany,49,T-mobile
+262,02,DE,Germany,49,Vodafone
+262,03,DE,Germany,49,Telefonica / E-Plus
+262,04,DE,Germany,49,Vodafone
+262,05,DE,Germany,49,Telefonica / E-Plus
+262,06,DE,Germany,49,T-mobile
+262,07,DE,Germany,49,Telefonica / O2
+262,08,DE,Germany,49,Telefonica / O2
+262,09,DE,Germany,49,Vodafone
+262,10,DE,Germany,49,DB Netz
+262,11,DE,Germany,49,Telefonica / O2
+262,12,DE,Germany,49,sipgate
+262,14,DE,Germany,49,Lebara
+262,16,DE,Germany,49,Telefonica / O2
+262,17,DE,Germany,49,Telefonica / E-Plus
+262,20,DE,Germany,49,Telefonica / E-Plus
+262,21,DE,Germany,49,Multiconnect
+262,22,DE,Germany,49,sipgate
+262,23,DE,Germany,49,1&1
+262,24,DE,Germany,49,TelcoVillage
+262,42,DE,Germany,49,Vodafone
+262,43,DE,Germany,49,Lycamobile
+262,78,DE,Germany,49,T-mobile
+262,299,DE,Germany,49,Argon Networks
+262,299,DE,Germany,49,Tismi
+262,299,DE,Germany,49,Truphone
+262,999,DE,Germany,49,Fix Line
+716,06,PE,Peru,51,Movistar
+716,07,PE,Peru,51,Entel
+716,10,PE,Peru,51,Claro
+716,15,PE,Peru,51,Viettel
+716,17,PE,Peru,51,Entel
+716,20,PE,Peru,51,Claro
+716,30,PE,Peru,51,Tuyo
+716,70,PE,Peru,51,Claro
+716,299,PE,Peru,51,Dolphin
+716,299,PE,Peru,51,Failed Calls
+716,999,PE,Peru,51,Fix Line
+334,01,MX,Mexico,52,Nextel
+334,02,MX,Mexico,52,Telcel
+334,03,MX,Mexico,52,Movistar
+334,010,MX,Mexico,52,Nextel
+334,020,MX,Mexico,52,Telcel
+334,030,MX,Mexico,52,Movistar
+334,050,MX,Mexico,52,AT&T / IUSACell
+334,060,MX,Mexico,52,SAI PCS
+334,70,MX,Mexico,52,Unefon
+334,80,MX,Mexico,52,Unefon
+334,90,MX,Mexico,52,Nextel
+334,140,MX,Mexico,52,ALTAN Redes
+334,299,MX,Mexico,52,Altcel
+334,299,MX,Mexico,52,Failed Call(s)
+334,299,MX,Mexico,52,FreedomPop
+334,299,MX,Mexico,52,Ibo Cell
+334,299,MX,Mexico,52,Maxcom
+334,299,MX,Mexico,52,MegaTel
+334,299,MX,Mexico,52,NEUS Mobile
+334,299,MX,Mexico,52,QBOcel
+334,299,MX,Mexico,52,Servitron
+334,299,MX,Mexico,52,Telecomunicaciones 360
+334,999,MX,Mexico,52,Fix Line
+368,01,CU,Cuba,53,Cubacel
+368,299,CU,Cuba,53,Failed Calls
+368,299,CU,Cuba,53,MoviTel
+368,999,CU,Cuba,53,Fix Line
+722,007,AR,Argentina,54,Movistar
+722,010,AR,Argentina,54,Movistar
+722,031,AR,Argentina,54,Claro
+722,034,AR,Argentina,54,Personal
+722,070,AR,Argentina,54,Movistar
+722,299,AR,Argentina,54,Express
+722,299,AR,Argentina,54,IPLAN
+722,299,AR,Argentina,54,Imowi
+722,299,AR,Argentina,54,Kallofer
+722,299,AR,Argentina,54,Nuestro
+722,299,AR,Argentina,54,Telecentro
+722,310,AR,Argentina,54,Claro
+722,320,AR,Argentina,54,Claro
+722,330,AR,Argentina,54,Claro
+722,340,AR,Argentina,54,Personal
+722,341,AR,Argentina,54,Personal
+722,999,AR,Argentina,54,Fix Line
+724,00,BR,Brazil,55,Nextel
+724,02,BR,Brazil,55,TIM
+724,03,BR,Brazil,55,TIM
+724,04,BR,Brazil,55,TIM
+724,05,BR,Brazil,55,Claro
+724,06,BR,Brazil,55,Vivo
+724,10,BR,Brazil,55,Vivo
+724,11,BR,Brazil,55,Vivo
+724,15,BR,Brazil,55,Sercomtel
+724,16,BR,Brazil,55,Oi Movel
+724,17,BR,Brazil,55,Surf
+724,21,BR,Brazil,55,Ligue
+724,23,BR,Brazil,55,Vivo
+724,26,BR,Brazil,55,Americanet
+724,31,BR,Brazil,55,Oi Movel
+724,32,BR,Brazil,55,Algar Telecom
+724,33,BR,Brazil,55,Algar Telecom
+724,34,BR,Brazil,55,Algar Telecom
+724,38,BR,Brazil,55,Claro
+724,39,BR,Brazil,55,Nextel
+724,54,BR,Brazil,55,TIM
+724,299,BR,Brazil,55,ARQIA
+724,299,BR,Brazil,55,Bbs Options
+724,299,BR,Brazil,55,Cinco
+724,299,BR,Brazil,55,Failed Calls
+724,299,BR,Brazil,55,NLT
+724,299,BR,Brazil,55,Telecall
+724,299,BR,Brazil,55,Vecto Mobile
+724,999,BR,Brazil,55,Fix Line
+730,01,CL,Chile,56,Entel
+730,02,CL,Chile,56,Movistar
+730,03,CL,Chile,56,Claro
+730,04,CL,Chile,56,WOM
+730,05,CL,Chile,56,WOM
+730,06,CL,Chile,56,INNET
+730,07,CL,Chile,56,Movistar
+730,08,CL,Chile,56,VTR Movil
+730,09,CL,Chile,56,WOM
+730,10,CL,Chile,56,Entel
+730,11,CL,Chile,56,Celupago
+730,12,CL,Chile,56,Telestar
+730,13,CL,Chile,56,Virgin Mobile
+730,14,CL,Chile,56,Netline
+730,15,CL,Chile,56,Cibeles Telecom
+730,16,CL,Chile,56,Nomade Telecomunicaciones
+730,17,CL,Chile,56,Compatel
+730,18,CL,Chile,56,Empresas Bunker
+730,19,CL,Chile,56,Movil Falabella
+730,20,CL,Chile,56,Inversiones Santa Fe
+730,22,CL,Chile,56,Cellplus
+730,23,CL,Chile,56,Claro
+730,27,CL,Chile,56,Cibeles Telecom
+730,299,CL,Chile,56,Boby
+730,299,CL,Chile,56,CellOPS
+730,299,CL,Chile,56,Dotcom
+730,299,CL,Chile,56,Failed Calls
+730,299,CL,Chile,56,GTD Movil
+730,299,CL,Chile,56,Industel
+730,299,CL,Chile,56,Mavi
+730,299,CL,Chile,56,Mobilink
+730,299,CL,Chile,56,Mundo Pacifico
+730,299,CL,Chile,56,NetUno
+730,299,CL,Chile,56,Quantax
+730,299,CL,Chile,56,RedVoiss
+730,299,CL,Chile,56,Simple
+730,299,CL,Chile,56,Swedcom
+730,299,CL,Chile,56,Telcomax
+730,299,CL,Chile,56,Telefonica Uno Uno Cuatro
+730,299,CL,Chile,56,Television Interactiva
+730,299,CL,Chile,56,VOIP Analysis
+730,999,CL,Chile,56,Fix Line
+732,001,CO,Colombia,57,Movistar
+732,002,CO,Colombia,57,Edatel
+732,020,CO,Colombia,57,UNE
+732,101,CO,Colombia,57,Claro
+732,103,CO,Colombia,57,Tigo
+732,111,CO,Colombia,57,Tigo
+732,123,CO,Colombia,57,Movistar
+732,130,CO,Colombia,57,Avantel
+732,142,CO,Colombia,57,UNE
+732,154,CO,Colombia,57,Virgin Mobile
+732,165,CO,Colombia,57,Tigo
+732,187,CO,Colombia,57,eTb
+732,199,CO,Colombia,57,SUMA movil
+732,220,CO,Colombia,57,Libre Tecnologias
+732,230,CO,Colombia,57,Setroc Mobile
+732,240,CO,Colombia,57,Flash Mobile
+732,299,CO,Colombia,57,ATnet
+732,299,CO,Colombia,57,Eztalk Mobile
+732,299,CO,Colombia,57,Gomobile
+732,299,CO,Colombia,57,Movil Exito
+732,299,CO,Colombia,57,Plintron
+732,299,CO,Colombia,57,TuCEL
+732,299,CO,Colombia,57,Vilacom Mobile
+732,360,CO,Colombia,57,WOM
+732,666,CO,Colombia,57,Claro
+732,999,CO,Colombia,57,Fix Line
+734,02,VE,Venezuela,58,Digitel
+734,04,VE,Venezuela,58,Movistar
+734,06,VE,Venezuela,58,Movilnet
+734,299,VE,Venezuela,58,Failed Calls
+734,999,VE,Venezuela,58,Fix Line
+502,10,MY,Malaysia,60,DiGi
+502,11,MY,Malaysia,60,Telekom Malaysia
+502,12,MY,Malaysia,60,Maxis
+502,13,MY,Malaysia,60,Celcom
+502,14,MY,Malaysia,60,Telekom Malaysia
+502,16,MY,Malaysia,60,DiGi
+502,17,MY,Malaysia,60,Maxis
+502,18,MY,Malaysia,60,U Mobile
+502,19,MY,Malaysia,60,Celcom
+502,150,MY,Malaysia,60,Tune Talk
+502,152,MY,Malaysia,60,Yes
+502,153,MY,Malaysia,60,Webe Digital
+502,156,MY,Malaysia,60,Altel Communications
+502,195,MY,Malaysia,60,XOX Com
+502,299,MY,Malaysia,60,Failed Calls
+502,299,MY,Malaysia,60,MKN
+502,299,MY,Malaysia,60,Maxis Broadband
+502,299,MY,Malaysia,60,OCESB
+502,299,MY,Malaysia,60,REDtone
+502,299,MY,Malaysia,60,REDtone Mobile
+502,299,MY,Malaysia,60,TT dotCom
+502,299,MY,Malaysia,60,Y-Max
+502,999,MY,Malaysia,60,Fix Line
+505,01,AU,Australia,61,Telstra
+505,02,AU,Australia,61,Optus
+505,03,AU,Australia,61,Vodafone
+505,06,AU,Australia,61,Vodafone
+505,07,AU,Australia,61,Vodafone
+505,10,AU,Australia,61,Norfolk Telecom
+505,11,AU,Australia,61,Telstra
+505,12,AU,Australia,61,Vodafone
+505,13,AU,Australia,61,RailCorp
+505,16,AU,Australia,61,VicTrack
+505,19,AU,Australia,61,Lycamobile
+505,26,AU,Australia,61,Sinch
+505,30,AU,Australia,61,Compatel
+505,35,AU,Australia,61,MessageBird
+505,39,AU,Australia,61,Telstra
+505,50,AU,Australia,61,Pivotel
+505,71,AU,Australia,61,Telstra
+505,72,AU,Australia,61,Telstra
+505,88,AU,Australia,61,Pivotel
+505,90,AU,Australia,61,Optus
+505,299,AU,Australia,61,ACMA
+505,299,AU,Australia,61,Get SIM
+505,299,AU,Australia,61,Symbio
+505,999,AU,Australia,61,Fix Line
+510,01,ID,Indonesia,62,Indosat Ooredoo
+510,08,ID,Indonesia,62,XL
+510,09,ID,Indonesia,62,Smartfren
+510,10,ID,Indonesia,62,Telkomsel
+510,11,ID,Indonesia,62,XL
+510,20,ID,Indonesia,62,Telkomsel
+510,21,ID,Indonesia,62,Indosat Ooredoo
+510,27,ID,Indonesia,62,Net1
+510,28,ID,Indonesia,62,Smartfren
+510,62,ID,Indonesia,62,Indosat Ooredoo
+510,89,ID,Indonesia,62,3
+510,99,ID,Indonesia,62,Smartfren
+510,299,ID,Indonesia,62,Failed Calls
+510,999,ID,Indonesia,62,Fix Line
+515,01,PH,Philippines,63,Globe
+515,02,PH,Philippines,63,Globe
+515,03,PH,Philippines,63,Smart
+515,05,PH,Philippines,63,Sun Cellular
+515,66,PH,Philippines,63,DITO
+515,299,PH,Philippines,63,Failed Calls
+515,999,PH,Philippines,63,Fix Line
+530,01,NZ,New Zealand,64,Vodafone
+530,02,NZ,New Zealand,64,Spark Mobile
+530,05,NZ,New Zealand,64,Spark Mobile
+530,06,NZ,New Zealand,64,Skinny Mobile
+530,24,NZ,New Zealand,64,2degrees
+530,299,NZ,New Zealand,64,Compass Mobile
+530,299,NZ,New Zealand,64,Devoli
+530,299,NZ,New Zealand,64,Failed Calls
+530,299,NZ,New Zealand,64,LinkTel
+530,299,NZ,New Zealand,64,Symbio
+530,299,NZ,New Zealand,64,Vocus
+530,299,NZ,New Zealand,64,Voxbone / Bandwidth
+530,299,NZ,New Zealand,64,Voyager Internet
+530,299,NZ,New Zealand,64,WXC
+530,999,NZ,New Zealand,64,Fix Line
+525,01,SG,Singapore,65,SingTel
+525,02,SG,Singapore,65,SingTel
+525,03,SG,Singapore,65,M1
+525,05,SG,Singapore,65,Starhub
+525,06,SG,Singapore,65,Starhub
+525,07,SG,Singapore,65,SingTel
+525,08,SG,Singapore,65,Starhub
+525,09,SG,Singapore,65,Circles.Life
+525,10,SG,Singapore,65,TPG Telecom
+525,11,SG,Singapore,65,M1
+525,12,SG,Singapore,65,GRID
+525,299,SG,Singapore,65,Failed Calls
+525,299,SG,Singapore,65,MyRepublic
+525,299,SG,Singapore,65,Nexwave
+525,299,SG,Singapore,65,Smart Pinoy
+525,299,SG,Singapore,65,VivoBee
+525,299,SG,Singapore,65,Zero1
+525,299,SG,Singapore,65,redONE
+525,999,SG,Singapore,65,Fix Line
+520,00,TH,Thailand,66,my
+520,01,TH,Thailand,66,AIS
+520,03,TH,Thailand,66,AIS
+520,04,TH,Thailand,66,TrueMove H
+520,05,TH,Thailand,66,dtac TriNet
+520,15,TH,Thailand,66,TOTmobile
+520,18,TH,Thailand,66,dtac
+520,47,TH,Thailand,66,TOTmobile
+520,299,TH,Thailand,66,Failed Calls
+520,999,TH,Thailand,66,Fix Line
+250,01,RU,Russia,79,MTS
+250,02,RU,Russia,79,Megafon
+250,09,RU,Russia,79,Skylink
+250,11,RU,Russia,79,Yota
+250,12,RU,Russia,79,Tele2
+250,20,RU,Russia,79,Tele2
+250,32,RU,Russia,79,Win Mobile
+250,33,RU,Russia,79,SEVTELECOM
+250,34,RU,Russia,79,Krymtelecom
+250,35,RU,Russia,79,Motiv
+250,42,RU,Russia,79,MTT
+250,48,RU,Russia,79,Global Telecom
+250,54,RU,Russia,79,Letai Mobile
+250,55,RU,Russia,79,Glonass
+250,57,RU,Russia,79,Matrix Mobile
+250,60,RU,Russia,79,Volna Mobile
+250,77,RU,Russia,79,Glonass
+250,99,RU,Russia,79,Beeline
+250,299,RU,Russia,79,ASVT
+250,299,RU,Russia,79,Antares
+250,299,RU,Russia,79,Arktur
+250,299,RU,Russia,79,Astran
+250,299,RU,Russia,79,Aurora Telecom
+250,299,RU,Russia,79,BIT-CENTR
+250,299,RU,Russia,79,Beliton
+250,299,RU,Russia,79,Center 2M
+250,299,RU,Russia,79,Cifra 1
+250,299,RU,Russia,79,CountryCom
+250,299,RU,Russia,79,ECO Networks
+250,299,RU,Russia,79,ER-Telecom
+250,299,RU,Russia,79,Elemte
+250,299,RU,Russia,79,Failed Calls
+250,299,RU,Russia,79,GLONASS MOBILE
+250,299,RU,Russia,79,Gazprom Telecom
+250,299,RU,Russia,79,Integral
+250,299,RU,Russia,79,Internod
+250,299,RU,Russia,79,Intersvyaz-2
+250,299,RU,Russia,79,KvatroPlus
+250,299,RU,Russia,79,Lardex
+250,299,RU,Russia,79,Lycamobile
+250,299,RU,Russia,79,MGTS
+250,299,RU,Russia,79,MOSTELECOM
+250,299,RU,Russia,79,MSN Telekom
+250,299,RU,Russia,79,Media-Market
+250,299,RU,Russia,79,Metro-Pei
+250,299,RU,Russia,79,Miatel
+250,299,RU,Russia,79,NCI
+250,299,RU,Russia,79,NETBYNET
+250,299,RU,Russia,79,New Mobile Communications
+250,299,RU,Russia,79,OBIT
+250,299,RU,Russia,79,Orange Business Services
+250,299,RU,Russia,79,PIN
+250,299,RU,Russia,79,Plintron
+250,299,RU,Russia,79,Quantech
+250,299,RU,Russia,79,RECONN
+250,299,RU,Russia,79,Reteyl Innovatsii
+250,299,RU,Russia,79,Sberbank-Telecom
+250,299,RU,Russia,79,Sim Sim
+250,299,RU,Russia,79,Sintonik
+250,299,RU,Russia,79,Sky Networks
+250,299,RU,Russia,79,SkyNet
+250,299,RU,Russia,79,Sonet
+250,299,RU,Russia,79,Sprint
+250,299,RU,Russia,79,Start
+250,299,RU,Russia,79,SunSIM
+250,299,RU,Russia,79,Surgutneftegaz
+250,299,RU,Russia,79,Svyazresurs-Mobile
+250,299,RU,Russia,79,TMT
+250,299,RU,Russia,79,TRASTEL
+250,299,RU,Russia,79,TRN-telecom
+250,299,RU,Russia,79,TTK
+250,299,RU,Russia,79,TTK-Svyaz
+250,299,RU,Russia,79,TVE
+250,299,RU,Russia,79,Tander
+250,299,RU,Russia,79,Tinkoff Mobile
+250,299,RU,Russia,79,TransMobilCom
+250,299,RU,Russia,79,UnitTelecom
+250,299,RU,Russia,79,Unycel
+250,299,RU,Russia,79,VTB Mobile
+250,299,RU,Russia,79,Vainah Telecom
+250,299,RU,Russia,79,ViKom
+250,299,RU,Russia,79,Virgin Connect
+250,299,RU,Russia,79,Voentelecom
+250,999,RU,Russia,79,Fix Line
+440,00,JP,Japan,81,SoftBank
+440,01,JP,Japan,81,SoftBank
+440,05,JP,Japan,81,SoftBank
+440,10,JP,Japan,81,NTT DoCoMo
+440,11,JP,Japan,81,Rakuten Mobile
+440,20,JP,Japan,81,SoftBank
+440,21,JP,Japan,81,SoftBank
+440,50,JP,Japan,81,KDDI
+440,51,JP,Japan,81,KDDI
+440,52,JP,Japan,81,KDDI
+440,53,JP,Japan,81,KDDI
+440,54,JP,Japan,81,KDDI
+440,70,JP,Japan,81,KDDI
+440,71,JP,Japan,81,KDDI
+440,72,JP,Japan,81,KDDI
+440,73,JP,Japan,81,KDDI
+440,74,JP,Japan,81,KDDI
+440,75,JP,Japan,81,KDDI
+440,76,JP,Japan,81,KDDI
+440,78,JP,Japan,81,Okinawa Cellular
+440,299,JP,Japan,81,Failed Calls
+440,999,JP,Japan,81,Fix Line
+450,02,KR,South Korea,82,olleh / KT
+450,04,KR,South Korea,82,olleh / KT
+450,05,KR,South Korea,82,SK Telecom
+450,06,KR,South Korea,82,LG U+
+450,07,KR,South Korea,82,KT Powertel
+450,08,KR,South Korea,82,olleh / KT
+450,11,KR,South Korea,82,SK Telecom
+450,12,KR,South Korea,82,SK Telecom
+450,299,KR,South Korea,82,Failed Calls
+450,999,KR,South Korea,82,Fix Line
+452,01,VN,Vietnam,84,MobiFone
+452,02,VN,Vietnam,84,VinaPhone
+452,04,VN,Vietnam,84,Viettel
+452,05,VN,Vietnam,84,Vietnamobile
+452,06,VN,Vietnam,84,Viettel
+452,07,VN,Vietnam,84,Gmobile
+452,08,VN,Vietnam,84,I-Telecom
+452,09,VN,Vietnam,84,Reddi
+452,299,VN,Vietnam,84,Failed Calls
+452,999,VN,Vietnam,84,Fix Line
+460,00,CN,China,86,China Mobile
+460,01,CN,China,86,China Unicom
+460,02,CN,China,86,China Mobile
+460,03,CN,China,86,China Telecom
+460,04,CN,China,86,China Mobile
+460,06,CN,China,86,China Unicom
+460,07,CN,China,86,China Mobile
+460,08,CN,China,86,China Mobile
+460,09,CN,China,86,China Unicom
+460,10,CN,China,86,China Unicom
+460,11,CN,China,86,China Telecom
+460,12,CN,China,86,China Telecom
+460,299,CN,China,86,Failed Calls
+460,999,CN,China,86,Fix Line
+286,01,TR,Turkiye,90,Turkcell
+286,02,TR,Turkiye,90,Vodafone
+286,03,TR,Turkiye,90,Avea
+286,04,TR,Turkiye,90,Avea
+286,299,TR,Turkiye,90,Asistan Telekom
+286,299,TR,Turkiye,90,BasakCell
+286,299,TR,Turkiye,90,Compatel
+286,299,TR,Turkiye,90,Fenix Telekom
+286,299,TR,Turkiye,90,Foniva
+286,299,TR,Turkiye,90,IsNet
+286,299,TR,Turkiye,90,Maxiphone
+286,299,TR,Turkiye,90,Medium Telekom
+286,299,TR,Turkiye,90,Mobilisim
+286,299,TR,Turkiye,90,Netgsm
+286,299,TR,Turkiye,90,Nida
+286,299,TR,Turkiye,90,Oris
+286,299,TR,Turkiye,90,Pelicell
+286,299,TR,Turkiye,90,Plus Telekom
+286,299,TR,Turkiye,90,Roitel
+286,299,TR,Turkiye,90,SesNet
+286,299,TR,Turkiye,90,TCDD
+286,299,TR,Turkiye,90,TTM
+286,999,TR,Turkiye,90,Fix Line
+404,01,IN,India,91,Vodafone
+404,02,IN,India,91,Airtel
+404,03,IN,India,91,Airtel
+404,04,IN,India,91,Idea
+404,05,IN,India,91,Vodafone
+404,06,IN,India,91,Airtel
+404,07,IN,India,91,Idea
+404,08,IN,India,91,Reliance Mobile
+404,09,IN,India,91,Reliance Mobile
+404,10,IN,India,91,Airtel
+404,11,IN,India,91,Vodafone
+404,12,IN,India,91,Idea
+404,13,IN,India,91,Vodafone
+404,14,IN,India,91,Idea
+404,15,IN,India,91,Vodafone
+404,16,IN,India,91,Airtel
+404,17,IN,India,91,Aircel
+404,18,IN,India,91,Reliance Mobile
+404,19,IN,India,91,Idea
+404,20,IN,India,91,Vodafone
+404,21,IN,India,91,Loop Mobile
+404,22,IN,India,91,Idea
+404,23,IN,India,91,Reliance Mobile
+404,24,IN,India,91,Idea
+404,25,IN,India,91,Aircel
+404,27,IN,India,91,Vodafone
+404,28,IN,India,91,Aircel
+404,29,IN,India,91,Aircel
+404,30,IN,India,91,Vodafone
+404,31,IN,India,91,Airtel
+404,33,IN,India,91,Aircel
+404,34,IN,India,91,BSNL Mobile
+404,35,IN,India,91,Aircel
+404,36,IN,India,91,Reliance Mobile
+404,37,IN,India,91,Aircel
+404,38,IN,India,91,BSNL Mobile
+404,41,IN,India,91,Aircel
+404,42,IN,India,91,Aircel
+404,43,IN,India,91,Vodafone
+404,44,IN,India,91,Idea
+404,46,IN,India,91,Vodafone
+404,49,IN,India,91,Airtel
+404,50,IN,India,91,Reliance Mobile
+404,51,IN,India,91,BSNL Mobile
+404,52,IN,India,91,Reliance Mobile
+404,53,IN,India,91,BSNL Mobile
+404,54,IN,India,91,BSNL Mobile
+404,55,IN,India,91,BSNL Mobile
+404,56,IN,India,91,Idea
+404,57,IN,India,91,BSNL Mobile
+404,58,IN,India,91,BSNL Mobile
+404,59,IN,India,91,BSNL Mobile
+404,60,IN,India,91,Vodafone
+404,62,IN,India,91,BSNL Mobile
+404,64,IN,India,91,BSNL Mobile
+404,66,IN,India,91,BSNL Mobile
+404,67,IN,India,91,Reliance Mobile
+404,68,IN,India,91,Garuda
+404,69,IN,India,91,Dolphin
+404,70,IN,India,91,Airtel
+404,71,IN,India,91,BSNL Mobile
+404,72,IN,India,91,BSNL Mobile
+404,73,IN,India,91,BSNL Mobile
+404,74,IN,India,91,BSNL Mobile
+404,75,IN,India,91,BSNL Mobile
+404,76,IN,India,91,BSNL Mobile
+404,77,IN,India,91,BSNL Mobile
+404,78,IN,India,91,Idea
+404,80,IN,India,91,BSNL Mobile
+404,81,IN,India,91,BSNL Mobile
+404,82,IN,India,91,Idea
+404,83,IN,India,91,Reliance Mobile
+404,84,IN,India,91,Vodafone
+404,85,IN,India,91,Reliance Mobile
+404,86,IN,India,91,Vodafone
+404,87,IN,India,91,Idea
+404,88,IN,India,91,Vodafone
+404,89,IN,India,91,Idea
+404,90,IN,India,91,Airtel
+404,91,IN,India,91,Aircel
+404,92,IN,India,91,Airtel
+404,93,IN,India,91,Airtel
+404,94,IN,India,91,Airtel
+404,95,IN,India,91,Airtel
+404,96,IN,India,91,Airtel
+404,97,IN,India,91,Airtel
+404,98,IN,India,91,Airtel
+404,299,IN,India,91,Failed Calls
+404,845,IN,India,91,Idea
+404,846,IN,India,91,Idea
+404,848,IN,India,91,Idea
+404,849,IN,India,91,Idea
+404,850,IN,India,91,Idea
+404,852,IN,India,91,Idea
+404,853,IN,India,91,Idea
+404,854,IN,India,91,Jio
+404,855,IN,India,91,Jio
+404,856,IN,India,91,Jio
+404,857,IN,India,91,Jio
+404,858,IN,India,91,Jio
+404,859,IN,India,91,Jio
+404,860,IN,India,91,Jio
+404,861,IN,India,91,Jio
+404,862,IN,India,91,Jio
+404,863,IN,India,91,Jio
+404,864,IN,India,91,Jio
+404,865,IN,India,91,Jio
+404,866,IN,India,91,Jio
+404,867,IN,India,91,Jio
+404,868,IN,India,91,Jio
+404,869,IN,India,91,Jio
+404,870,IN,India,91,Jio
+404,871,IN,India,91,Jio
+404,872,IN,India,91,Jio
+404,873,IN,India,91,Jio
+404,874,IN,India,91,Jio
+404,999,IN,India,91,Fix Line
+410,01,PK,Pakistan,92,Jazz
+410,03,PK,Pakistan,92,Ufone
+410,04,PK,Pakistan,92,Zong
+410,05,PK,Pakistan,92,SCOM
+410,06,PK,Pakistan,92,Telenor
+410,07,PK,Pakistan,92,Jazz
+410,299,PK,Pakistan,92,Failed Calls
+410,299,PK,Pakistan,92,Warid
+410,999,PK,Pakistan,92,Fix Line
+412,01,AF,Afghanistan,93,AWCC
+412,20,AF,Afghanistan,93,Roshan
+412,40,AF,Afghanistan,93,MTN
+412,50,AF,Afghanistan,93,Etisalat
+412,80,AF,Afghanistan,93,Mobifone
+412,88,AF,Afghanistan,93,Mobifone
+412,299,AF,Afghanistan,93,Failed Calls
+412,999,AF,Afghanistan,93,Fix Line
+413,01,LK,Sri Lanka,94,Mobitel
+413,02,LK,Sri Lanka,94,Dialog
+413,05,LK,Sri Lanka,94,Airtel
+413,08,LK,Sri Lanka,94,Hutch
+413,299,LK,Sri Lanka,94,Failed Calls
+413,999,LK,Sri Lanka,94,Fix Line
+414,00,MM,Myanmar,95,MPT
+414,01,MM,Myanmar,95,MPT
+414,03,MM,Myanmar,95,MecTel
+414,05,MM,Myanmar,95,Ooredoo
+414,06,MM,Myanmar,95,Telenor
+414,09,MM,Myanmar,95,Mytel
+414,999,MM,Myanmar,95,Failed Calls
+414,999,MM,Myanmar,95,Fix Line
+432,01,IR,Iran,98,SamanTel
+432,08,IR,Iran,98,Shatel Mobile
+432,11,IR,Iran,98,MCI
+432,14,IR,Iran,98,Telekish
+432,19,IR,Iran,98,MTCE
+432,20,IR,Iran,98,RighTel
+432,32,IR,Iran,98,Taliya
+432,35,IR,Iran,98,MTN IranCell
+432,299,IR,Iran,98,Anarestan
+432,299,IR,Iran,98,ApTel
+432,299,IR,Iran,98,Arian Tel
+432,299,IR,Iran,98,Failed Calls
+432,299,IR,Iran,98,LotusTel
+432,999,IR,Iran,98,Fix Line
+604,00,MA,Morocco,212,Orange
+604,01,MA,Morocco,212,IAM
+604,02,MA,Morocco,212,inwi
+604,05,MA,Morocco,212,inwi
+604,299,MA,Morocco,212,Failed Calls
+604,999,MA,Morocco,212,Fix Line
+603,01,DZ,Algeria,213,Mobilis
+603,02,DZ,Algeria,213,Djezzy
+603,03,DZ,Algeria,213,Ooredoo
+603,299,DZ,Algeria,213,Failed Calls
+603,999,DZ,Algeria,213,Fix Line
+605,01,TN,Tunisia,216,Orange
+605,02,TN,Tunisia,216,TT Mobile
+605,03,TN,Tunisia,216,Ooredoo
+605,06,TN,Tunisia,216,Lycamobile
+605,299,TN,Tunisia,216,Failed Calls
+605,999,TN,Tunisia,216,Fix Line
+606,00,LY,Libya,218,Libyana
+606,01,LY,Libya,218,Al-Madar
+606,03,LY,Libya,218,LibyaPhone Mobile
+606,299,LY,Libya,218,Failed Calls
+606,999,LY,Libya,218,Fix Line
+607,01,GM,Gambia,220,Gamcel
+607,02,GM,Gambia,220,Africel
+607,03,GM,Gambia,220,Comium
+607,04,GM,Gambia,220,QCell
+607,299,GM,Gambia,220,Failed Calls
+607,999,GM,Gambia,220,Fix Line
+608,01,SN,Senegal,221,Orange
+608,02,SN,Senegal,221,Free
+608,03,SN,Senegal,221,Expresso
+608,04,SN,Senegal,221,HAYO
+608,299,SN,Senegal,221,2s Mobile
+608,299,SN,Senegal,221,Failed Calls
+608,299,SN,Senegal,221,Promobile
+608,999,SN,Senegal,221,Fix Line
+609,01,MR,Mauritania,222,Mattel
+609,02,MR,Mauritania,222,Chinguitel
+609,10,MR,Mauritania,222,Mauritel
+609,299,MR,Mauritania,222,Failed Calls
+609,999,MR,Mauritania,222,Fix Line
+610,01,ML,Mali,223,Malitel
+610,02,ML,Mali,223,Orange
+610,03,ML,Mali,223,Telecel
+610,299,ML,Mali,223,Failed Calls
+610,999,ML,Mali,223,Fix Line
+611,01,GN,Guinea,224,Orange
+611,04,GN,Guinea,224,MTN
+611,05,GN,Guinea,224,Cellcom
+611,299,GN,Guinea,224,Failed Calls
+611,999,GN,Guinea,224,Fix Line
+612,02,CI,Ivory Coast,225,Moov
+612,03,CI,Ivory Coast,225,Orange
+612,05,CI,Ivory Coast,225,MTN
+612,299,CI,Ivory Coast,225,Failed Calls
+612,999,CI,Ivory Coast,225,Fix Line
+613,01,BF,Burkina Faso,226,Telmob
+613,02,BF,Burkina Faso,226,Orange
+613,03,BF,Burkina Faso,226,Telecel
+613,299,BF,Burkina Faso,226,Failed Calls
+613,999,BF,Burkina Faso,226,Fix Line
+614,01,NE,Niger,227,Niger Telecoms
+614,02,NE,Niger,227,Airtel
+614,03,NE,Niger,227,Moov
+614,04,NE,Niger,227,Orange
+614,299,NE,Niger,227,Failed Calls
+614,999,NE,Niger,227,Fix Line
+615,01,TG,Togo,228,Togo Cellulaire / TogoCel
+615,03,TG,Togo,228,Atlantique Telecom / Moov
+615,299,TG,Togo,228,Failed Calls
+615,999,TG,Togo,228,Fix Line
+616,02,BJ,Benin,229,Moov
+616,03,BJ,Benin,229,MTN
+616,299,BJ,Benin,229,Failed Calls
+616,999,BJ,Benin,229,Fix Line
+617,01,MU,Mauritius,230,my.t mobile
+617,02,MU,Mauritius,230,Chili
+617,03,MU,Mauritius,230,Chili
+617,10,MU,Mauritius,230,Emtel
+617,299,MU,Mauritius,230,Failed Calls
+617,999,MU,Mauritius,230,Fix Line
+618,01,LR,Liberia,231,MTN / Lonestar
+618,04,LR,Liberia,231,Novafone
+618,07,LR,Liberia,231,Orange
+618,299,LR,Liberia,231,Failed Calls
+618,999,LR,Liberia,231,Fix Line
+619,01,SL,Sierra Leone,232,Orange
+619,03,SL,Sierra Leone,232,Africell
+619,07,SL,Sierra Leone,232,Qcell
+619,299,SL,Sierra Leone,232,Failed Calls
+619,299,SL,Sierra Leone,232,IPTel
+619,299,SL,Sierra Leone,232,Onlime
+619,299,SL,Sierra Leone,232,SierraTel
+619,999,SL,Sierra Leone,232,Fix Line
+620,01,GH,Ghana,233,MTN
+620,02,GH,Ghana,233,Vodafone
+620,03,GH,Ghana,233,Airtel
+620,05,GH,Ghana,233,National Security
+620,06,GH,Ghana,233,Airtel
+620,07,GH,Ghana,233,Glo
+620,08,GH,Ghana,233,Surfline
+620,299,GH,Ghana,233,Comsys
+620,299,GH,Ghana,233,Failed Calls
+620,999,GH,Ghana,233,Fix Line
+621,20,NG,Nigeria,234,Airtel
+621,27,NG,Nigeria,234,Smile
+621,30,NG,Nigeria,234,MTN
+621,40,NG,Nigeria,234,ntel
+621,50,NG,Nigeria,234,Glo Mobile
+621,60,NG,Nigeria,234,9mobile
+621,299,NG,Nigeria,234,Alpha Technologies
+621,299,NG,Nigeria,234,Failed Calls
+621,299,NG,Nigeria,234,Zodafones
+621,999,NG,Nigeria,234,Fix Line
+622,01,TD,Chad,235,Airtel
+622,03,TD,Chad,235,Moov
+622,04,TD,Chad,235,Salam
+622,299,TD,Chad,235,Failed Calls
+622,999,TD,Chad,235,Fix Line
+623,01,CF,Central African Republic,236,Moov
+623,02,CF,Central African Republic,236,Telecel
+623,03,CF,Central African Republic,236,Orange
+623,04,CF,Central African Republic,236,Azur
+623,299,CF,Central African Republic,236,Failed Calls
+623,299,CF,Central African Republic,236,Socatel
+623,999,CF,Central African Republic,236,Fix Line
+624,01,CM,Cameroon,237,MTN
+624,02,CM,Cameroon,237,Orange
+624,04,CM,Cameroon,237,Nextel
+624,299,CM,Cameroon,237,Failed Calls
+624,999,CM,Cameroon,237,Fix Line
+625,01,CV,Cape Verde,238,CVMovel
+625,02,CV,Cape Verde,238,Unitel T+
+625,299,CV,Cape Verde,238,Failed Calls
+625,999,CV,Cape Verde,238,Fix Line
+626,01,ST,Sao Tome and Principe,239,CSTmovel
+626,02,ST,Sao Tome and Principe,239,Unitel
+626,299,ST,Sao Tome and Principe,239,Failed Calls
+626,999,ST,Sao Tome and Principe,239,Fix Line
+627,01,GQ,Equatorial Guinea,240,Orange
+627,03,GQ,Equatorial Guinea,240,Muni
+627,299,GQ,Equatorial Guinea,240,Failed Calls
+627,999,GQ,Equatorial Guinea,240,Fix Line
+628,01,GA,Gabon,241,Libertis
+628,03,GA,Gabon,241,Airtel
+628,299,GA,Gabon,241,Failed Calls
+628,999,GA,Gabon,241,Fix Line
+629,01,CG,Congo,242,Airtel
+629,07,CG,Congo,242,Warid
+629,10,CG,Congo,242,MTN
+629,299,CG,Congo,242,Failed Calls
+629,999,CG,Congo,242,Fix Line
+630,01,CD,Democratic Republic of Congo,243,Vodacom
+630,02,CD,Democratic Republic of Congo,243,Airtel
+630,05,CD,Democratic Republic of Congo,243,Supercell
+630,86,CD,Democratic Republic of Congo,243,Orange
+630,88,CD,Democratic Republic of Congo,243,Yozma Timeturns
+630,90,CD,Democratic Republic of Congo,243,Africell
+630,299,CD,Democratic Republic of Congo,243,Failed Calls
+630,299,CD,Democratic Republic of Congo,243,Tatem
+630,999,CD,Democratic Republic of Congo,243,Fix Line
+631,02,AO,Angola,244,Unitel
+631,04,AO,Angola,244,MoviCel
+631,299,AO,Angola,244,Failed Calls
+631,999,AO,Angola,244,Fix Line
+632,01,GW,Guinea-Bissau,245,Guinetel
+632,02,GW,Guinea-Bissau,245,MTN
+632,03,GW,Guinea-Bissau,245,Orange
+632,299,GW,Guinea-Bissau,245,Failed Calls
+632,999,GW,Guinea-Bissau,245,Fix	Line
+310,299,DG,Diego Garcia,246,Failed Calls
+310,299,DG,Diego Garcia,246,Sure
+310,999,DG,Diego Garcia,246,Fix Line
+633,01,SC,Seychelles,248,Cable & Wireless
+633,05,SC,Seychelles,248,Intelvision
+633,10,SC,Seychelles,248,Airtel
+633,299,SC,Seychelles,248,Failed Calls
+633,999,SC,Seychelles,248,Fix Line
+634,01,SD,Sudan,249,Zain
+634,02,SD,Sudan,249,MTN
+634,03,SD,Sudan,249,MTN
+634,06,SD,Sudan,249,Zain
+634,07,SD,Sudan,249,Sudani One
+634,299,SD,Sudan,249,Failed Calls
+634,999,SD,Sudan,249,Fix Line
+635,10,RW,Rwanda,250,MTN
+635,13,RW,Rwanda,250,Airtel
+635,299,RW,Rwanda,250,Failed Calls
+635,999,RW,Rwanda,250,Fix Line
+636,01,ET,Ethiopia,251,Ethio Mobile
+636,299,ET,Ethiopia,251,Failed Calls
+636,999,ET,Ethiopia,251,Fix Line
+637,01,SO,Somalia,252,Telesom
+637,04,SO,Somalia,252,Somafone
+637,10,SO,Somalia,252,Nationlink
+637,19,SO,Somalia,252,Hormuud
+637,30,SO,Somalia,252,Golis
+637,70,SO,Somalia,252,Onkod
+637,71,SO,Somalia,252,Somtel
+637,82,SO,Somalia,252,Telcom Mobile
+637,299,SO,Somalia,252,AirSom
+637,299,SO,Somalia,252,Failed Calls
+637,299,SO,Somalia,252,NETCO
+637,299,SO,Somalia,252,STG
+637,299,SO,Somalia,252,SomNetworks
+637,999,SO,Somalia,252,Fix Line
+638,01,DJ,Djibouti,253,Evatis
+638,299,DJ,Djibouti,253,Failed Calls
+638,999,DJ,Djibouti,253,Fix Line
+639,01,KE,Kenya,254,Safaricom
+639,02,KE,Kenya,254,Safaricom
+639,03,KE,Kenya,254,Airtel
+639,04,KE,Kenya,254,Mobile Pay
+639,05,KE,Kenya,254,Airtel
+639,06,KE,Kenya,254,Finserve Africa
+639,07,KE,Kenya,254,Telkom
+639,09,KE,Kenya,254,Homeland Media
+639,10,KE,Kenya,254,Jamii Telecommunications
+639,11,KE,Kenya,254,Jambo Telcoms
+639,12,KE,Kenya,254,Infura
+639,299,KE,Kenya,254,Failed Calls
+639,299,KE,Kenya,254,eferio
+639,999,KE,Kenya,254,Fix Line
+640,02,TZ,Tanzania,255,Tigo / MIC
+640,03,TZ,Tanzania,255,Zanzibar Telecom / Zantel
+640,04,TZ,Tanzania,255,Vodacom
+640,05,TZ,Tanzania,255,Airtel
+640,07,TZ,Tanzania,255,Tanzania Telecommunication Corporation
+640,09,TZ,Tanzania,255,Halotel / Viettel
+640,11,TZ,Tanzania,255,Smile Communications
+640,13,TZ,Tanzania,255,WiAfrica
+640,14,TZ,Tanzania,255,MO Mobile
+640,99,TZ,Tanzania,255,Mkulima African Telecommunication
+640,299,TZ,Tanzania,255,Failed Calls
+640,999,TZ,Tanzania,255,Fix Line
+641,01,UG,Uganda,256,Airtel
+641,04,UG,Uganda,256,Lycamobile
+641,10,UG,Uganda,256,MTN
+641,11,UG,Uganda,256,Mango
+641,22,UG,Uganda,256,Airtel
+641,33,UG,Uganda,256,Smile
+641,299,UG,Uganda,256,Failed Calls
+641,999,UG,Uganda,256,Fix Line
+642,01,BI,Burundi,257,Leo
+642,03,BI,Burundi,257,ONAMOB
+642,07,BI,Burundi,257,Smart
+642,08,BI,Burundi,257,Lumitel
+642,82,BI,Burundi,257,Leo
+642,999,BI,Burundi,257,Fix	Line
+643,01,MZ,Mozambique,258,TMCEL
+643,03,MZ,Mozambique,258,Movitel
+643,04,MZ,Mozambique,258,Vodacom
+643,299,MZ,Mozambique,258,Failed Calls
+643,999,MZ,Mozambique,258,Fix Line
+645,01,ZM,Zambia,260,Airtel
+645,02,ZM,Zambia,260,MTN
+645,03,ZM,Zambia,260,Zamtel
+645,299,ZM,Zambia,260,Failed Calls
+645,999,ZM,Zambia,260,Fix Line
+646,01,MG,Madagascar,261,Airtel
+646,02,MG,Madagascar,261,Orange
+646,04,MG,Madagascar,261,Telma
+646,299,MG,Madagascar,261,Bip
+646,299,MG,Madagascar,261,Failed Calls
+646,999,MG,Madagascar,261,Fix Line
+647,00,RE,Reunion,262,Orange
+647,02,RE,Reunion,262,Only
+647,03,RE,Reunion,262,Only
+647,04,RE,Reunion,262,ZEOP Mobile
+647,299,RE,Reunion,262,Failed Calls
+647,999,RE,Reunion,262,Fix Line
+647,01,YT,Mayotte,262,Maore Mobile
+647,10,YT,Mayotte,262,SFR
+647,299,YT,Mayotte,262,Failed Calls
+647,999,YT,Mayotte,262,Fix Line
+648,01,ZW,Zimbabwe,263,NetOne
+648,03,ZW,Zimbabwe,263,Telecel
+648,04,ZW,Zimbabwe,263,Econet
+648,299,ZW,Zimbabwe,263,Failed Calls
+648,999,ZW,Zimbabwe,263,Fix Line
+649,01,NA,Namibia,264,MTC
+649,03,NA,Namibia,264,TN Mobile
+649,299,NA,Namibia,264,Demshi
+649,299,NA,Namibia,264,Failed Calls
+649,999,NA,Namibia,264,Fix Line
+650,01,MW,Malawi,265,TNM
+650,10,MW,Malawi,265,Airtel
+650,299,MW,Malawi,265,Failed Calls
+650,999,MW,Malawi,265,Fix Line
+651,01,LS,Lesotho,266,Vodacom
+651,02,LS,Lesotho,266,Econet
+651,299,LS,Lesotho,266,Failed Calls
+651,999,LS,Lesotho,266,Fix Line
+652,01,BW,Botswana,267,Mascom
+652,02,BW,Botswana,267,Orange
+652,04,BW,Botswana,267,beMobile
+652,299,BW,Botswana,267,Failed Calls
+652,999,BW,Botswana,267,Fix Line
+653,01,SZ,Swaziland,268,EswatiniTelecom
+653,02,SZ,Swaziland,268,Eswatini Mobile
+653,10,SZ,Swaziland,268,Swazi MTN
+653,299,SZ,Swaziland,268,Failed Calls
+653,999,SZ,Swaziland,268,Fix Line
+654,01,KM,Comoros,269,HURI
+654,02,KM,Comoros,269,Telma
+654,299,KM,Comoros,269,Failed Calls
+654,999,KM,Comoros,269,Fix Line
+348,170,VG,British Virgin Islands,284,Flow
+348,299,VG,British Virgin Islands,284,Failed Calls
+348,570,VG,British Virgin Islands,284,CCT
+348,770,VG,British Virgin Islands,284,Digicel
+348,999,VG,British Virgin Islands,284,Fix Line
+658,299,SH,Saint Helena and Ascension and Tristan da Cunha,290,Failed Calls
+658,999,SH,Saint Helena and Ascension and Tristan da Cunha,290,Fix Line
+657,01,ER,Eritrea,291,Eritel
+657,299,ER,Eritrea,291,Failed Calls
+657,999,ER,Eritrea,291,Fix Line
+363,01,AW,Aruba,297,SETAR
+363,02,AW,Aruba,297,Digicel
+363,299,AW,Aruba,297,Failed Calls
+363,299,AW,Aruba,297,MIO
+363,999,AW,Aruba,297,Fix Line
+288,01,FO,Faroe Islands,298,Faroese Telecom
+288,02,FO,Faroe Islands,298,Hey / Kall
+288,03,FO,Faroe Islands,298,Tosa
+288,299,FO,Faroe Islands,298,Failed Calls
+288,999,FO,Faroe Islands,298,Fix Line
+290,01,GL,Greenland,299,Tele Greenland
+290,299,GL,Greenland,299,Failed Calls
+290,999,GL,Greenland,299,Fix Line
+266,01,GI,Gibraltar,350,Gibtel
+266,299,GI,Gibraltar,350,Failed Calls
+266,299,GI,Gibraltar,350,GibFibreSpeed
+266,999,GI,Gibraltar,350,Fix Line
+268,01,PT,Portugal,351,Vodafone
+268,03,PT,Portugal,351,NOS
+268,04,PT,Portugal,351,Lycamobile
+268,06,PT,Portugal,351,MEO
+268,08,PT,Portugal,351,MEO
+268,80,PT,Portugal,351,MEO
+268,91,PT,Portugal,351,Vodafone
+268,93,PT,Portugal,351,NOS
+268,299,PT,Portugal,351,Failed Calls
+268,299,PT,Portugal,351,NOWO
+268,299,PT,Portugal,351,Oni
+268,999,PT,Portugal,351,Fix Line
+410,299,PT,Portugal,351,Premium Numbers
+270,01,LU,Luxembourg,352,Post
+270,05,LU,Luxembourg,352,Luxembourg Online
+270,10,LU,Luxembourg,352,Blue Communications
+270,77,LU,Luxembourg,352,Tango
+270,81,LU,Luxembourg,352,e-LUX Mobile
+270,99,LU,Luxembourg,352,Orange
+270,299,LU,Luxembourg,352,Bouygues Telecom
+270,299,LU,Luxembourg,352,Eltrona
+270,299,LU,Luxembourg,352,Failed Calls
+270,299,LU,Luxembourg,352,MTX Connect
+270,999,LU,Luxembourg,352,Fix Line
+272,01,IE,Ireland,353,Vodafone
+272,02,IE,Ireland,353,3
+272,03,IE,Ireland,353,Meteor
+272,05,IE,Ireland,353,3
+272,07,IE,Ireland,353,Meteor
+272,08,IE,Ireland,353,Meteor
+272,11,IE,Ireland,353,Tesco Mobile
+272,13,IE,Ireland,353,Lycamobile
+272,15,IE,Ireland,353,Virgin Media
+272,17,IE,Ireland,353,3
+272,299,IE,Ireland,353,BT
+272,299,IE,Ireland,353,Cubic Telecom
+272,299,IE,Ireland,353,Failed Calls
+272,299,IE,Ireland,353,Net Feasa
+272,299,IE,Ireland,353,OGCIO
+272,999,IE,Ireland,353,Fix Line
+274,01,IS,Iceland,354,Siminn
+274,02,IS,Iceland,354,Vodafone
+274,03,IS,Iceland,354,Vodafone
+274,04,IS,Iceland,354,Viking Wireless
+274,08,IS,Iceland,354,Siminn
+274,11,IS,Iceland,354,NOVA
+274,12,IS,Iceland,354,Vodafone
+274,16,IS,Iceland,354,Tismi
+274,31,IS,Iceland,354,Siminn
+274,299,IS,Iceland,354,Failed Calls
+274,999,IS,Iceland,354,Fix Line
+276,01,AL,Albania,355,One / AMC
+276,02,AL,Albania,355,Vodafone
+276,03,AL,Albania,355,ALBtelecom Mobile / Eagle
+276,299,AL,Albania,355,Failed Calls
+276,999,AL,Albania,355,Fix Line
+278,01,MT,Malta,356,Vodafone
+278,21,MT,Malta,356,GO Mobile
+278,30,MT,Malta,356,GO Mobile
+278,77,MT,Malta,356,Melita
+278,299,MT,Malta,356,Failed Calls
+278,999,MT,Malta,356,Fix Line
+280,01,CY,Cyprus,357,Cytamobile-Vodafone
+280,02,CY,Cyprus,357,Cytamobile-Vodafone
+280,10,CY,Cyprus,357,Epic / MTN
+280,20,CY,Cyprus,357,PrimeTel
+280,22,CY,Cyprus,357,Cablenet / Lemontel
+280,299,CY,Cyprus,357,Failed Calls
+280,999,CY,Cyprus,357,Fix Line
+244,03,FI,Finland,358,DNA
+244,04,FI,Finland,358,DNA
+244,05,FI,Finland,358,Elisa
+244,06,FI,Finland,358,Elisa
+244,07,FI,Finland,358,NSN
+244,08,FI,Finland,358,NSN
+244,09,FI,Finland,358,NSN
+244,12,FI,Finland,358,DNA
+244,13,FI,Finland,358,DNA
+244,14,FI,Finland,358,Alcom
+244,15,FI,Finland,358,Telit
+244,21,FI,Finland,358,Elisa
+244,24,FI,Finland,358,Nord Connect
+244,26,FI,Finland,358,Compatel
+244,32,FI,Finland,358,Voxbone / Bandwidth
+244,33,FI,Finland,358,VIRVE
+244,35,FI,Finland,358,Ukko Mobile
+244,36,FI,Finland,358,Telia
+244,37,FI,Finland,358,Tismi
+244,38,FI,Finland,358,NSN
+244,39,FI,Finland,358,NSN
+244,40,FI,Finland,358,NSN
+244,41,FI,Finland,358,NSN
+244,42,FI,Finland,358,Viahub
+244,43,FI,Finland,358,Telavox
+244,45,FI,Finland,358,VIRVE
+244,46,FI,Finland,358,VIRVE
+244,47,FI,Finland,358,VIRVE
+244,91,FI,Finland,358,Telia
+244,299,FI,Finland,358,Benemen
+244,299,FI,Finland,358,Cuuma
+244,299,FI,Finland,358,Failed Calls
+244,299,FI,Finland,358,IPIFY
+244,299,FI,Finland,358,Lancelot
+244,299,FI,Finland,358,MI Carrier Services
+244,299,FI,Finland,358,MobiWeb
+244,299,FI,Finland,358,RAILI
+244,299,FI,Finland,358,TravelSim
+244,299,FI,Finland,358,Twilio
+244,299,FI,Finland,358,interactive digital media / IDM
+244,999,FI,Finland,358,Fix Line
+284,01,BG,Bulgaria,359,A1
+284,03,BG,Bulgaria,359,Vivacom
+284,05,BG,Bulgaria,359,Telenor
+284,11,BG,Bulgaria,359,Bulsatcom
+284,13,BG,Bulgaria,359,T.com
+284,299,BG,Bulgaria,359,Failed Calls
+284,999,BG,Bulgaria,359,Fix Line
+246,01,LT,Lithuania,370,Telia
+246,02,LT,Lithuania,370,Bite
+246,03,LT,Lithuania,370,Tele2
+246,05,LT,Lithuania,370,LTG
+246,06,LT,Lithuania,370,Mediafon
+246,299,LT,Lithuania,370,Failed Calls
+246,299,LT,Lithuania,370,SkyCall
+246,299,LT,Lithuania,370,Teletel
+247,01,LV,Latvia,371,LMT
+247,02,LV,Latvia,371,Tele2
+247,03,LV,Latvia,371,TRIATEL
+247,04,LV,Latvia,371,Tet
+247,05,LV,Latvia,371,Bite
+247,08,LV,Latvia,371,VENTA Mobile
+247,09,LV,Latvia,371,XOmobile
+247,10,LV,Latvia,371,LMT
+247,299,LV,Latvia,371,Failed Calls
+247,299,LV,Latvia,371,Premium Numbers
+247,999,LV,Latvia,371,Fix Line
+248,01,EE,Estonia,372,Telia
+248,02,EE,Estonia,372,Elisa
+248,03,EE,Estonia,372,Tele2
+248,04,EE,Estonia,372,TravelSim
+248,13,EE,Estonia,372,Telia
+248,299,EE,Estonia,372,Failed Calls
+248,999,EE,Estonia,372,Fix Line
+259,01,MD,Moldova,373,Orange
+259,02,MD,Moldova,373,Moldcell
+259,03,MD,Moldova,373,Unite
+259,05,MD,Moldova,373,Unite
+259,99,MD,Moldova,373,Unite
+259,299,MD,Moldova,373,Failed Calls
+283,01,AM,Armenia,374,Beeline
+283,04,AM,Armenia,374,KT
+283,05,AM,Armenia,374,Viva-MTS
+283,10,AM,Armenia,374,Orange
+283,299,AM,Armenia,374,Failed Calls
+283,999,AM,Armenia,374,Fix Line
+257,01,BY,Belarus,375,velcom A1
+257,02,BY,Belarus,375,MTS
+257,04,BY,Belarus,375,life:)
+257,299,BY,Belarus,375,Failed Calls
+257,999,BY,Belarus,375,Fix Line
+213,03,AD,Andorra,376,Andorra Telecom / Mobiland
+213,299,AD,Andorra,376,Failed Calls
+213,999,AD,Andorra,376,Fix Line
+212,01,MC,Monaco,377,Monaco Telecom
+212,10,MC,Monaco,377,Monaco Telecom
+212,299,MC,Monaco,377,Failed Calls
+212,999,MC,Monaco,377,Fix Line
+292,01,SM,San Marino,378,Prima
+292,299,SM,San Marino,378,Failed Calls
+292,299,SM,San Marino,378,TeleneT
+292,999,SM,San Marino,378,Fix Line
+255,01,UA,Ukraine,380,Vodafone
+255,02,UA,Ukraine,380,Kyivstar
+255,03,UA,Ukraine,380,Kyivstar
+255,04,UA,Ukraine,380,IT
+255,06,UA,Ukraine,380,lifecell
+255,07,UA,Ukraine,380,3Mob
+255,21,UA,Ukraine,380,PEOPLEnet
+255,99,UA,Ukraine,380,Phoenix
+255,299,UA,Ukraine,380,Failed Calls
+255,999,UA,Ukraine,380,Fix Line
+220,01,RS,Serbia,381,Telenor
+220,03,RS,Serbia,381,MTS
+220,05,RS,Serbia,381,VIP
+220,11,RS,Serbia,381,Globaltel
+220,20,RS,Serbia,381,VIP
+220,299,RS,Serbia,381,Failed Calls
+220,999,RS,Serbia,381,Fix Line
+297,01,ME,Montenegro,382,Telenor
+297,02,ME,Montenegro,382,Telekom / T-mobile
+297,03,ME,Montenegro,382,Mtel
+297,299,ME,Montenegro,382,Failed Calls
+297,999,ME,Montenegro,382,Fix Line
+221,01,XK,Kosovo,383,Vala
+221,02,XK,Kosovo,383,IPKO
+221,07,XK,Kosovo,383,D3 mobile
+221,299,XK,Kosovo,383,Failed Calls
+221,299,XK,Kosovo,383,MTS
+221,999,XK,Kosovo,383,Fix Line
+219,01,HR,Croatia,385,T-Mobile
+219,02,HR,Croatia,385,Telemach / Tele2
+219,10,HR,Croatia,385,A1 / VIP
+219,12,HR,Croatia,385,TELE FOCUS
+219,299,HR,Croatia,385,Failed Calls
+219,999,HR,Croatia,385,Fix Line
+293,10,SI,Slovenia,386,Slovenske zeleznice
+293,20,SI,Slovenia,386,Compatel
+293,40,SI,Slovenia,386,A1 / Si.mobil
+293,41,SI,Slovenia,386,Mobitel
+293,64,SI,Slovenia,386,T-2
+293,70,SI,Slovenia,386,Telemach / Tusmobil
+293,86,SI,Slovenia,386,Elektro Gorenjska
+293,299,SI,Slovenia,386,Failed Calls
+293,299,SI,Slovenia,386,HOT mobil
+293,299,SI,Slovenia,386,Me2
+293,299,SI,Slovenia,386,Novatel
+293,299,SI,Slovenia,386,SoftNET
+293,999,SI,Slovenia,386,Fix Line
+218,03,BA,Bosnia and Herzegovina,387,Eronet
+218,05,BA,Bosnia and Herzegovina,387,m:tel
+218,90,BA,Bosnia and Herzegovina,387,BH Mobile
+218,299,BA,Bosnia and Herzegovina,387,Failed Calls
+218,999,BA,Bosnia and Herzegovina,387,Fix Line
+259,999,MK,North Macedonia,389,Fix Line
+294,01,MK,North Macedonia,389,Telekom
+294,02,MK,North Macedonia,389,A1
+294,03,MK,North Macedonia,389,A1
+294,04,MK,North Macedonia,389,Lycamobile
+294,11,MK,North Macedonia,389,Mobik
+294,299,MK,North Macedonia,389,Failed Calls
+294,299,MK,North Macedonia,389,LATRON
+294,299,MK,North Macedonia,389,Telekabel
+294,999,MK,North Macedonia,389,Fix Line
+230,01,CZ,Czech Republic,420,T-Mobile
+230,02,CZ,Czech Republic,420,O2
+230,03,CZ,Czech Republic,420,Vodafone
+230,04,CZ,Czech Republic,420,Nordic Telecom
+230,05,CZ,Czech Republic,420,PODA
+230,07,CZ,Czech Republic,420,T-Mobile
+230,08,CZ,Czech Republic,420,Compatel
+230,09,CZ,Czech Republic,420,Uniphone
+230,98,CZ,Czech Republic,420,SZDC
+230,299,CZ,Czech Republic,420,+4U Mobile
+230,299,CZ,Czech Republic,420,3ton
+230,299,CZ,Czech Republic,420,CEZ
+230,299,CZ,Czech Republic,420,Dragon
+230,299,CZ,Czech Republic,420,EriMobile
+230,299,CZ,Czech Republic,420,Failed Calls
+230,299,CZ,Czech Republic,420,Fayn
+230,299,CZ,Czech Republic,420,GoMobil
+230,299,CZ,Czech Republic,420,Laudatio
+230,299,CZ,Czech Republic,420,METRONET
+230,299,CZ,Czech Republic,420,MOBIL21
+230,299,CZ,Czech Republic,420,NETBOX Mobil
+230,299,CZ,Czech Republic,420,Nej Mobil
+230,299,CZ,Czech Republic,420,Odorik
+230,299,CZ,Czech Republic,420,SAZKA
+230,299,CZ,Czech Republic,420,SZDC
+230,299,CZ,Czech Republic,420,TOPefekt
+230,299,CZ,Czech Republic,420,TT Quality
+230,299,CZ,Czech Republic,420,Tesco Mobile
+230,299,CZ,Czech Republic,420,Uniphone
+230,299,CZ,Czech Republic,420,ha-loo mobil
+230,999,CZ,Czech Republic,420,Fix Line
+231,01,SK,Slovakia,421,Orange
+231,02,SK,Slovakia,421,Telekom
+231,03,SK,Slovakia,421,Swan / 4ka
+231,04,SK,Slovakia,421,Telekom
+231,05,SK,Slovakia,421,Orange
+231,06,SK,Slovakia,421,O2
+231,07,SK,Slovakia,421,Orange
+231,08,SK,Slovakia,421,Uniphone
+231,50,SK,Slovakia,421,Telekom
+231,99,SK,Slovakia,421,ZSR
+231,299,SK,Slovakia,421,Failed Calls
+231,299,SK,Slovakia,421,Vonage
+231,999,SK,Slovakia,421,Fix Line
+246,999,LI,Liechtenstein,423,Fix Line
+295,01,LI,Liechtenstein,423,FL GSM
+295,02,LI,Liechtenstein,423,7acht
+295,05,LI,Liechtenstein,423,FL1
+295,06,LI,Liechtenstein,423,CUBIC
+295,09,LI,Liechtenstein,423,EMnify
+295,299,LI,Liechtenstein,423,Datamobile
+295,299,LI,Liechtenstein,423,Dimoco
+295,299,LI,Liechtenstein,423,Failed Calls
+295,299,LI,Liechtenstein,423,SORACOM
+295,299,LI,Liechtenstein,423,Telna
+295,999,LI,Liechtenstein,423,Fix Line
+750,001,FK,Falkland Islands,500,Sure
+750,299,FK,Falkland Islands,500,Failed Calls
+750,999,FK,Falkland Islands,500,Fix Line
+702,67,BZ,Belize,501,DigiCell
+702,69,BZ,Belize,501,Smart
+702,099,BZ,Belize,501,Smart
+702,299,BZ,Belize,501,Failed Calls
+702,999,BZ,Belize,501,Fix Line
+704,01,GT,Guatemala,502,Claro
+704,02,GT,Guatemala,502,Tigo
+704,03,GT,Guatemala,502,Movistar
+704,299,GT,Guatemala,502,Failed Calls
+704,999,GT,Guatemala,502,Fix Line
+706,01,SV,El Salvador,503,Claro
+706,02,SV,El Salvador,503,Digicel
+706,03,SV,El Salvador,503,Tigo
+706,04,SV,El Salvador,503,Movistar
+706,05,SV,El Salvador,503,RED
+706,299,SV,El Salvador,503,Failed Calls
+706,999,SV,El Salvador,503,Fix Line
+708,001,HN,Honduras,504,Claro
+708,01,HN,Honduras,504,Claro
+708,02,HN,Honduras,504,Tigo
+708,002,HN,Honduras,504,Tigo
+708,030,HN,Honduras,504,HonduTel
+708,30,HN,Honduras,504,HonduTel
+708,299,HN,Honduras,504,Failed Calls
+708,999,HN,Honduras,504,Fix Line
+710,21,NI,Nicaragua,505,Claro
+710,30,NI,Nicaragua,505,Movistar
+710,73,NI,Nicaragua,505,Claro
+710,299,NI,Nicaragua,505,CooTel
+710,299,NI,Nicaragua,505,Failed Calls
+710,999,NI,Nicaragua,505,Fix Line
+712,01,CR,Costa Rica,506,Kolbi / ICE
+712,02,CR,Costa Rica,506,Kolbi / ICE
+712,03,CR,Costa Rica,506,Claro
+712,04,CR,Costa Rica,506,Movistar
+712,299,CR,Costa Rica,506,Failed Calls
+712,299,CR,Costa Rica,506,MultiCom
+712,299,CR,Costa Rica,506,Tuyo Movil
+712,299,CR,Costa Rica,506,racsa
+712,999,CR,Costa Rica,506,Fix Line
+714,01,PA,Panama,507,+Movil
+714,02,PA,Panama,507,Movistar
+714,03,PA,Panama,507,Claro
+714,04,PA,Panama,507,Digicel
+714,020,PA,Panama,507,Movistar
+714,299,PA,Panama,507,Failed Calls
+714,999,PA,Panama,507,Fix Line
+308,01,PM,Saint Pierre and Miquelon,508,Ameris
+308,02,PM,Saint Pierre and Miquelon,508,Globaltel
+308,03,PM,Saint Pierre and Miquelon,508,Ameris
+308,299,PM,Saint Pierre and Miquelon,508,Failed Calls
+308,999,PM,Saint Pierre and Miquelon,508,Fix Line
+372,02,HT,Haiti,509,Digicel
+372,03,HT,Haiti,509,Natcom
+372,299,HT,Haiti,509,Failed Calls
+372,999,HT,Haiti,509,Fix Line
+736,01,BO,Bolivia,591,Viva
+736,02,BO,Bolivia,591,Entel Movil
+736,03,BO,Bolivia,591,Tigo
+736,299,BO,Bolivia,591,Failed Calls
+736,999,BO,Bolivia,591,Fix Line
+738,01,GY,Guyana,592,Digicel
+738,02,GY,Guyana,592,Cellink
+738,299,GY,Guyana,592,Failed Calls
+738,999,GY,Guyana,592,Fix Line
+740,00,EC,Ecuador,593,Movistar
+740,01,EC,Ecuador,593,Claro
+740,02,EC,Ecuador,593,CNT movil
+740,299,EC,Ecuador,593,Failed Calls
+740,999,EC,Ecuador,593,Fix Line
+340,01,GF,Guadeloupe and Martinique and French Guiana,594,Orange
+340,02,GF,Guadeloupe and Martinique and French Guiana,594,SFR
+340,04,GF,Guadeloupe and Martinique and French Guiana,594,Free
+340,08,GF,Guadeloupe and Martinique and French Guiana,594,Amigo
+340,20,GF,Guadeloupe and Martinique and French Guiana,594,Digicel
+340,299,GF,Guadeloupe and Martinique and French Guiana,594,Failed Calls
+340,999,GF,Guadeloupe and Martinique and French Guiana,594,Fix Line
+744,01,PY,Paraguay,595,VOX
+744,02,PY,Paraguay,595,Claro
+744,03,PY,Paraguay,595,Personal
+744,04,PY,Paraguay,595,Tigo
+744,299,PY,Paraguay,595,Failed Calls
+744,999,PY,Paraguay,595,Fix Line
+746,02,SR,Suriname,597,Telesur
+746,03,SR,Suriname,597,Digicel
+746,299,SR,Suriname,597,Failed Calls
+746,999,SR,Suriname,597,Fix Line
+748,01,UY,Uruguay,598,Antel Movil
+748,07,UY,Uruguay,598,Movistar
+748,10,UY,Uruguay,598,Claro
+748,299,UY,Uruguay,598,Failed Calls
+748,999,UY,Uruguay,598,Fix Line
+362,51,AN,Netherlands Antilles,599,TelCell
+362,69,AN,Netherlands Antilles,599,Digicel
+362,91,AN,Netherlands Antilles,599,Chippie
+362,299,AN,Netherlands Antilles,599,Failed Calls
+362,299,AN,Netherlands Antilles,599,Premium Numbers
+362,999,AN,Netherlands Antilles,599,Fix Line
+514,01,TL,East Timor,670,Telkomcel
+514,02,TL,East Timor,670,Timor Telecom
+514,03,TL,East Timor,670,Telemor
+514,299,TL,East Timor,670,Failed Calls
+514,999,TL,East Timor,670,Fix Line
+528,02,BN,Brunei,673,B-Mobile
+528,03,BN,Brunei,673,DST
+528,11,BN,Brunei,673,DST
+528,299,BN,Brunei,673,Failed Calls
+528,999,BN,Brunei,673,Fix Line
+536,02,NR,Nauru,674,Digicel
+536,299,NR,Nauru,674,Failed Calls
+536,999,NR,Nauru,674,Fix Line
+537,01,PG,Papua New Guinea,675,BeMobile Vodafone
+537,02,PG,Papua New Guinea,675,Citifon
+537,03,PG,Papua New Guinea,675,Digicel
+537,299,PG,Papua New Guinea,675,DIGIVOIP
+537,299,PG,Papua New Guinea,675,Failed Calls
+537,999,PG,Papua New Guinea,675,Fix Line
+539,01,TO,Tonga,676,U-Call
+539,43,TO,Tonga,676,Digicel
+539,88,TO,Tonga,676,Digicel
+539,299,TO,Tonga,676,Failed Calls
+539,299,TO,Tonga,676,WanTok
+539,999,TO,Tonga,676,Fix Line
+540,01,SB,Solomon Islands,677,Breeze
+540,02,SB,Solomon Islands,677,bemobile
+540,299,SB,Solomon Islands,677,Failed Calls
+540,299,SB,Solomon Islands,677,Satsol
+540,299,SB,Solomon Islands,677,Smile
+540,999,SB,Solomon Islands,677,Fix Line
+541,01,VU,Vanuatu,678,Smile
+541,05,VU,Vanuatu,678,Digicel
+541,299,VU,Vanuatu,678,Failed Calls
+541,999,VU,Vanuatu,678,Fix Line
+542,01,FJ,Fiji,679,Vodafone
+542,02,FJ,Fiji,679,DigiCell
+542,299,FJ,Fiji,679,Failed Calls
+542,999,FJ,Fiji,679,Fix Line
+552,01,PW,Palau,680,PalauCel
+552,02,PW,Palau,680,PT Waves
+552,99,PW,Palau,680,Palau Mobile
+552,299,PW,Palau,680,Failed Calls
+552,999,PW,Palau,680,Fix Line
+548,01,CK,Cook Islands,682,Vodafone / Bluesky
+548,299,CK,Cook Islands,682,Failed Calls
+548,999,CK,Cook Islands,682,Fix Line
+555,01,NU,Niue,683,Telecom Niue
+555,299,NU,Niue,683,Failed Calls
+555,999,NU,Niue,683,Fix Line
+544,11,AS,American Samoa,684,BlueSky
+544,299,AS,American Samoa,684,Failed Calls
+544,780,AS,American Samoa,684,ASTCA Mobile
+544,999,AS,American Samoa,684,Fix Line
+549,01,WS,Samoa,685,Digicel
+549,27,WS,Samoa,685,BlueSky
+549,299,WS,Samoa,685,Failed Calls
+549,999,WS,Samoa,685,Fix Line
+545,01,KI,Kiribati,686,FrigateNet
+545,09,KI,Kiribati,686,FrigateNet
+545,299,KI,Kiribati,686,Failed Calls
+545,299,KI,Kiribati,686,Ocean Link
+545,999,KI,Kiribati,686,Fix Line
+546,01,NC,New Caledonia,687,Mobilis
+546,299,NC,New Caledonia,687,Failed Calls
+546,999,NC,New Caledonia,687,Fix Line
+547,15,PF,French Polynesia,689,Vodafone
+547,20,PF,French Polynesia,689,Vini
+547,299,PF,French Polynesia,689,Failed Calls
+547,299,PF,French Polynesia,689,Ora
+547,999,PF,French Polynesia,689,Fix Line
+550,01,FM,Micronesia,691,FSMTCeLL
+550,299,FM,Micronesia,691,Failed Calls
+550,999,FM,Micronesia,691,Fix Line
+551,299,MH,Marshall Islands,692,Failed Calls
+551,299,MH,Marshall Islands,692,MINTA
+551,999,MH,Marshall Islands,692,Fix Line
+467,192,KP,North Korea,850,Koryolink
+467,299,KP,North Korea,850,Failed Calls
+467,299,KP,North Korea,850,Kangsung Net
+467,999,KP,North Korea,850,Fix Line
+454,00,HK,Hong Kong,852,SUN Mobile / CSL
+454,01,HK,Hong Kong,852,Citic
+454,02,HK,Hong Kong,852,SUN Mobile / CSL
+454,03,HK,Hong Kong,852,3
+454,04,HK,Hong Kong,852,3
+454,05,HK,Hong Kong,852,3
+454,06,HK,Hong Kong,852,SmarTone
+454,07,HK,Hong Kong,852,China Unicom
+454,08,HK,Hong Kong,852,Tru
+454,10,HK,Hong Kong,852,SUN Mobile / CSL
+454,11,HK,Hong Kong,852,CHKTL
+454,12,HK,Hong Kong,852,China Mobile
+454,13,HK,Hong Kong,852,China Mobile
+454,14,HK,Hong Kong,852,3
+454,15,HK,Hong Kong,852,SmarTone
+454,16,HK,Hong Kong,852,SUN Mobile / CSL
+454,17,HK,Hong Kong,852,SmarTone
+454,18,HK,Hong Kong,852,SUN Mobile / CSL
+454,19,HK,Hong Kong,852,SUN Mobile / CSL
+454,20,HK,Hong Kong,852,SUN Mobile / CSL
+454,24,HK,Hong Kong,852,Multibyte
+454,25,HK,Hong Kong,852,Government
+454,26,HK,Hong Kong,852,Government
+454,27,HK,Hong Kong,852,Government
+454,28,HK,Hong Kong,852,Government
+454,30,HK,Hong Kong,852,China Mobile
+454,31,HK,Hong Kong,852,CTExcel
+454,32,HK,Hong Kong,852,HKBN
+454,35,HK,Hong Kong,852,Webbing
+454,36,HK,Hong Kong,852,Eascotel
+454,390,HK,Hong Kong,852,Government
+454,391,HK,Hong Kong,852,Government
+454,392,HK,Hong Kong,852,Government
+454,393,HK,Hong Kong,852,Government
+454,394,HK,Hong Kong,852,Government
+454,395,HK,Hong Kong,852,Government
+454,396,HK,Hong Kong,852,Government
+454,397,HK,Hong Kong,852,Government
+454,398,HK,Hong Kong,852,Government
+454,999,HK,Hong Kong,852,Fix Line
+455,00,MO,Macao,853,SmarTone
+455,01,MO,Macao,853,CTM
+455,02,MO,Macao,853,China Telecom
+455,03,MO,Macao,853,3
+455,04,MO,Macao,853,CTM
+455,05,MO,Macao,853,3
+455,06,MO,Macao,853,SmarTone
+455,07,MO,Macao,853,China Telecom
+455,299,MO,Macao,853,Failed Calls
+455,999,MO,Macao,853,Fix Line
+456,01,KH,Cambodia,855,Cellcard
+456,02,KH,Cambodia,855,Smart
+456,04,KH,Cambodia,855,QB
+456,05,KH,Cambodia,855,Smart
+456,06,KH,Cambodia,855,Smart
+456,08,KH,Cambodia,855,Metfone
+456,11,KH,Cambodia,855,Seatel
+456,299,KH,Cambodia,855,CooTel
+456,299,KH,Cambodia,855,Failed Calls
+456,299,KH,Cambodia,855,MPTC
+456,999,KH,Cambodia,855,Fix Line
+457,01,LA,Laos,856,LTC
+457,02,LA,Laos,856,ETL Mobile
+457,03,LA,Laos,856,Unitel
+457,08,LA,Laos,856,Beeline
+457,299,LA,Laos,856,Failed Calls
+457,999,LA,Laos,856,Fix Line
+901,299,N/A,Satellite Networks,870,Failed Calls
+901,999,N/A,Satellite Networks,870,Fix Line
+470,01,BD,Bangladesh,880,GrameenPhone
+470,02,BD,Bangladesh,880,Airtel
+470,03,BD,Bangladesh,880,Banglalink
+470,04,BD,Bangladesh,880,TeleTalk
+470,07,BD,Bangladesh,880,Airtel
+470,299,BD,Bangladesh,880,Failed Calls
+470,999,BD,Bangladesh,880,Fix Line
+901,03,N/A,International Networks,882,Iridium
+901,05,N/A,International Networks,882,Thuraya RMSS
+901,11,N/A,International Networks,882,Inmarsat
+901,12,N/A,International Networks,882,MCP
+901,13,N/A,International Networks,882,GSM.AQ
+901,14,N/A,International Networks,882,AeroMobile
+901,15,N/A,International Networks,882,OnAir
+901,16,N/A,International Networks,882,Cisco Jasper
+901,17,N/A,International Networks,882,Navitas Telecom
+901,18,N/A,International Networks,882,Cingular Wireless Network
+901,19,N/A,International Networks,882,Maritime Roaming Service
+901,20,N/A,International Networks,882,Intermatica
+901,21,N/A,International Networks,882,Wins
+901,22,N/A,International Networks,882,i-lincc
+901,24,N/A,International Networks,882,Bandwidth
+901,27,N/A,International Networks,882,Monaco Telecom
+901,29,N/A,International Networks,882,Telenor Connexion
+901,31,N/A,International Networks,882,Orange
+901,33,N/A,International Networks,882,SMART
+901,34,N/A,International Networks,882,tyntec
+901,37,N/A,International Networks,882,Transatel
+901,38,N/A,International Networks,882,MTT
+901,39,N/A,International Networks,882,MTX Connect
+901,40,N/A,International Networks,882,Deutsche Telekom
+901,41,N/A,International Networks,882,One Network
+901,42,N/A,International Networks,882,DCN Hub
+901,43,N/A,International Networks,882,EMnify
+901,47,N/A,International Networks,882,Ooredoo
+901,48,N/A,International Networks,882,Com4 Sweden
+901,50,N/A,International Networks,882,EchoStar Mobile
+901,51,N/A,International Networks,882,VisionNG
+901,52,N/A,International Networks,882,Manx Telecom
+901,55,N/A,International Networks,882,Beezz
+901,57,N/A,International Networks,882,SAP
+901,58,N/A,International Networks,882,BICS
+901,59,N/A,International Networks,882,MessageBird
+901,62,N/A,International Networks,882,Twilio
+901,64,N/A,International Networks,882,Syniverse
+901,65,N/A,International Networks,882,Plintron
+901,66,N/A,International Networks,882,Limitless
+901,67,N/A,International Networks,882,1NCE
+901,69,N/A,International Networks,882,Legos
+901,70,N/A,International Networks,882,Bubbletone
+901,72,N/A,International Networks,882,Tele2
+901,73,N/A,International Networks,882,Cubic
+901,75,N/A,International Networks,882,Pod
+901,76,N/A,International Networks,882,A1
+901,78,N/A,International Networks,882,Sparkle
+901,79,N/A,International Networks,882,Nokia
+901,81,N/A,International Networks,882,Airnity
+901,82,N/A,International Networks,882,AnyNet
+901,84,N/A,International Networks,882,Movistar
+901,85,N/A,International Networks,882,O2
+901,299,N/A,International Networks,882,Afinna One
+901,299,N/A,International Networks,882,DIDWW
+901,299,N/A,International Networks,882,EMSAT
+901,299,N/A,International Networks,882,Ellipsat
+901,299,N/A,International Networks,882,Failed Calls
+901,299,N/A,International Networks,882,Global Access Services
+901,299,N/A,International Networks,882,Globalstar
+901,299,N/A,International Networks,882,MCNtelecom
+901,299,N/A,International Networks,882,Oration Technologies
+901,299,N/A,International Networks,882,Phonegroup
+901,299,N/A,International Networks,882,Sipme
+901,299,N/A,International Networks,882,Telecom26
+901,299,N/A,International Networks,882,Telekom Malaysia
+901,299,N/A,International Networks,882,Zain
+901,299,N/A,International Networks,882,republic wireless
+901,999,N/A,International Networks,882,Fix Line
+466,01,TW,Taiwan,886,Far EasTone
+466,03,TW,Taiwan,886,Far EasTone
+466,05,TW,Taiwan,886,APT
+466,11,TW,Taiwan,886,Chunghwa Telecom
+466,12,TW,Taiwan,886,APT
+466,88,TW,Taiwan,886,Far EasTone
+466,89,TW,Taiwan,886,T Star
+466,92,TW,Taiwan,886,Chunghwa Telecom
+466,97,TW,Taiwan,886,Taiwan Mobile
+466,299,TW,Taiwan,886,Failed Calls
+466,999,TW,Taiwan,886,Fix Line
+472,01,MV,Maldives,960,DhiMobile
+472,02,MV,Maldives,960,Ooredoo
+472,299,MV,Maldives,960,Failed Calls
+472,999,MV,Maldives,960,Fix Line
+415,01,LB,Lebanon,961,Alfa
+415,03,LB,Lebanon,961,Touch
+415,299,LB,Lebanon,961,Failed Calls
+415,999,LB,Lebanon,961,Fix Line
+416,01,JO,Jordan,962,Zain
+416,03,JO,Jordan,962,Umniah
+416,77,JO,Jordan,962,Orange
+416,299,JO,Jordan,962,Failed Calls
+416,999,JO,Jordan,962,Fix Line
+417,01,SY,Syria,963,Syriatel
+417,02,SY,Syria,963,MTN
+417,299,SY,Syria,963,Failed Calls
+417,999,SY,Syria,963,Fix Line
+418,05,IQ,Iraq,964,Asia Cell
+418,20,IQ,Iraq,964,Zain
+418,30,IQ,Iraq,964,Zain
+418,40,IQ,Iraq,964,Korek
+418,45,IQ,Iraq,964,Mobitel
+418,299,IQ,Iraq,964,Failed Calls
+418,999,IQ,Iraq,964,Fix Line
+419,02,KW,Kuwait,965,Zain
+419,03,KW,Kuwait,965,Ooredoo
+419,04,KW,Kuwait,965,Viva
+419,299,KW,Kuwait,965,Failed Calls
+419,299,KW,Kuwait,965,Virgin Mobile
+419,999,KW,Kuwait,965,Fix Line
+420,01,SA,Saudi Arabia,966,STC / Al Jawal
+420,03,SA,Saudi Arabia,966,Mobily
+420,04,SA,Saudi Arabia,966,Zain
+420,05,SA,Saudi Arabia,966,Virgin Mobile
+420,06,SA,Saudi Arabia,966,Lebara Mobile
+420,299,SA,Saudi Arabia,966,Failed Calls
+420,299,SA,Saudi Arabia,966,Red Bull MOBILE
+420,299,SA,Saudi Arabia,966,Salam
+420,999,SA,Saudi Arabia,966,Fix Line
+421,01,YE,Yemen,967,SabaFon
+421,02,YE,Yemen,967,Spacetel
+421,03,YE,Yemen,967,Yemen Mobile
+421,04,YE,Yemen,967,Y
+421,299,YE,Yemen,967,Failed Calls
+421,999,YE,Yemen,967,Fix Line
+422,02,OM,Oman,968,Omantel Mobile
+422,03,OM,Oman,968,Ooredoo / Nawras
+422,299,OM,Oman,968,Failed Calls
+422,999,OM,Oman,968,Fix Line
+425,05,PS,Palestinian Territory,970,Jawwal
+425,06,PS,Palestinian Territory,970,Ooredoo
+425,299,PS,Palestinian Territory,970,Failed Calls
+425,999,PS,Palestinian Territory,970,Fix Line
+424,02,AE,United Arab Emirates,971,Etisalat
+424,03,AE,United Arab Emirates,971,DU
+424,299,AE,United Arab Emirates,971,Failed Calls
+424,999,AE,United Arab Emirates,971,Fix Line
+425,01,IL,Israel,972,Orange
+425,02,IL,Israel,972,Cellcom
+425,03,IL,Israel,972,Pelephone
+425,07,IL,Israel,972,Hot Mobile
+425,08,IL,Israel,972,Golan Telecom
+425,09,IL,Israel,972,We4G
+425,12,IL,Israel,972,Pelephone
+425,13,IL,Israel,972,Ituran
+425,14,IL,Israel,972,YouPhone
+425,15,IL,Israel,972,Home Cellular
+425,16,IL,Israel,972,Rami Levy Communications
+425,17,IL,Israel,972,Von waves
+425,19,IL,Israel,972,019 Mobile
+425,22,IL,Israel,972,Maskyoo
+425,23,IL,Israel,972,Beezz
+425,77,IL,Israel,972,Hot Mobile
+425,299,IL,Israel,972,Annatel Mobile
+425,299,IL,Israel,972,Bynet
+425,299,IL,Israel,972,Cellact
+425,299,IL,Israel,972,Failed Calls
+425,299,IL,Israel,972,T2T
+425,999,IL,Israel,972,Fix Line
+426,01,BH,Bahrain,973,Batelco
+426,02,BH,Bahrain,973,Zain
+426,04,BH,Bahrain,973,VIVA
+426,05,BH,Bahrain,973,Royal Court
+426,299,BH,Bahrain,973,Failed Calls
+426,999,BH,Bahrain,973,Fix Line
+427,01,QA,Qatar,974,Ooredoo
+427,02,QA,Qatar,974,Vodafone
+427,06,QA,Qatar,974,Ooredoo
+427,299,QA,Qatar,974,Failed Calls
+427,999,QA,Qatar,974,Fix Line
+402,11,BT,Bhutan,975,B-Mobile
+402,17,BT,Bhutan,975,B-Mobile
+402,77,BT,Bhutan,975,TashiCell
+402,999,BT,Bhutan,975,Fix Line
+428,00,MN,Mongolia,976,Skytel
+428,88,MN,Mongolia,976,Unitel
+428,98,MN,Mongolia,976,G-Mobile
+428,99,MN,Mongolia,976,Mobicom
+428,299,MN,Mongolia,976,Failed Calls
+428,999,MN,Mongolia,976,Fix Line
+429,00,NP,Nepal,977,UTL
+429,01,NP,Nepal,977,Nepal Telecom
+429,02,NP,Nepal,977,Ncell
+429,03,NP,Nepal,977,Hello Nepal
+429,04,NP,Nepal,977,Smart
+429,299,NP,Nepal,977,CG Telecom
+429,299,NP,Nepal,977,Failed Calls
+429,999,NP,Nepal,977,Fix Line
+436,01,TJ,Tajikistan,992,Tcell
+436,02,TJ,Tajikistan,992,Tcell
+436,03,TJ,Tajikistan,992,Megafon
+436,04,TJ,Tajikistan,992,Babilon-Mobile
+436,05,TJ,Tajikistan,992,Beeline
+436,299,TJ,Tajikistan,992,Failed Calls
+436,299,TJ,Tajikistan,992,Premium Numbers
+436,999,TJ,Tajikistan,992,Fix Line
+438,01,TM,Turkmenistan,993,MTS
+438,02,TM,Turkmenistan,993,TMCELL
+438,299,TM,Turkmenistan,993,Failed Calls
+438,999,TM,Turkmenistan,993,Fix Line
+400,01,AZ,Azerbaijan,994,Azercell
+400,02,AZ,Azerbaijan,994,Bakcell
+400,03,AZ,Azerbaijan,994,FONEX
+400,04,AZ,Azerbaijan,994,Nar Mobile
+400,06,AZ,Azerbaijan,994,Naxtel
+400,299,AZ,Azerbaijan,994,Failed Calls
+400,999,AZ,Azerbaijan,994,Fix Line
+282,01,GE,Georgia,995,Geocell
+282,02,GE,Georgia,995,MagtiCom
+282,04,GE,Georgia,995,Beeline
+282,07,GE,Georgia,995,GlobalCell
+282,08,GE,Georgia,995,Silknet
+282,10,GE,Georgia,995,Premium Net
+282,11,GE,Georgia,995,Mobilive
+282,12,GE,Georgia,995,Telecom 1
+282,22,GE,Georgia,995,MyPhone
+282,299,GE,Georgia,995,Failed Calls
+282,999,GE,Georgia,995,Fix Line
+437,01,KG,Kyrgyzstan,996,Beeline
+437,02,KG,Kyrgyzstan,996,KT Mobile
+437,03,KG,Kyrgyzstan,996,Sem Mobile
+437,05,KG,Kyrgyzstan,996,MegaCom
+437,09,KG,Kyrgyzstan,996,O!
+437,10,KG,Kyrgyzstan,996,Saima
+437,299,KG,Kyrgyzstan,996,Failed Calls
+437,999,KG,Kyrgyzstan,996,Fix Line
+434,03,UZ,Uzbekistan,998,UzMobile
+434,04,UZ,Uzbekistan,998,Beeline
+434,05,UZ,Uzbekistan,998,Ucell
+434,06,UZ,Uzbekistan,998,Perfectum Mobile
+434,07,UZ,Uzbekistan,998,UMS
+434,299,UZ,Uzbekistan,998,Failed Calls
+434,999,UZ,Uzbekistan,998,Fix Line
+364,30,BS,Bahamas,1242,Cybercell / BaTelCo
+364,39,BS,Bahamas,1242,Cybercell / BaTelCo
+364,299,BS,Bahamas,1242,Failed Calls
+364,390,BS,Bahamas,1242,Cybercell / BaTelCo
+364,490,BS,Bahamas,1242,Aliv
+364,999,BS,Bahamas,1242,Fix Line
+342,050,BB,Barbados,1246,Digicel
+342,299,BB,Barbados,1246,Failed Calls
+342,299,BB,Barbados,1246,Ozone
+342,600,BB,Barbados,1246,Flow / Lime
+342,999,BB,Barbados,1246,Fix Line
+365,299,AI,Anguilla,1264,Failed Calls
+365,840,AI,Anguilla,1264,Flow
+365,850,AI,Anguilla,1264,Digicel
+365,999,AI,Anguilla,1264,Fix Line
+344,03,AG,Antigua and Barbuda,1268,imobile / APUA
+344,030,AG,Antigua and Barbuda,1268,imobile / APUA
+344,92,AG,Antigua and Barbuda,1268,Flow
+344,93,AG,Antigua and Barbuda,1268,Digicel
+344,299,AG,Antigua and Barbuda,1268,Failed Calls
+344,920,AG,Antigua and Barbuda,1268,Flow
+344,930,AG,Antigua and Barbuda,1268,Digicel
+344,999,AG,Antigua and Barbuda,1268,Fix Line
+376,299,VI,Virgin Islands,1340,Failed Calls
+376,999,VI,Virgin Islands,1340,Fix Line
+346,001,KY,Cayman Islands,1345,Logic
+346,050,KY,Cayman Islands,1345,Digicel
+346,140,KY,Cayman Islands,1345,Flow / Lime
+346,299,KY,Cayman Islands,1345,Failed Calls
+346,999,KY,Cayman Islands,1345,Fix Line
+350,000,BM,Bermuda,1441,One
+350,01,BM,Bermuda,1441,Digicel
+350,299,BM,Bermuda,1441,Failed Calls
+350,999,BM,Bermuda,1441,Fix Line
+352,050,GD,Grenada,1473,Digicel
+352,110,GD,Grenada,1473,Flow
+352,299,GD,Grenada,1473,Failed Calls
+352,299,GD,Grenada,1473,Spice Mobile
+352,999,GD,Grenada,1473,Fix Line
+354,299,MS,Montserrat,1664,Digicel
+354,299,MS,Montserrat,1664,Failed Calls
+354,860,MS,Montserrat,1664,Flow
+354,999,MS,Montserrat,1664,Fix Line
+534,299,MP,Northern Mariana Islands,1670,Failed Calls
+534,999,MP,Northern Mariana Islands,1670,Fix Line
+310,110,GU,Guam,1671,IT&E
+310,140,GU,Guam,1671,GTA
+310,299,GU,Guam,1671,Failed Calls
+310,370,GU,Guam,1671,Docomo Pacific
+310,470,GU,Guam,1671,Docomo Pacific
+310,999,GU,Guam,1671,Fix Line
+358,05,LC,Saint Lucia,1758,Digicel
+358,11,LC,Saint Lucia,1758,Flow
+358,050,LC,Saint Lucia,1758,Digicel
+358,110,LC,Saint Lucia,1758,Flow
+358,299,LC,Saint Lucia,1758,Failed Calls
+358,999,LC,Saint Lucia,1758,Fix Line
+366,050,DM,Dominica,1767,Digicel
+366,110,DM,Dominica,1767,Flow
+366,299,DM,Dominica,1767,Failed Calls
+366,999,DM,Dominica,1767,Fix Line
+360,050,VC,Saint Vincent and the Grenadines,1784,Digicel
+360,110,VC,Saint Vincent and the Grenadines,1784,Flow
+360,299,VC,Saint Vincent and the Grenadines,1784,Failed Calls
+360,999,VC,Saint Vincent and the Grenadines,1784,Fix Line
+370,01,DO,Dominican Republic,1809,Orange / Altice
+370,02,DO,Dominican Republic,1809,Claro
+370,04,DO,Dominican Republic,1809,Viva
+370,299,DO,Dominican Republic,1809,Failed Calls
+370,299,DO,Dominican Republic,1809,Satel
+370,999,DO,Dominican Republic,1809,Fix Line
+374,12,TT,Trinidad and Tobago,1868,bmobile
+374,130,TT,Trinidad and Tobago,1868,Digicel
+374,299,TT,Trinidad and Tobago,1868,Failed Calls
+374,999,TT,Trinidad and Tobago,1868,Fix Line
+356,11,KN,Saint Kitts and Nevis,1869,Flow
+356,050,KN,Saint Kitts and Nevis,1869,Digicel
+356,50,KN,Saint Kitts and Nevis,1869,Digicel
+356,070,KN,Saint Kitts and Nevis,1869,Chippie
+356,70,KN,Saint Kitts and Nevis,1869,Chippie
+356,110,KN,Saint Kitts and Nevis,1869,Flow
+356,299,KN,Saint Kitts and Nevis,1869,Failed Calls
+356,299,KN,Saint Kitts and Nevis,1869,The Cable
+356,999,KN,Saint Kitts and Nevis,1869,Fix Line
+338,050,JM,Jamaica,1876,Digicel
+338,110,JM,Jamaica,1876,Flow
+338,180,JM,Jamaica,1876,Flow
+338,299,JM,Jamaica,1876,Failed Calls
+338,999,JM,Jamaica,1876,Fix Line
+330,11,PR,Puerto Rico,None,Claro
+330,30,PR,Puerto Rico,None,AT&T Mobility
+330,110,PR,Puerto Rico,None,Claro
+330,299,PR,Puerto Rico,None,Failed Calls
+330,490,PR,Puerto Rico,None,T-Mobile
+330,999,PR,Puerto Rico,None,Fix Line
+659,02,SS,South Sudan,None,MTN
+659,06,SS,South Sudan,None,Zain
+659,299,SS,South Sudan,None,Digitel
+659,299,SS,South Sudan,None,Failed Calls
+659,999,SS,South Sudan,None,Fix Line
+376,050,TC,Turks and Caicos Islands,None,Digicel
+376,299,TC,Turks and Caicos Islands,None,Failed Calls
+376,350,TC,Turks and Caicos Islands,None,Flow
+376,360,TC,Turks and Caicos Islands,None,Digicel
+376,999,TC,Turks and Caicos Islands,None,Fix Line
+553,01,TV,Tuvalu,None,Tuvalu Telecom
+553,299,TV,Tuvalu,None,Failed Calls
+553,999,TV,Tuvalu,None,Fix Line
+225,299,VA,Vatican,None,Failed Calls
+225,999,VA,Vatican,None,Fix Line
+543,01,WF,Wallis and Futuna,None,Manuia
+543,299,WF,Wallis and Futuna,None,Failed Calls
+543,999,WF,Wallis and Futuna,None,Fix Line

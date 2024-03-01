@@ -1,0 +1,19 @@
+name: CI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 * * 1 # At 00:00 on Monday.
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: ./download.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
