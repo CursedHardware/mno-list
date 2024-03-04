@@ -2387,10 +2387,10 @@ mcc,mnc,iso,country,country_code,network
 706,999,SV,El Salvador,503,Fix Line
 708,001,HN,Honduras,504,Claro
 708,01,HN,Honduras,504,Claro
-708,02,HN,Honduras,504,Tigo
 708,002,HN,Honduras,504,Tigo
-708,030,HN,Honduras,504,HonduTel
+708,02,HN,Honduras,504,Tigo
 708,30,HN,Honduras,504,HonduTel
+708,030,HN,Honduras,504,HonduTel
 708,299,HN,Honduras,504,Failed Calls
 708,999,HN,Honduras,504,Fix Line
 710,21,NI,Nicaragua,505,Claro
@@ -2932,8 +2932,8 @@ mcc,mnc,iso,country,country_code,network
 374,299,TT,Trinidad and Tobago,1868,Failed Calls
 374,999,TT,Trinidad and Tobago,1868,Fix Line
 356,11,KN,Saint Kitts and Nevis,1869,Flow
-356,050,KN,Saint Kitts and Nevis,1869,Digicel
 356,50,KN,Saint Kitts and Nevis,1869,Digicel
+356,050,KN,Saint Kitts and Nevis,1869,Digicel
 356,070,KN,Saint Kitts and Nevis,1869,Chippie
 356,70,KN,Saint Kitts and Nevis,1869,Chippie
 356,110,KN,Saint Kitts and Nevis,1869,Flow
