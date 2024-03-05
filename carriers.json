@@ -19105,7 +19105,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "002",
+    "mnc": "02",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -19113,7 +19113,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "02",
+    "mnc": "002",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -23465,14 +23465,6 @@
   },
   {
     "mcc": "356",
-    "mnc": "50",
-    "iso": "KN",
-    "country": "Saint Kitts and Nevis",
-    "country_code": "1869",
-    "network": "Digicel"
-  },
-  {
-    "mcc": "356",
     "mnc": "050",
     "iso": "KN",
     "country": "Saint Kitts and Nevis",
@@ -23481,7 +23473,15 @@
   },
   {
     "mcc": "356",
-    "mnc": "070",
+    "mnc": "50",
+    "iso": "KN",
+    "country": "Saint Kitts and Nevis",
+    "country_code": "1869",
+    "network": "Digicel"
+  },
+  {
+    "mcc": "356",
+    "mnc": "70",
     "iso": "KN",
     "country": "Saint Kitts and Nevis",
     "country_code": "1869",
@@ -23489,7 +23489,7 @@
   },
   {
     "mcc": "356",
-    "mnc": "70",
+    "mnc": "070",
     "iso": "KN",
     "country": "Saint Kitts and Nevis",
     "country_code": "1869",
