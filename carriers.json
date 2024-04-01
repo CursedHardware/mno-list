@@ -19089,7 +19089,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "001",
+    "mnc": "01",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -19097,7 +19097,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "01",
+    "mnc": "001",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -19121,7 +19121,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "30",
+    "mnc": "030",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -19129,7 +19129,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "030",
+    "mnc": "30",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
