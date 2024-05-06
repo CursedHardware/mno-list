@@ -19089,7 +19089,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "001",
+    "mnc": "01",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -19097,7 +19097,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "01",
+    "mnc": "001",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -23481,7 +23481,7 @@
   },
   {
     "mcc": "356",
-    "mnc": "070",
+    "mnc": "70",
     "iso": "KN",
     "country": "Saint Kitts and Nevis",
     "country_code": "1869",
@@ -23489,7 +23489,7 @@
   },
   {
     "mcc": "356",
-    "mnc": "70",
+    "mnc": "070",
     "iso": "KN",
     "country": "Saint Kitts and Nevis",
     "country_code": "1869",
