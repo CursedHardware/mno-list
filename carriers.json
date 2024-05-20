@@ -441,6 +441,14 @@
   },
   {
     "mcc": "310",
+    "mnc": "004",
+    "iso": "US",
+    "country": "United States of America",
+    "country_code": "1",
+    "network": "Verizon Wireless"
+  },
+  {
+    "mcc": "310",
     "mnc": "010",
     "iso": "US",
     "country": "United States of America",
@@ -3373,7 +3381,7 @@
     "iso": "KZ",
     "country": "Kazakhstan",
     "country_code": "7",
-    "network": "Failed Call(s)"
+    "network": "Failed Calls"
   },
   {
     "mcc": "401",
@@ -3645,6 +3653,14 @@
     "iso": "GR",
     "country": "Greece",
     "country_code": "30",
+    "network": "Failed Calls"
+  },
+  {
+    "mcc": "202",
+    "mnc": "299",
+    "iso": "GR",
+    "country": "Greece",
+    "country_code": "30",
     "network": "Interconnect"
   },
   {
@@ -3726,6 +3742,14 @@
     "country": "Netherlands",
     "country_code": "31",
     "network": "ElephantTalk"
+  },
+  {
+    "mcc": "204",
+    "mnc": "06",
+    "iso": "NL",
+    "country": "Netherlands",
+    "country_code": "31",
+    "network": "Vectone Mobile"
   },
   {
     "mcc": "204",
@@ -4021,14 +4045,6 @@
     "iso": "NL",
     "country": "Netherlands",
     "country_code": "31",
-    "network": "Vectone Mobile"
-  },
-  {
-    "mcc": "204",
-    "mnc": "299",
-    "iso": "NL",
-    "country": "Netherlands",
-    "country_code": "31",
     "network": "interactive digital media / IDM"
   },
   {
@@ -4038,14 +4054,6 @@
     "country": "Netherlands",
     "country_code": "31",
     "network": "mGage"
-  },
-  {
-    "mcc": "204",
-    "mnc": "999",
-    "iso": "NL",
-    "country": "Netherlands",
-    "country_code": "31",
-    "network": "Fix Line"
   },
   {
     "mcc": "204",
@@ -4198,6 +4206,14 @@
     "country": "Belgium",
     "country_code": "32",
     "network": "FEBO"
+  },
+  {
+    "mcc": "206",
+    "mnc": "299",
+    "iso": "BE",
+    "country": "Belgium",
+    "country_code": "32",
+    "network": "Failed Calls"
   },
   {
     "mcc": "206",
@@ -5413,6 +5429,14 @@
     "iso": "ES",
     "country": "Spain",
     "country_code": "34",
+    "network": "Vodafone Enabler"
+  },
+  {
+    "mcc": "214",
+    "mnc": "299",
+    "iso": "ES",
+    "country": "Spain",
+    "country_code": "34",
     "network": "You Mobile"
   },
   {
@@ -5465,11 +5489,11 @@
   },
   {
     "mcc": "216",
-    "mnc": "71",
+    "mnc": "299",
     "iso": "HU",
     "country": "Hungary",
     "country_code": "36",
-    "network": "Vodafone"
+    "network": "Antenna"
   },
   {
     "mcc": "216",
@@ -5477,7 +5501,7 @@
     "iso": "HU",
     "country": "Hungary",
     "country_code": "36",
-    "network": "Antenna"
+    "network": "Failed Calls"
   },
   {
     "mcc": "216",
@@ -6005,7 +6029,7 @@
     "iso": "CH",
     "country": "Switzerland",
     "country_code": "41",
-    "network": "Sunrise"
+    "network": "UPC"
   },
   {
     "mcc": "228",
@@ -6081,6 +6105,14 @@
   },
   {
     "mcc": "228",
+    "mnc": "299",
+    "iso": "CH",
+    "country": "Switzerland",
+    "country_code": "41",
+    "network": "Failed Calls"
+  },
+  {
+    "mcc": "228",
     "mnc": "999",
     "iso": "CH",
     "country": "Switzerland",
@@ -6134,6 +6166,14 @@
     "country": "Austria",
     "country_code": "43",
     "network": "Ventocom"
+  },
+  {
+    "mcc": "232",
+    "mnc": "08",
+    "iso": "AT",
+    "country": "Austria",
+    "country_code": "43",
+    "network": "Lycamobile"
   },
   {
     "mcc": "232",
@@ -6310,6 +6350,14 @@
     "country": "Austria",
     "country_code": "43",
     "network": "Digital Privacy"
+  },
+  {
+    "mcc": "232",
+    "mnc": "299",
+    "iso": "AT",
+    "country": "Austria",
+    "country_code": "43",
+    "network": "Failed Calls"
   },
   {
     "mcc": "232",
@@ -6605,7 +6653,7 @@
     "iso": "GB",
     "country": "United Kingdom",
     "country_code": "44",
-    "network": "T-Mobile"
+    "network": "EE/Everything Everywhere"
   },
   {
     "mcc": "234",
@@ -6613,7 +6661,7 @@
     "iso": "GB",
     "country": "United Kingdom",
     "country_code": "44",
-    "network": "T-Mobile"
+    "network": "EE/Everything Everywhere"
   },
   {
     "mcc": "234",
@@ -6621,7 +6669,7 @@
     "iso": "GB",
     "country": "United Kingdom",
     "country_code": "44",
-    "network": "T-Mobile"
+    "network": "EE/Everything Everywhere"
   },
   {
     "mcc": "234",
@@ -6629,7 +6677,7 @@
     "iso": "GB",
     "country": "United Kingdom",
     "country_code": "44",
-    "network": "Orange"
+    "network": "EE/Everything Everywhere"
   },
   {
     "mcc": "234",
@@ -6838,6 +6886,14 @@
     "country": "United Kingdom",
     "country_code": "44",
     "network": "Sure Jersey"
+  },
+  {
+    "mcc": "234",
+    "mnc": "299",
+    "iso": "GB",
+    "country": "United Kingdom",
+    "country_code": "44",
+    "network": "Failed Calls"
   },
   {
     "mcc": "234",
@@ -7118,6 +7174,14 @@
     "country": "Denmark",
     "country_code": "45",
     "network": "Firstcom"
+  },
+  {
+    "mcc": "238",
+    "mnc": "299",
+    "iso": "DK",
+    "country": "Denmark",
+    "country_code": "45",
+    "network": "Flexfone"
   },
   {
     "mcc": "238",
@@ -8997,7 +9061,7 @@
     "iso": "DE",
     "country": "Germany",
     "country_code": "49",
-    "network": "Telefonica / E-Plus"
+    "network": "Telefonica / O2"
   },
   {
     "mcc": "262",
@@ -9013,7 +9077,7 @@
     "iso": "DE",
     "country": "Germany",
     "country_code": "49",
-    "network": "Telefonica / E-Plus"
+    "network": "Telefonica / O2"
   },
   {
     "mcc": "262",
@@ -9073,6 +9137,14 @@
   },
   {
     "mcc": "262",
+    "mnc": "13",
+    "iso": "DE",
+    "country": "Germany",
+    "country_code": "49",
+    "network": "T-mobile"
+  },
+  {
+    "mcc": "262",
     "mnc": "14",
     "iso": "DE",
     "country": "Germany",
@@ -9093,7 +9165,7 @@
     "iso": "DE",
     "country": "Germany",
     "country_code": "49",
-    "network": "Telefonica / E-Plus"
+    "network": "Telefonica / O2"
   },
   {
     "mcc": "262",
@@ -9101,7 +9173,7 @@
     "iso": "DE",
     "country": "Germany",
     "country_code": "49",
-    "network": "Telefonica / E-Plus"
+    "network": "Telefonica / O2"
   },
   {
     "mcc": "262",
@@ -9137,11 +9209,19 @@
   },
   {
     "mcc": "262",
+    "mnc": "25",
+    "iso": "DE",
+    "country": "Germany",
+    "country_code": "49",
+    "network": "Mtel"
+  },
+  {
+    "mcc": "262",
     "mnc": "42",
     "iso": "DE",
     "country": "Germany",
     "country_code": "49",
-    "network": "Vodafone"
+    "network": "Truphone"
   },
   {
     "mcc": "262",
@@ -9173,7 +9253,7 @@
     "iso": "DE",
     "country": "Germany",
     "country_code": "49",
-    "network": "Tismi"
+    "network": "Failed Calls"
   },
   {
     "mcc": "262",
@@ -9181,7 +9261,7 @@
     "iso": "DE",
     "country": "Germany",
     "country_code": "49",
-    "network": "Truphone"
+    "network": "Tismi"
   },
   {
     "mcc": "262",
@@ -9337,6 +9417,14 @@
   },
   {
     "mcc": "334",
+    "mnc": "50",
+    "iso": "MX",
+    "country": "Mexico",
+    "country_code": "52",
+    "network": "AT&T / IUSACell"
+  },
+  {
+    "mcc": "334",
     "mnc": "060",
     "iso": "MX",
     "country": "Mexico",
@@ -9389,7 +9477,7 @@
     "iso": "MX",
     "country": "Mexico",
     "country_code": "52",
-    "network": "Failed Call(s)"
+    "network": "Failed Calls"
   },
   {
     "mcc": "334",
@@ -9549,6 +9637,14 @@
     "iso": "AR",
     "country": "Argentina",
     "country_code": "54",
+    "network": "Failed Calls"
+  },
+  {
+    "mcc": "722",
+    "mnc": "299",
+    "iso": "AR",
+    "country": "Argentina",
+    "country_code": "54",
     "network": "IPLAN"
   },
   {
@@ -9637,7 +9733,7 @@
     "iso": "BR",
     "country": "Brazil",
     "country_code": "55",
-    "network": "Nextel"
+    "network": "Claro-nxt/Nextel"
   },
   {
     "mcc": "724",
@@ -9789,7 +9885,7 @@
     "iso": "BR",
     "country": "Brazil",
     "country_code": "55",
-    "network": "Nextel"
+    "network": "Claro-nxt/Nextel"
   },
   {
     "mcc": "724",
@@ -10349,6 +10445,14 @@
     "iso": "CO",
     "country": "Colombia",
     "country_code": "57",
+    "network": "Failed Calls"
+  },
+  {
+    "mcc": "732",
+    "mnc": "299",
+    "iso": "CO",
+    "country": "Colombia",
+    "country_code": "57",
     "network": "Gomobile"
   },
   {
@@ -10798,6 +10902,14 @@
     "country": "Australia",
     "country_code": "61",
     "network": "ACMA"
+  },
+  {
+    "mcc": "505",
+    "mnc": "299",
+    "iso": "AU",
+    "country": "Australia",
+    "country_code": "61",
+    "network": "Failed Calls"
   },
   {
     "mcc": "505",
@@ -12525,6 +12637,14 @@
     "iso": "TR",
     "country": "Turkiye",
     "country_code": "90",
+    "network": "Failed Calls"
+  },
+  {
+    "mcc": "286",
+    "mnc": "299",
+    "iso": "TR",
+    "country": "Turkiye",
+    "country_code": "90",
     "network": "Fenix Telekom"
   },
   {
@@ -13584,6 +13704,942 @@
     "network": "Fix Line"
   },
   {
+    "mcc": "405",
+    "mnc": "01",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "02",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "03",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "04",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "05",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "06",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "07",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "08",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "09",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "10",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "11",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "12",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "13",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "14",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "15",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "16",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "17",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "18",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "19",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "20",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "21",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Loop Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "22",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "23",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "24",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "25",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "27",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "28",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "29",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "30",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "31",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "33",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "34",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "35",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "36",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "37",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "38",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "41",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "42",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "43",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "44",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "46",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "49",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "50",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "51",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "52",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "53",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "54",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "55",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "56",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "57",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "58",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "59",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "60",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "62",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "64",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "66",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "67",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "68",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Garuda"
+  },
+  {
+    "mcc": "405",
+    "mnc": "69",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Dolphin"
+  },
+  {
+    "mcc": "405",
+    "mnc": "70",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "71",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "72",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "73",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "74",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "75",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "76",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "77",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "78",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "80",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "81",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "BSNL Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "82",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "83",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "84",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "85",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Reliance Mobile"
+  },
+  {
+    "mcc": "405",
+    "mnc": "86",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "87",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "88",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Vodafone"
+  },
+  {
+    "mcc": "405",
+    "mnc": "89",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "90",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "91",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Aircel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "92",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "93",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "94",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "95",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "96",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "97",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "98",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Airtel"
+  },
+  {
+    "mcc": "405",
+    "mnc": "845",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "846",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "848",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "849",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "850",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "852",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "853",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Idea"
+  },
+  {
+    "mcc": "405",
+    "mnc": "854",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "855",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "856",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "857",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "858",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "859",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "860",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "861",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "861",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "862",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "863",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "864",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "865",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "866",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "867",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "868",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "869",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "870",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "871",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "872",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "873",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "874",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Jio"
+  },
+  {
+    "mcc": "405",
+    "mnc": "999",
+    "iso": "IN",
+    "country": "India",
+    "country_code": "91",
+    "network": "Fix Line"
+  },
+  {
     "mcc": "410",
     "mnc": "01",
     "iso": "PK",
@@ -13613,7 +14669,7 @@
     "iso": "PK",
     "country": "Pakistan",
     "country_code": "92",
-    "network": "SCOM"
+    "network": "SCO Mobile"
   },
   {
     "mcc": "410",
@@ -13817,7 +14873,7 @@
   },
   {
     "mcc": "414",
-    "mnc": "999",
+    "mnc": "299",
     "iso": "MM",
     "country": "Myanmar",
     "country_code": "95",
@@ -14649,11 +15705,35 @@
   },
   {
     "mcc": "619",
+    "mnc": "04",
+    "iso": "SL",
+    "country": "Sierra Leone",
+    "country_code": "232",
+    "network": "Comium"
+  },
+  {
+    "mcc": "619",
+    "mnc": "05",
+    "iso": "SL",
+    "country": "Sierra Leone",
+    "country_code": "232",
+    "network": "Africell"
+  },
+  {
+    "mcc": "619",
     "mnc": "07",
     "iso": "SL",
     "country": "Sierra Leone",
     "country_code": "232",
     "network": "Qcell"
+  },
+  {
+    "mcc": "619",
+    "mnc": "25",
+    "iso": "SL",
+    "country": "Sierra Leone",
+    "country_code": "232",
+    "network": "Mobitel"
   },
   {
     "mcc": "619",
@@ -15465,6 +16545,14 @@
   },
   {
     "mcc": "636",
+    "mnc": "02",
+    "iso": "ET",
+    "country": "Ethiopia",
+    "country_code": "251",
+    "network": "Safaricom"
+  },
+  {
+    "mcc": "636",
     "mnc": "299",
     "iso": "ET",
     "country": "Ethiopia",
@@ -15929,6 +17017,14 @@
   },
   {
     "mcc": "642",
+    "mnc": "299",
+    "iso": "BI",
+    "country": "Burundi",
+    "country_code": "257",
+    "network": "Failed Calls"
+  },
+  {
+    "mcc": "642",
     "mnc": "999",
     "iso": "BI",
     "country": "Burundi",
@@ -16333,7 +17429,7 @@
     "iso": "SZ",
     "country": "Swaziland",
     "country_code": "268",
-    "network": "EswatiniTelecom"
+    "network": "Eswatini Telecom"
   },
   {
     "mcc": "653",
@@ -16881,6 +17977,14 @@
   },
   {
     "mcc": "272",
+    "mnc": "16",
+    "iso": "IE",
+    "country": "Ireland",
+    "country_code": "353",
+    "network": "Carphone Mobile"
+  },
+  {
+    "mcc": "272",
     "mnc": "17",
     "iso": "IE",
     "country": "Ireland",
@@ -17069,7 +18173,7 @@
     "iso": "MT",
     "country": "Malta",
     "country_code": "356",
-    "network": "Vodafone"
+    "network": "Epic"
   },
   {
     "mcc": "278",
@@ -17454,6 +18558,14 @@
     "country": "Finland",
     "country_code": "358",
     "network": "MobiWeb"
+  },
+  {
+    "mcc": "244",
+    "mnc": "299",
+    "iso": "FI",
+    "country": "Finland",
+    "country_code": "358",
+    "network": "Premium Numbers"
   },
   {
     "mcc": "244",
@@ -19089,7 +20201,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "001",
+    "mnc": "01",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -19097,7 +20209,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "01",
+    "mnc": "001",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -19169,19 +20281,19 @@
   },
   {
     "mcc": "710",
+    "mnc": "68",
+    "iso": "NI",
+    "country": "Nicaragua",
+    "country_code": "505",
+    "network": "CooTel"
+  },
+  {
+    "mcc": "710",
     "mnc": "73",
     "iso": "NI",
     "country": "Nicaragua",
     "country_code": "505",
     "network": "Claro"
-  },
-  {
-    "mcc": "710",
-    "mnc": "299",
-    "iso": "NI",
-    "country": "Nicaragua",
-    "country_code": "505",
-    "network": "CooTel"
   },
   {
     "mcc": "710",
@@ -19601,6 +20713,14 @@
   },
   {
     "mcc": "744",
+    "mnc": "05",
+    "iso": "PY",
+    "country": "Paraguay",
+    "country_code": "595",
+    "network": "Personal"
+  },
+  {
+    "mcc": "744",
     "mnc": "299",
     "iso": "PY",
     "country": "Paraguay",
@@ -19777,11 +20897,19 @@
   },
   {
     "mcc": "528",
+    "mnc": "01",
+    "iso": "BN",
+    "country": "Brunei",
+    "country_code": "673",
+    "network": "imagine"
+  },
+  {
+    "mcc": "528",
     "mnc": "02",
     "iso": "BN",
     "country": "Brunei",
     "country_code": "673",
-    "network": "B-Mobile"
+    "network": "Progresif Cellular / B-Mobile"
   },
   {
     "mcc": "528",
@@ -20841,11 +21969,19 @@
   },
   {
     "mcc": "456",
-    "mnc": "299",
+    "mnc": "16",
     "iso": "KH",
     "country": "Cambodia",
     "country_code": "855",
     "network": "CooTel"
+  },
+  {
+    "mcc": "456",
+    "mnc": "18",
+    "iso": "KH",
+    "country": "Cambodia",
+    "country_code": "855",
+    "network": "Cellcard"
   },
   {
     "mcc": "456",
@@ -22377,6 +23513,14 @@
   },
   {
     "mcc": "402",
+    "mnc": "299",
+    "iso": "BT",
+    "country": "Bhutan",
+    "country_code": "975",
+    "network": "Failed Calls"
+  },
+  {
+    "mcc": "402",
     "mnc": "999",
     "iso": "BT",
     "country": "Bhutan",
@@ -22533,7 +23677,15 @@
     "iso": "TJ",
     "country": "Tajikistan",
     "country_code": "992",
-    "network": "Beeline"
+    "network": "Zet-Mobile"
+  },
+  {
+    "mcc": "436",
+    "mnc": "15",
+    "iso": "TJ",
+    "country": "Tajikistan",
+    "country_code": "992",
+    "network": "O-Mobile"
   },
   {
     "mcc": "436",
@@ -22745,19 +23897,11 @@
   },
   {
     "mcc": "437",
-    "mnc": "02",
-    "iso": "KG",
-    "country": "Kyrgyzstan",
-    "country_code": "996",
-    "network": "KT Mobile"
-  },
-  {
-    "mcc": "437",
     "mnc": "03",
     "iso": "KG",
     "country": "Kyrgyzstan",
     "country_code": "996",
-    "network": "Sem Mobile"
+    "network": "Fonex"
   },
   {
     "mcc": "437",
@@ -22766,6 +23910,14 @@
     "country": "Kyrgyzstan",
     "country_code": "996",
     "network": "MegaCom"
+  },
+  {
+    "mcc": "437",
+    "mnc": "06",
+    "iso": "KG",
+    "country": "Kyrgyzstan",
+    "country_code": "996",
+    "network": "KT Mobile"
   },
   {
     "mcc": "437",
@@ -23353,6 +24505,14 @@
   },
   {
     "mcc": "360",
+    "mnc": "070",
+    "iso": "VC",
+    "country": "Saint Vincent and the Grenadines",
+    "country_code": "1784",
+    "network": "Digicel"
+  },
+  {
+    "mcc": "360",
     "mnc": "110",
     "iso": "VC",
     "country": "Saint Vincent and the Grenadines",
@@ -23481,7 +24641,7 @@
   },
   {
     "mcc": "356",
-    "mnc": "070",
+    "mnc": "70",
     "iso": "KN",
     "country": "Saint Kitts and Nevis",
     "country_code": "1869",
@@ -23489,7 +24649,7 @@
   },
   {
     "mcc": "356",
-    "mnc": "70",
+    "mnc": "070",
     "iso": "KN",
     "country": "Saint Kitts and Nevis",
     "country_code": "1869",

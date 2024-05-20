@@ -54,6 +54,7 @@ mcc,mnc,iso,country,country_code,network
 302,820,CA,Canada,1,Rogers
 302,860,CA,Canada,1,Telus Mobility
 302,999,CA,Canada,1,Fix Line
+310,004,US,United States of America,1,Verizon Wireless
 310,010,US,United States of America,1,T-Mobile
 310,012,US,United States of America,1,Verizon Wireless
 310,013,US,United States of America,1,Verizon Wireless
@@ -420,7 +421,7 @@ mcc,mnc,iso,country,country_code,network
 401,08,KZ,Kazakhstan,7,Kazakhstan Online
 401,77,KZ,Kazakhstan,7,Tele2
 401,299,KZ,Kazakhstan,7,Arna
-401,299,KZ,Kazakhstan,7,Failed Call(s)
+401,299,KZ,Kazakhstan,7,Failed Calls
 401,999,KZ,Kazakhstan,7,Fix Line
 602,01,EG,Egypt,20,Orange
 602,02,EG,Egypt,20,Vodafone
@@ -454,6 +455,7 @@ mcc,mnc,iso,country,country_code,network
 202,16,GR,Greece,30,Inter Telecom
 202,299,GR,Greece,30,AMD Telecom
 202,299,GR,Greece,30,Apifon
+202,299,GR,Greece,30,Failed Calls
 202,299,GR,Greece,30,Interconnect
 202,299,GR,Greece,30,M-STAT
 202,299,GR,Greece,30,Nova
@@ -465,6 +467,7 @@ mcc,mnc,iso,country,country_code,network
 204,03,NL,Netherlands,31,Voiceworks Mobile
 204,04,NL,Netherlands,31,Vodafone
 204,05,NL,Netherlands,31,ElephantTalk
+204,06,NL,Netherlands,31,Vectone Mobile
 204,07,NL,Netherlands,31,Move / Teleena
 204,08,NL,Netherlands,31,KPN
 204,09,NL,Netherlands,31,Lycamobile
@@ -501,10 +504,8 @@ mcc,mnc,iso,country,country_code,network
 204,299,NL,Netherlands,31,Premium Numbers
 204,299,NL,Netherlands,31,Premium Routing
 204,299,NL,Netherlands,31,Redworks
-204,299,NL,Netherlands,31,Vectone Mobile
 204,299,NL,Netherlands,31,interactive digital media / IDM
 204,299,NL,Netherlands,31,mGage
-204,999,NL,Netherlands,31,Fix Line
 204,999,NL,Netherlands,31,Fix Line
 206,00,BE,Belgium,32,Proximus
 206,01,BE,Belgium,32,Proximus
@@ -524,6 +525,7 @@ mcc,mnc,iso,country,country_code,network
 206,34,BE,Belgium,32,onoff
 206,99,BE,Belgium,32,Lancelot
 206,299,BE,Belgium,32,FEBO
+206,299,BE,Belgium,32,Failed Calls
 206,299,BE,Belgium,32,GianCom
 206,299,BE,Belgium,32,L-mobi
 206,299,BE,Belgium,32,Legos
@@ -675,6 +677,7 @@ mcc,mnc,iso,country,country_code,network
 214,299,ES,Spain,34,Syma
 214,299,ES,Spain,34,Telsome
 214,299,ES,Spain,34,The Telecom Boutique
+214,299,ES,Spain,34,Vodafone Enabler
 214,299,ES,Spain,34,You Mobile
 214,999,ES,Spain,34,Fix Line
 216,01,HU,Hungary,36,Telenor
@@ -682,8 +685,8 @@ mcc,mnc,iso,country,country_code,network
 216,03,HU,Hungary,36,Digi
 216,30,HU,Hungary,36,Telekom
 216,70,HU,Hungary,36,Vodafone
-216,71,HU,Hungary,36,Vodafone
 216,299,HU,Hungary,36,Antenna
+216,299,HU,Hungary,36,Failed Calls
 216,299,HU,Hungary,36,Invitech
 216,299,HU,Hungary,36,Mobil4
 216,299,HU,Hungary,36,Netfone
@@ -749,7 +752,7 @@ mcc,mnc,iso,country,country_code,network
 228,09,CH,Switzerland,41,Comfone
 228,12,CH,Switzerland,41,Sunrise
 228,51,CH,Switzerland,41,relario
-228,53,CH,Switzerland,41,Sunrise
+228,53,CH,Switzerland,41,UPC
 228,54,CH,Switzerland,41,Lycamobile
 228,58,CH,Switzerland,41,Beeone
 228,59,CH,Switzerland,41,Vectone Mobile
@@ -759,6 +762,7 @@ mcc,mnc,iso,country,country_code,network
 228,66,CH,Switzerland,41,Inovia
 228,69,CH,Switzerland,41,MTEL
 228,70,CH,Switzerland,41,Tismi
+228,299,CH,Switzerland,41,Failed Calls
 228,999,CH,Switzerland,41,Fix Line
 232,01,AT,Austria,43,A1 Telekom
 232,02,AT,Austria,43,A1 Telekom
@@ -766,6 +770,7 @@ mcc,mnc,iso,country,country_code,network
 232,04,AT,Austria,43,T-Mobile / Magenta
 232,05,AT,Austria,43,3
 232,07,AT,Austria,43,Ventocom
+232,08,AT,Austria,43,Lycamobile
 232,09,AT,Austria,43,A1 Telekom
 232,10,AT,Austria,43,3
 232,11,AT,Austria,43,A1 Telekom
@@ -788,6 +793,7 @@ mcc,mnc,iso,country,country_code,network
 232,299,AT,Austria,43,DIALOG telekom
 232,299,AT,Austria,43,DIMOCO
 232,299,AT,Austria,43,Digital Privacy
+232,299,AT,Austria,43,Failed Calls
 232,299,AT,Austria,43,Innsbrucker Kommunalbetriebe
 232,299,AT,Austria,43,LINK Mobility
 232,299,AT,Austria,43,Lenovo Connect
@@ -824,10 +830,10 @@ mcc,mnc,iso,country,country_code,network
 234,27,GB,United Kingdom,44,Tata Communications Ltd
 234,28,GB,United Kingdom,44,Marathon Telecom
 234,29,GB,United Kingdom,44,aql
-234,30,GB,United Kingdom,44,T-Mobile
-234,31,GB,United Kingdom,44,T-Mobile
-234,32,GB,United Kingdom,44,T-Mobile
-234,33,GB,United Kingdom,44,Orange
+234,30,GB,United Kingdom,44,EE/Everything Everywhere
+234,31,GB,United Kingdom,44,EE/Everything Everywhere
+234,32,GB,United Kingdom,44,EE/Everything Everywhere
+234,33,GB,United Kingdom,44,EE/Everything Everywhere
 234,34,GB,United Kingdom,44,Orange
 234,35,GB,United Kingdom,44,JSC Ingenicum
 234,36,GB,United Kingdom,44,Sure Isle of Man
@@ -854,6 +860,7 @@ mcc,mnc,iso,country,country_code,network
 234,94,GB,United Kingdom,44,3
 234,95,GB,United Kingdom,44,Network Rail
 234,99,GB,United Kingdom,44,Sure Jersey
+234,299,GB,United Kingdom,44,Failed Calls
 234,999,GB,United Kingdom,44,Fix Line
 238,01,DK,Denmark,45,TDC
 238,02,DK,Denmark,45,Telenor
@@ -889,6 +896,7 @@ mcc,mnc,iso,country,country_code,network
 238,299,DK,Denmark,45,Failed Calls
 238,299,DK,Denmark,45,Firmafon
 238,299,DK,Denmark,45,Firstcom
+238,299,DK,Denmark,45,Flexfone
 238,299,DK,Denmark,45,Ipvision
 238,299,DK,Denmark,45,Lancelot
 238,299,DK,Denmark,45,Lebara
@@ -1123,9 +1131,9 @@ mcc,mnc,iso,country,country_code,network
 260,999,PL,Poland,48,Fix Line
 262,01,DE,Germany,49,T-mobile
 262,02,DE,Germany,49,Vodafone
-262,03,DE,Germany,49,Telefonica / E-Plus
+262,03,DE,Germany,49,Telefonica / O2
 262,04,DE,Germany,49,Vodafone
-262,05,DE,Germany,49,Telefonica / E-Plus
+262,05,DE,Germany,49,Telefonica / O2
 262,06,DE,Germany,49,T-mobile
 262,07,DE,Germany,49,Telefonica / O2
 262,08,DE,Germany,49,Telefonica / O2
@@ -1133,20 +1141,22 @@ mcc,mnc,iso,country,country_code,network
 262,10,DE,Germany,49,DB Netz
 262,11,DE,Germany,49,Telefonica / O2
 262,12,DE,Germany,49,sipgate
+262,13,DE,Germany,49,T-mobile
 262,14,DE,Germany,49,Lebara
 262,16,DE,Germany,49,Telefonica / O2
-262,17,DE,Germany,49,Telefonica / E-Plus
-262,20,DE,Germany,49,Telefonica / E-Plus
+262,17,DE,Germany,49,Telefonica / O2
+262,20,DE,Germany,49,Telefonica / O2
 262,21,DE,Germany,49,Multiconnect
 262,22,DE,Germany,49,sipgate
 262,23,DE,Germany,49,1&1
 262,24,DE,Germany,49,TelcoVillage
-262,42,DE,Germany,49,Vodafone
+262,25,DE,Germany,49,Mtel
+262,42,DE,Germany,49,Truphone
 262,43,DE,Germany,49,Lycamobile
 262,78,DE,Germany,49,T-mobile
 262,299,DE,Germany,49,Argon Networks
+262,299,DE,Germany,49,Failed Calls
 262,299,DE,Germany,49,Tismi
-262,299,DE,Germany,49,Truphone
 262,999,DE,Germany,49,Fix Line
 716,06,PE,Peru,51,Movistar
 716,07,PE,Peru,51,Entel
@@ -1166,13 +1176,14 @@ mcc,mnc,iso,country,country_code,network
 334,020,MX,Mexico,52,Telcel
 334,030,MX,Mexico,52,Movistar
 334,050,MX,Mexico,52,AT&T / IUSACell
+334,50,MX,Mexico,52,AT&T / IUSACell
 334,060,MX,Mexico,52,SAI PCS
 334,70,MX,Mexico,52,Unefon
 334,80,MX,Mexico,52,Unefon
 334,90,MX,Mexico,52,Nextel
 334,140,MX,Mexico,52,ALTAN Redes
 334,299,MX,Mexico,52,Altcel
-334,299,MX,Mexico,52,Failed Call(s)
+334,299,MX,Mexico,52,Failed Calls
 334,299,MX,Mexico,52,FreedomPop
 334,299,MX,Mexico,52,Ibo Cell
 334,299,MX,Mexico,52,Maxcom
@@ -1192,6 +1203,7 @@ mcc,mnc,iso,country,country_code,network
 722,034,AR,Argentina,54,Personal
 722,070,AR,Argentina,54,Movistar
 722,299,AR,Argentina,54,Express
+722,299,AR,Argentina,54,Failed Calls
 722,299,AR,Argentina,54,IPLAN
 722,299,AR,Argentina,54,Imowi
 722,299,AR,Argentina,54,Kallofer
@@ -1203,7 +1215,7 @@ mcc,mnc,iso,country,country_code,network
 722,340,AR,Argentina,54,Personal
 722,341,AR,Argentina,54,Personal
 722,999,AR,Argentina,54,Fix Line
-724,00,BR,Brazil,55,Nextel
+724,00,BR,Brazil,55,Claro-nxt/Nextel
 724,02,BR,Brazil,55,TIM
 724,03,BR,Brazil,55,TIM
 724,04,BR,Brazil,55,TIM
@@ -1222,7 +1234,7 @@ mcc,mnc,iso,country,country_code,network
 724,33,BR,Brazil,55,Algar Telecom
 724,34,BR,Brazil,55,Algar Telecom
 724,38,BR,Brazil,55,Claro
-724,39,BR,Brazil,55,Nextel
+724,39,BR,Brazil,55,Claro-nxt/Nextel
 724,54,BR,Brazil,55,TIM
 724,299,BR,Brazil,55,ARQIA
 724,299,BR,Brazil,55,Bbs Options
@@ -1292,6 +1304,7 @@ mcc,mnc,iso,country,country_code,network
 732,240,CO,Colombia,57,Flash Mobile
 732,299,CO,Colombia,57,ATnet
 732,299,CO,Colombia,57,Eztalk Mobile
+732,299,CO,Colombia,57,Failed Calls
 732,299,CO,Colombia,57,Gomobile
 732,299,CO,Colombia,57,Movil Exito
 732,299,CO,Colombia,57,Plintron
@@ -1349,6 +1362,7 @@ mcc,mnc,iso,country,country_code,network
 505,88,AU,Australia,61,Pivotel
 505,90,AU,Australia,61,Optus
 505,299,AU,Australia,61,ACMA
+505,299,AU,Australia,61,Failed Calls
 505,299,AU,Australia,61,Get SIM
 505,299,AU,Australia,61,Symbio
 505,999,AU,Australia,61,Fix Line
@@ -1564,6 +1578,7 @@ mcc,mnc,iso,country,country_code,network
 286,299,TR,Turkiye,90,Asistan Telekom
 286,299,TR,Turkiye,90,BasakCell
 286,299,TR,Turkiye,90,Compatel
+286,299,TR,Turkiye,90,Failed Calls
 286,299,TR,Turkiye,90,Fenix Telekom
 286,299,TR,Turkiye,90,Foniva
 286,299,TR,Turkiye,90,IsNet
@@ -1697,10 +1712,127 @@ mcc,mnc,iso,country,country_code,network
 404,873,IN,India,91,Jio
 404,874,IN,India,91,Jio
 404,999,IN,India,91,Fix Line
+405,01,IN,India,91,Vodafone
+405,02,IN,India,91,Airtel
+405,03,IN,India,91,Airtel
+405,04,IN,India,91,Idea
+405,05,IN,India,91,Vodafone
+405,06,IN,India,91,Airtel
+405,07,IN,India,91,Idea
+405,08,IN,India,91,Reliance Mobile
+405,09,IN,India,91,Reliance Mobile
+405,10,IN,India,91,Airtel
+405,11,IN,India,91,Vodafone
+405,12,IN,India,91,Idea
+405,13,IN,India,91,Vodafone
+405,14,IN,India,91,Idea
+405,15,IN,India,91,Vodafone
+405,16,IN,India,91,Airtel
+405,17,IN,India,91,Aircel
+405,18,IN,India,91,Reliance Mobile
+405,19,IN,India,91,Idea
+405,20,IN,India,91,Vodafone
+405,21,IN,India,91,Loop Mobile
+405,22,IN,India,91,Idea
+405,23,IN,India,91,Reliance Mobile
+405,24,IN,India,91,Idea
+405,25,IN,India,91,Aircel
+405,27,IN,India,91,Vodafone
+405,28,IN,India,91,Aircel
+405,29,IN,India,91,Aircel
+405,30,IN,India,91,Vodafone
+405,31,IN,India,91,Airtel
+405,33,IN,India,91,Aircel
+405,34,IN,India,91,BSNL Mobile
+405,35,IN,India,91,Aircel
+405,36,IN,India,91,Reliance Mobile
+405,37,IN,India,91,Aircel
+405,38,IN,India,91,BSNL Mobile
+405,41,IN,India,91,Aircel
+405,42,IN,India,91,Aircel
+405,43,IN,India,91,Vodafone
+405,44,IN,India,91,Idea
+405,46,IN,India,91,Vodafone
+405,49,IN,India,91,Airtel
+405,50,IN,India,91,Reliance Mobile
+405,51,IN,India,91,BSNL Mobile
+405,52,IN,India,91,Reliance Mobile
+405,53,IN,India,91,BSNL Mobile
+405,54,IN,India,91,BSNL Mobile
+405,55,IN,India,91,BSNL Mobile
+405,56,IN,India,91,Idea
+405,57,IN,India,91,BSNL Mobile
+405,58,IN,India,91,BSNL Mobile
+405,59,IN,India,91,BSNL Mobile
+405,60,IN,India,91,Vodafone
+405,62,IN,India,91,BSNL Mobile
+405,64,IN,India,91,BSNL Mobile
+405,66,IN,India,91,BSNL Mobile
+405,67,IN,India,91,Reliance Mobile
+405,68,IN,India,91,Garuda
+405,69,IN,India,91,Dolphin
+405,70,IN,India,91,Airtel
+405,71,IN,India,91,BSNL Mobile
+405,72,IN,India,91,BSNL Mobile
+405,73,IN,India,91,BSNL Mobile
+405,74,IN,India,91,BSNL Mobile
+405,75,IN,India,91,BSNL Mobile
+405,76,IN,India,91,BSNL Mobile
+405,77,IN,India,91,BSNL Mobile
+405,78,IN,India,91,Idea
+405,80,IN,India,91,BSNL Mobile
+405,81,IN,India,91,BSNL Mobile
+405,82,IN,India,91,Idea
+405,83,IN,India,91,Reliance Mobile
+405,84,IN,India,91,Vodafone
+405,85,IN,India,91,Reliance Mobile
+405,86,IN,India,91,Vodafone
+405,87,IN,India,91,Idea
+405,88,IN,India,91,Vodafone
+405,89,IN,India,91,Idea
+405,90,IN,India,91,Airtel
+405,91,IN,India,91,Aircel
+405,92,IN,India,91,Airtel
+405,93,IN,India,91,Airtel
+405,94,IN,India,91,Airtel
+405,95,IN,India,91,Airtel
+405,96,IN,India,91,Airtel
+405,97,IN,India,91,Airtel
+405,98,IN,India,91,Airtel
+405,845,IN,India,91,Idea
+405,846,IN,India,91,Idea
+405,848,IN,India,91,Idea
+405,849,IN,India,91,Idea
+405,850,IN,India,91,Idea
+405,852,IN,India,91,Idea
+405,853,IN,India,91,Idea
+405,854,IN,India,91,Jio
+405,855,IN,India,91,Jio
+405,856,IN,India,91,Jio
+405,857,IN,India,91,Jio
+405,858,IN,India,91,Jio
+405,859,IN,India,91,Jio
+405,860,IN,India,91,Jio
+405,861,IN,India,91,Jio
+405,861,IN,India,91,Jio
+405,862,IN,India,91,Jio
+405,863,IN,India,91,Jio
+405,864,IN,India,91,Jio
+405,865,IN,India,91,Jio
+405,866,IN,India,91,Jio
+405,867,IN,India,91,Jio
+405,868,IN,India,91,Jio
+405,869,IN,India,91,Jio
+405,870,IN,India,91,Jio
+405,871,IN,India,91,Jio
+405,872,IN,India,91,Jio
+405,873,IN,India,91,Jio
+405,874,IN,India,91,Jio
+405,999,IN,India,91,Fix Line
 410,01,PK,Pakistan,92,Jazz
 410,03,PK,Pakistan,92,Ufone
 410,04,PK,Pakistan,92,Zong
-410,05,PK,Pakistan,92,SCOM
+410,05,PK,Pakistan,92,SCO Mobile
 410,06,PK,Pakistan,92,Telenor
 410,07,PK,Pakistan,92,Jazz
 410,299,PK,Pakistan,92,Failed Calls
@@ -1726,7 +1858,7 @@ mcc,mnc,iso,country,country_code,network
 414,05,MM,Myanmar,95,Ooredoo
 414,06,MM,Myanmar,95,Telenor
 414,09,MM,Myanmar,95,Mytel
-414,999,MM,Myanmar,95,Failed Calls
+414,299,MM,Myanmar,95,Failed Calls
 414,999,MM,Myanmar,95,Fix Line
 432,01,IR,Iran,98,SamanTel
 432,08,IR,Iran,98,Shatel Mobile
@@ -1830,7 +1962,10 @@ mcc,mnc,iso,country,country_code,network
 618,999,LR,Liberia,231,Fix Line
 619,01,SL,Sierra Leone,232,Orange
 619,03,SL,Sierra Leone,232,Africell
+619,04,SL,Sierra Leone,232,Comium
+619,05,SL,Sierra Leone,232,Africell
 619,07,SL,Sierra Leone,232,Qcell
+619,25,SL,Sierra Leone,232,Mobitel
 619,299,SL,Sierra Leone,232,Failed Calls
 619,299,SL,Sierra Leone,232,IPTel
 619,299,SL,Sierra Leone,232,Onlime
@@ -1932,6 +2067,7 @@ mcc,mnc,iso,country,country_code,network
 635,299,RW,Rwanda,250,Failed Calls
 635,999,RW,Rwanda,250,Fix Line
 636,01,ET,Ethiopia,251,Ethio Mobile
+636,02,ET,Ethiopia,251,Safaricom
 636,299,ET,Ethiopia,251,Failed Calls
 636,999,ET,Ethiopia,251,Fix Line
 637,01,SO,Somalia,252,Telesom
@@ -1990,6 +2126,7 @@ mcc,mnc,iso,country,country_code,network
 642,07,BI,Burundi,257,Smart
 642,08,BI,Burundi,257,Lumitel
 642,82,BI,Burundi,257,Leo
+642,299,BI,Burundi,257,Failed Calls
 642,999,BI,Burundi,257,Fix	Line
 643,01,MZ,Mozambique,258,TMCEL
 643,03,MZ,Mozambique,258,Movitel
@@ -2040,7 +2177,7 @@ mcc,mnc,iso,country,country_code,network
 652,04,BW,Botswana,267,beMobile
 652,299,BW,Botswana,267,Failed Calls
 652,999,BW,Botswana,267,Fix Line
-653,01,SZ,Swaziland,268,EswatiniTelecom
+653,01,SZ,Swaziland,268,Eswatini Telecom
 653,02,SZ,Swaziland,268,Eswatini Mobile
 653,10,SZ,Swaziland,268,Swazi MTN
 653,299,SZ,Swaziland,268,Failed Calls
@@ -2109,6 +2246,7 @@ mcc,mnc,iso,country,country_code,network
 272,11,IE,Ireland,353,Tesco Mobile
 272,13,IE,Ireland,353,Lycamobile
 272,15,IE,Ireland,353,Virgin Media
+272,16,IE,Ireland,353,Carphone Mobile
 272,17,IE,Ireland,353,3
 272,299,IE,Ireland,353,BT
 272,299,IE,Ireland,353,Cubic Telecom
@@ -2132,7 +2270,7 @@ mcc,mnc,iso,country,country_code,network
 276,03,AL,Albania,355,ALBtelecom Mobile / Eagle
 276,299,AL,Albania,355,Failed Calls
 276,999,AL,Albania,355,Fix Line
-278,01,MT,Malta,356,Vodafone
+278,01,MT,Malta,356,Epic
 278,21,MT,Malta,356,GO Mobile
 278,30,MT,Malta,356,GO Mobile
 278,77,MT,Malta,356,Melita
@@ -2181,6 +2319,7 @@ mcc,mnc,iso,country,country_code,network
 244,299,FI,Finland,358,Lancelot
 244,299,FI,Finland,358,MI Carrier Services
 244,299,FI,Finland,358,MobiWeb
+244,299,FI,Finland,358,Premium Numbers
 244,299,FI,Finland,358,RAILI
 244,299,FI,Finland,358,TravelSim
 244,299,FI,Finland,358,Twilio
@@ -2385,8 +2524,8 @@ mcc,mnc,iso,country,country_code,network
 706,05,SV,El Salvador,503,RED
 706,299,SV,El Salvador,503,Failed Calls
 706,999,SV,El Salvador,503,Fix Line
-708,001,HN,Honduras,504,Claro
 708,01,HN,Honduras,504,Claro
+708,001,HN,Honduras,504,Claro
 708,02,HN,Honduras,504,Tigo
 708,002,HN,Honduras,504,Tigo
 708,030,HN,Honduras,504,HonduTel
@@ -2395,8 +2534,8 @@ mcc,mnc,iso,country,country_code,network
 708,999,HN,Honduras,504,Fix Line
 710,21,NI,Nicaragua,505,Claro
 710,30,NI,Nicaragua,505,Movistar
+710,68,NI,Nicaragua,505,CooTel
 710,73,NI,Nicaragua,505,Claro
-710,299,NI,Nicaragua,505,CooTel
 710,299,NI,Nicaragua,505,Failed Calls
 710,999,NI,Nicaragua,505,Fix Line
 712,01,CR,Costa Rica,506,Kolbi / ICE
@@ -2449,6 +2588,7 @@ mcc,mnc,iso,country,country_code,network
 744,02,PY,Paraguay,595,Claro
 744,03,PY,Paraguay,595,Personal
 744,04,PY,Paraguay,595,Tigo
+744,05,PY,Paraguay,595,Personal
 744,299,PY,Paraguay,595,Failed Calls
 744,999,PY,Paraguay,595,Fix Line
 746,02,SR,Suriname,597,Telesur
@@ -2471,7 +2611,8 @@ mcc,mnc,iso,country,country_code,network
 514,03,TL,East Timor,670,Telemor
 514,299,TL,East Timor,670,Failed Calls
 514,999,TL,East Timor,670,Fix Line
-528,02,BN,Brunei,673,B-Mobile
+528,01,BN,Brunei,673,imagine
+528,02,BN,Brunei,673,Progresif Cellular / B-Mobile
 528,03,BN,Brunei,673,DST
 528,11,BN,Brunei,673,DST
 528,299,BN,Brunei,673,Failed Calls
@@ -2604,7 +2745,8 @@ mcc,mnc,iso,country,country_code,network
 456,06,KH,Cambodia,855,Smart
 456,08,KH,Cambodia,855,Metfone
 456,11,KH,Cambodia,855,Seatel
-456,299,KH,Cambodia,855,CooTel
+456,16,KH,Cambodia,855,CooTel
+456,18,KH,Cambodia,855,Cellcard
 456,299,KH,Cambodia,855,Failed Calls
 456,299,KH,Cambodia,855,MPTC
 456,999,KH,Cambodia,855,Fix Line
@@ -2796,6 +2938,7 @@ mcc,mnc,iso,country,country_code,network
 402,11,BT,Bhutan,975,B-Mobile
 402,17,BT,Bhutan,975,B-Mobile
 402,77,BT,Bhutan,975,TashiCell
+402,299,BT,Bhutan,975,Failed Calls
 402,999,BT,Bhutan,975,Fix Line
 428,00,MN,Mongolia,976,Skytel
 428,88,MN,Mongolia,976,Unitel
@@ -2815,7 +2958,8 @@ mcc,mnc,iso,country,country_code,network
 436,02,TJ,Tajikistan,992,Tcell
 436,03,TJ,Tajikistan,992,Megafon
 436,04,TJ,Tajikistan,992,Babilon-Mobile
-436,05,TJ,Tajikistan,992,Beeline
+436,05,TJ,Tajikistan,992,Zet-Mobile
+436,15,TJ,Tajikistan,992,O-Mobile
 436,299,TJ,Tajikistan,992,Failed Calls
 436,299,TJ,Tajikistan,992,Premium Numbers
 436,999,TJ,Tajikistan,992,Fix Line
@@ -2842,9 +2986,9 @@ mcc,mnc,iso,country,country_code,network
 282,299,GE,Georgia,995,Failed Calls
 282,999,GE,Georgia,995,Fix Line
 437,01,KG,Kyrgyzstan,996,Beeline
-437,02,KG,Kyrgyzstan,996,KT Mobile
-437,03,KG,Kyrgyzstan,996,Sem Mobile
+437,03,KG,Kyrgyzstan,996,Fonex
 437,05,KG,Kyrgyzstan,996,MegaCom
+437,06,KG,Kyrgyzstan,996,KT Mobile
 437,09,KG,Kyrgyzstan,996,O!
 437,10,KG,Kyrgyzstan,996,Saima
 437,299,KG,Kyrgyzstan,996,Failed Calls
@@ -2918,6 +3062,7 @@ mcc,mnc,iso,country,country_code,network
 366,299,DM,Dominica,1767,Failed Calls
 366,999,DM,Dominica,1767,Fix Line
 360,050,VC,Saint Vincent and the Grenadines,1784,Digicel
+360,070,VC,Saint Vincent and the Grenadines,1784,Digicel
 360,110,VC,Saint Vincent and the Grenadines,1784,Flow
 360,299,VC,Saint Vincent and the Grenadines,1784,Failed Calls
 360,999,VC,Saint Vincent and the Grenadines,1784,Fix Line
@@ -2934,8 +3079,8 @@ mcc,mnc,iso,country,country_code,network
 356,11,KN,Saint Kitts and Nevis,1869,Flow
 356,050,KN,Saint Kitts and Nevis,1869,Digicel
 356,50,KN,Saint Kitts and Nevis,1869,Digicel
-356,070,KN,Saint Kitts and Nevis,1869,Chippie
 356,70,KN,Saint Kitts and Nevis,1869,Chippie
+356,070,KN,Saint Kitts and Nevis,1869,Chippie
 356,110,KN,Saint Kitts and Nevis,1869,Flow
 356,299,KN,Saint Kitts and Nevis,1869,Failed Calls
 356,299,KN,Saint Kitts and Nevis,1869,The Cable
