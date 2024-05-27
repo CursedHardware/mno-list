@@ -1175,8 +1175,8 @@ mcc,mnc,iso,country,country_code,network
 334,010,MX,Mexico,52,Nextel
 334,020,MX,Mexico,52,Telcel
 334,030,MX,Mexico,52,Movistar
-334,050,MX,Mexico,52,AT&T / IUSACell
 334,50,MX,Mexico,52,AT&T / IUSACell
+334,050,MX,Mexico,52,AT&T / IUSACell
 334,060,MX,Mexico,52,SAI PCS
 334,70,MX,Mexico,52,Unefon
 334,80,MX,Mexico,52,Unefon
@@ -3077,8 +3077,8 @@ mcc,mnc,iso,country,country_code,network
 374,299,TT,Trinidad and Tobago,1868,Failed Calls
 374,999,TT,Trinidad and Tobago,1868,Fix Line
 356,11,KN,Saint Kitts and Nevis,1869,Flow
-356,050,KN,Saint Kitts and Nevis,1869,Digicel
 356,50,KN,Saint Kitts and Nevis,1869,Digicel
+356,050,KN,Saint Kitts and Nevis,1869,Digicel
 356,70,KN,Saint Kitts and Nevis,1869,Chippie
 356,070,KN,Saint Kitts and Nevis,1869,Chippie
 356,110,KN,Saint Kitts and Nevis,1869,Flow
