@@ -9409,7 +9409,7 @@
   },
   {
     "mcc": "334",
-    "mnc": "50",
+    "mnc": "050",
     "iso": "MX",
     "country": "Mexico",
     "country_code": "52",
@@ -9417,7 +9417,7 @@
   },
   {
     "mcc": "334",
-    "mnc": "050",
+    "mnc": "50",
     "iso": "MX",
     "country": "Mexico",
     "country_code": "52",
@@ -20217,14 +20217,6 @@
   },
   {
     "mcc": "708",
-    "mnc": "02",
-    "iso": "HN",
-    "country": "Honduras",
-    "country_code": "504",
-    "network": "Tigo"
-  },
-  {
-    "mcc": "708",
     "mnc": "002",
     "iso": "HN",
     "country": "Honduras",
@@ -20233,7 +20225,15 @@
   },
   {
     "mcc": "708",
-    "mnc": "030",
+    "mnc": "02",
+    "iso": "HN",
+    "country": "Honduras",
+    "country_code": "504",
+    "network": "Tigo"
+  },
+  {
+    "mcc": "708",
+    "mnc": "30",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
@@ -20241,7 +20241,7 @@
   },
   {
     "mcc": "708",
-    "mnc": "30",
+    "mnc": "030",
     "iso": "HN",
     "country": "Honduras",
     "country_code": "504",
