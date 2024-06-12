@@ -1,0 +1,17 @@
+{
+  "name": "@cursedhardware/mno-list",
+  "version": "0.0.0",
+  "description": "MNO List",
+  "license": "MIT",
+  "author": "CursedHardware",
+  "main": "carriers.json",
+  "files": [
+    "README.md",
+    "carriers.json",
+    "carriers.json.d.ts"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  }
+}

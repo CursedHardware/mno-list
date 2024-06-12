@@ -8,12 +8,26 @@ on:
 jobs:
   download:
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      packages: write
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.9'
           cache: pip
+      - uses: actions/setup-node@v4
       - run: pip install -r requirements.txt
       - run: ./download.py
+      - name: Setup NPM
+        run: |
+          npm version "0.0.0-$(date "+%Y%m%d%H%M%S")"
+          npm config set '//npm.pkg.github.com/:_authToken' "${{ secrets.GITHUB_TOKEN }}"
+        working-directory: npm
+      - run: npm publish --provenance
+        working-directory: npm
       - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: carriers.csv

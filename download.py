@@ -45,7 +45,7 @@ def main():
         writer = csv.writer(fp)
         writer.writerow(_.name for _ in dataclasses.fields(Record))
         writer.writerows(map(dataclasses.astuple, records))
-    with open("carriers.json", "w") as fp:
+    with open("npm/carriers.json", "w") as fp:
         json.dump(list(map(dataclasses.asdict, records)), fp, indent=2)
 
 

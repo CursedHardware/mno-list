@@ -1,6 +1,6 @@
 # List of Carrier
 
-Mobile Country Codes (MCC) and Mobile Network Codes (MNC) table in [CSV](carriers.csv).
+Mobile Country Codes (MCC) and Mobile Network Codes (MNC) table in JSON.
 Updated weekly.
 
 The table is pulled from <https://mcc-mnc.com>.
