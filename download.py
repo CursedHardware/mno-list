@@ -26,7 +26,7 @@ def get_records() -> Iterable[Record]:
     text = response.text
     text = text[text.index("<tbody>"): text.index("</tbody>") + len("</tbody>")]
     for row in HTML(text).find("body/tbody"):
-        fields = [column.text for column in row]
+        fields = [column.text.strip() if column.text else None for column in row]
         iso = fields[2].upper()
         yield Record(
             mcc=fields[0],
