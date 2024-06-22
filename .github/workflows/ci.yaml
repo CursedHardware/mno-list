@@ -23,7 +23,7 @@ jobs:
       - run: ./download.py
       - name: Setup NPM
         run: |
-          npm version "0.0.0-$(date "+%Y%m%d%H%M%S")"
+          npm version "$(date --utc "+%Y.%m.%d-%H%M%S")"
           npm config set '//npm.pkg.github.com/:_authToken' "${{ secrets.GITHUB_TOKEN }}"
         working-directory: npm
       - run: npm publish --provenance
