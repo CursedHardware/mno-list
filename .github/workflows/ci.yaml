@@ -2,32 +2,102 @@ name: CI
 
 on:
   workflow_dispatch:
+  push:
+    branches: [ main ]
   schedule:
-    - cron: 0 0 * * 1 # At 00:00 on Monday.
+    - cron: 0 0 * * * # At 00:00.
 
 jobs:
-  download:
-    runs-on: ubuntu-latest
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: pip
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Download
+        run: ./download.py
+      - name: Upload Artifact (carriers)
+        uses: actions/upload-artifact@v4
+        with:
+          name: carriers
+          path: carriers
+      - name: Upload Artifact (npm)
+        uses: actions/upload-artifact@v4
+        with:
+          name: npm
+          path: npm
+  build-pages:
+    runs-on: ubuntu-22.04
+    needs: build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: carriers
+          path: carriers
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: carriers
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+  push:
+    runs-on: ubuntu-22.04
+    needs: build
+    permissions:
+      id-token: write
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: carriers
+          path: carriers
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '[skip ci] Apply automatic changes'
+          file_pattern: carriers/*
+  deploy-npm:
+    runs-on: ubuntu-22.04
+    needs: build
     permissions:
       id-token: write
       packages: write
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
         with:
-          python-version: '3.9'
-          cache: pip
-      - uses: actions/setup-node@v4
-      - run: pip install -r requirements.txt
-      - run: ./download.py
+          name: npm
+      - name: Setup Nodejs
+        uses: actions/setup-node@v4
       - name: Setup NPM
         run: |
           npm version "$(date --utc "+%Y.%m.%d-%H%M%S")"
           npm config set '//npm.pkg.github.com/:_authToken' "${{ secrets.GITHUB_TOKEN }}"
-        working-directory: npm
       - run: npm publish --provenance
-        working-directory: npm
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          file_pattern: carriers.csv
+  deploy-pages:
+    runs-on: ubuntu-22.04
+    needs: build-pages
+    permissions:
+      id-token: write
+      pages: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

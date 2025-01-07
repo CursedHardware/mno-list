@@ -1,53 +1,51 @@
 #!/usr/bin/env python3
-import csv
-import dataclasses
 import json
-from typing import Iterable, Optional
+import os
 
-import requests
-from lxml.etree import HTML
+import cbor2
+import msgpack
+from peewee import SqliteDatabase
+from requests import Session
+from requests_cache import CachedSession
 
-DATASOURCE_URL = "https://mcc-mnc.com"
+from handlers import google, mccmnc_dot_net, mccmnc_dot_com
+from handlers.database import db
+from handlers.rebuild import rebuild_carriers, export_carriers
+from handlers.utils import CustomEncoder, emit_file
 
-
-@dataclasses.dataclass
-class Record:
-    mcc: str
-    mnc: str
-    iso: Optional[str]
-    country: str
-    country_code: Optional[str]
-    network: str
-
-
-def get_records() -> Iterable[Record]:
-    response = requests.get(DATASOURCE_URL)
-    response.raise_for_status()
-    text = response.text
-    text = text[text.index("<tbody>"): text.index("</tbody>") + len("</tbody>")]
-    for row in HTML(text).find("body/tbody"):
-        fields = [column.text.strip() if column.text else None for column in row]
-        iso = fields[2].upper()
-        yield Record(
-            mcc=fields[0],
-            mnc=fields[1],
-            iso=iso if iso != "N/A" else None,
-            country=fields[3],
-            country_code=fields[4],
-            network=fields[5],
-        )
+IS_CI = "CI" in os.environ
 
 
 def main():
-    print("Downloading")
-    records = list(get_records())
-    print("Downloaded")
-    with open("carriers.csv", "w") as fp:
-        writer = csv.writer(fp)
-        writer.writerow(_.name for _ in dataclasses.fields(Record))
-        writer.writerows(map(dataclasses.astuple, records))
-    with open("npm/carriers.json", "w") as fp:
-        json.dump(list(map(dataclasses.asdict, records)), fp, indent=2, skipkeys=True)
+    session = Session() if IS_CI else CachedSession(".cache")
+    db.initialize(SqliteDatabase(":memory:" if IS_CI else "plmn.sqlite"))
+    with db, session:
+        print("Downloading from mcc-mnc.net")
+        mccmnc_dot_net.fetch(session)
+        print("Downloading from mcc-mnc.com")
+        mccmnc_dot_com.fetch(session)
+        print("Rebuilding mcc-mnc.{com,net}")
+        rebuild_carriers()
+        print("Exporting mcc-mnc.{com,net}")
+        save_file(list(export_carriers()), name="unified")
+        print("Downloading from Google")
+        save_file(list(google.fetch(session)), name="google")
+
+
+def save_file(carriers: list[dict[str, str]], name: str):
+    emit_file(json.dumps(carriers, cls=CustomEncoder, indent=2), filenames=[
+        os.path.join("carriers", f"{name}.json"),
+    ])
+    emit_file(json.dumps(carriers, cls=CustomEncoder), filenames=[
+        os.path.join("carriers", f"{name}.min.json"),
+        os.path.join("npm", "carriers", f"{name}.json"),
+    ])
+    emit_file(cbor2.dumps(carriers), filenames=[
+        os.path.join("carriers", f"{name}.cbor.gz"),
+    ])
+    emit_file(msgpack.dumps(carriers), filenames=[
+        os.path.join("carriers", f"{name}.msgpack.gz"),
+    ])
 
 
 if __name__ == "__main__":

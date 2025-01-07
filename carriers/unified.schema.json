@@ -1,0 +1,51 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "$ref": "#/definitions/carrier"
+  },
+  "definitions": {
+    "carrier": {
+      "type": "object",
+      "properties": {
+        "brand": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "The brand name"
+        },
+        "operator": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "The operator name"
+        },
+        "mccmnc_tuple": {
+          "$ref": "#/definitions/mccmnc_tuple"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "brand",
+        "operator",
+        "mccmnc_tuple"
+      ]
+    },
+    "mccmnc_tuple": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[A-Z]{2}$",
+        "description": "The country code"
+      },
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "description": "The MCC and MNC tuple"
+        }
+      }
+    }
+  }
+}

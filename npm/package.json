@@ -4,7 +4,7 @@
   "description": "MNO List",
   "license": "MIT",
   "author": "CursedHardware",
-  "main": "carriers.json",
+  "main": "carriers/google.json",
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com"

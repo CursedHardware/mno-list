@@ -1,2 +1,15 @@
 /.idea
 /.venv
+
+# Caching
+__pycache__
+*.sqlite
+*.sqlite-journal
+
+/carriers/*
+!/carriers/*.json
+!/carriers/README.md
+/carriers/*.min.*
+
+# NPM packages
+/npm/carriers/*.json
