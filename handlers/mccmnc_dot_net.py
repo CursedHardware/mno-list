@@ -20,6 +20,8 @@ def make_carrier_list(session: requests.Session):
         for row in response.json()
     ]
     for record in records:
+        if "brand" not in record and "operator" not in record:
+            continue
         for iso_code in record["iso"].split("/"):
             yield CarrierDotNet(
                 brand=record.get("brand"),

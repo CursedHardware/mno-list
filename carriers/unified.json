@@ -1,22 +1,6 @@
 [
   {
     "brand": null,
-    "operator": null,
-    "mccmnc_tuple": {
-      "NO": [
-        "242299"
-      ],
-      "SE": [
-        "240299"
-      ],
-      "US": [
-        "311400",
-        "310014"
-      ]
-    }
-  },
-  {
-    "brand": null,
     "operator": "1NCE GmbH",
     "mccmnc_tuple": {
       "XX": [

@@ -28,6 +28,8 @@ def make_carrier_list(session: requests.Session):
             if clean_space(column.text)
         }
         record["iso"] = record["iso"].upper()
+        if "network" not in record:
+            continue
         yield CarrierDotCom(
             brand=record.get("network"),
             iso_code=record["iso"] if record["iso"] != "N/A" else None,
