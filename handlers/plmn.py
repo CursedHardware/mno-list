@@ -2,21 +2,19 @@ __all__ = ["PLMN"]
 
 
 class PLMN(bytes):
-    @classmethod
-    def from_mccmnc_tuple(cls, mccmnc_tuple: str) -> "PLMN":
-        return cls.from_tuple(mccmnc_tuple[:3], mccmnc_tuple[3:])
-
     @staticmethod
-    def from_tuple(mcc: str, mnc: str) -> "PLMN":
-        mcc = list(map(int, mcc))
-        mnc = list(map(int, mnc))
-        if len(mnc) == 2:
-            mnc.append(0xf)
+    def from_mccmnc_tuple(mccmnc_tuple: str) -> "PLMN":
+        mccmnc_tuple = bytearray(_ - 0x30 for _ in mccmnc_tuple.encode("ascii"))
+        mccmnc_tuple.append(0xf)
         return PLMN([
-            mcc[1] << 4 | mcc[0],
-            mnc[2] << 4 | mcc[2],
-            mnc[1] << 4 | mnc[0],
+            mccmnc_tuple[1] << 4 | mccmnc_tuple[0],
+            mccmnc_tuple[5] << 4 | mccmnc_tuple[2],
+            mccmnc_tuple[4] << 4 | mccmnc_tuple[3],
         ])
+
+    @classmethod
+    def from_tuple(cls, mcc: str, mnc: str) -> "PLMN":
+        return cls.from_mccmnc_tuple(mcc + mnc)
 
     @property
     def mcc(self) -> str:
