@@ -21,14 +21,12 @@ class PLMN(bytes):
     @property
     def mcc(self) -> str:
         mcc = [(self[0] & 0x0F), (self[0] & 0xF0) >> 4, (self[1] & 0x0F)]
-        return ''.join(map(str, mcc))
+        return bytes(_ + 0x30 for _ in mcc if _ != 0xf).decode("ascii")
 
     @property
     def mnc(self) -> str:
         mnc = [(self[2] & 0x0F), (self[2] & 0xF0) >> 4, (self[1] & 0xF0) >> 4]
-        if mnc[2] == 0xf:
-            mnc.pop()
-        return ''.join(map(str, mnc))
+        return bytes(_ + 0x30 for _ in mnc if _ != 0xf).decode("ascii")
 
     @property
     def mccmnc(self) -> str:
