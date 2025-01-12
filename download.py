@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import json
 import os
+from pathlib import Path
 
 import cbor2
 import msgpack
@@ -14,6 +15,9 @@ from handlers.rebuild import rebuild_carriers, export_carriers
 from handlers.utils import CustomEncoder, emit_file
 
 IS_CI = "CI" in os.environ
+BASE_PATH = Path(os.getcwd())
+DATA_PATH = BASE_PATH / "carriers"
+NPM_PATH = BASE_PATH / "npm" / "carriers"
 
 
 def main():
@@ -33,18 +37,22 @@ def main():
 
 
 def save_file(carriers: list[dict[str, str]], name: str):
-    emit_file(json.dumps(carriers, cls=CustomEncoder, indent=2), filenames=[
-        os.path.join("carriers", f"{name}.json"),
+    emit_file(json.dumps(carriers, cls=CustomEncoder, indent=2), paths=[
+        DATA_PATH / f"{name}.json",
     ])
-    emit_file(json.dumps(carriers, cls=CustomEncoder), filenames=[
-        os.path.join("carriers", f"{name}.min.json"),
-        os.path.join("npm", "carriers", f"{name}.json"),
+    emit_file(json.dumps(carriers, cls=CustomEncoder), paths=[
+        DATA_PATH / f"{name}.min.json",
+        DATA_PATH / f"{name}.min.json.gz",
+        DATA_PATH / f"{name}.min.json.bz2",
+        NPM_PATH / f"{name}.json",
     ])
-    emit_file(cbor2.dumps(carriers), filenames=[
-        os.path.join("carriers", f"{name}.cbor.gz"),
+    emit_file(cbor2.dumps(carriers), paths=[
+        DATA_PATH / f"{name}.cbor.gz",
+        DATA_PATH / f"{name}.cbor.bz2",
     ])
-    emit_file(msgpack.dumps(carriers), filenames=[
-        os.path.join("carriers", f"{name}.msgpack.gz"),
+    emit_file(msgpack.dumps(carriers), paths=[
+        DATA_PATH / f"{name}.msgpack.gz",
+        DATA_PATH / f"{name}.msgpack.bz2",
     ])
 
 
