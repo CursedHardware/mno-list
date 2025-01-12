@@ -1,0 +1,1207 @@
+[
+  {
+    "mcc": "202",
+    "iso": "GR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "204",
+    "iso": "NL",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "206",
+    "iso": "BE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "208",
+    "iso": "FR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "212",
+    "iso": "MC",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "213",
+    "iso": "AD",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "214",
+    "iso": "ES",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "216",
+    "iso": "HU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "218",
+    "iso": "BA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "219",
+    "iso": "HR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "220",
+    "iso": "RS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "221",
+    "iso": "XK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "222",
+    "iso": "IT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "225",
+    "iso": "VA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "226",
+    "iso": "RO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "228",
+    "iso": "CH",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "230",
+    "iso": "CZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "231",
+    "iso": "SK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "232",
+    "iso": "AT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "234",
+    "iso": "GB",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "235",
+    "iso": "GB",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "238",
+    "iso": "DK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "240",
+    "iso": "SE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "242",
+    "iso": "NO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "244",
+    "iso": "FI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "246",
+    "iso": "LT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "247",
+    "iso": "LV",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "248",
+    "iso": "EE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "250",
+    "iso": "RU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "255",
+    "iso": "UA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "257",
+    "iso": "BY",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "259",
+    "iso": "MD",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "260",
+    "iso": "PL",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "262",
+    "iso": "DE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "266",
+    "iso": "GI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "268",
+    "iso": "PT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "270",
+    "iso": "LU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "272",
+    "iso": "IE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "274",
+    "iso": "IS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "276",
+    "iso": "AL",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "278",
+    "iso": "MT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "280",
+    "iso": "CY",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "282",
+    "iso": "GE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "283",
+    "iso": "AM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "284",
+    "iso": "BG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "286",
+    "iso": "TR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "288",
+    "iso": "FO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "289",
+    "iso": "GE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "290",
+    "iso": "GL",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "292",
+    "iso": "SM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "293",
+    "iso": "SI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "294",
+    "iso": "MK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "295",
+    "iso": "LI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "297",
+    "iso": "ME",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "302",
+    "iso": "CA",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "308",
+    "iso": "PM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "310",
+    "iso": "US",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "311",
+    "iso": "US",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "312",
+    "iso": "US",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "313",
+    "iso": "US",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "314",
+    "iso": "US",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "315",
+    "iso": "US",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "316",
+    "iso": "US",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "330",
+    "iso": "PR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "332",
+    "iso": "VI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "334",
+    "iso": "MX",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "338",
+    "iso": "JM",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "340",
+    "iso": "GP",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "342",
+    "iso": "BB",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "344",
+    "iso": "AG",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "346",
+    "iso": "KY",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "348",
+    "iso": "VG",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "350",
+    "iso": "BM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "352",
+    "iso": "GD",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "354",
+    "iso": "MS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "356",
+    "iso": "KN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "358",
+    "iso": "LC",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "360",
+    "iso": "VC",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "362",
+    "iso": "CW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "363",
+    "iso": "AW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "364",
+    "iso": "BS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "365",
+    "iso": "AI",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "366",
+    "iso": "DM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "368",
+    "iso": "CU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "370",
+    "iso": "DO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "372",
+    "iso": "HT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "374",
+    "iso": "TT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "376",
+    "iso": "TC",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "400",
+    "iso": "AZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "401",
+    "iso": "KZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "402",
+    "iso": "BT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "404",
+    "iso": "IN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "405",
+    "iso": "IN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "406",
+    "iso": "IN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "410",
+    "iso": "PK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "412",
+    "iso": "AF",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "413",
+    "iso": "LK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "414",
+    "iso": "MM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "415",
+    "iso": "LB",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "416",
+    "iso": "JO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "417",
+    "iso": "SY",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "418",
+    "iso": "IQ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "419",
+    "iso": "KW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "420",
+    "iso": "SA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "421",
+    "iso": "YE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "422",
+    "iso": "OM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "423",
+    "iso": "PS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "424",
+    "iso": "AE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "425",
+    "iso": "IL",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "426",
+    "iso": "BH",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "427",
+    "iso": "QA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "428",
+    "iso": "MN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "429",
+    "iso": "NP",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "430",
+    "iso": "AE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "431",
+    "iso": "AE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "432",
+    "iso": "IR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "434",
+    "iso": "UZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "436",
+    "iso": "TJ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "437",
+    "iso": "KG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "438",
+    "iso": "TM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "440",
+    "iso": "JP",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "441",
+    "iso": "JP",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "450",
+    "iso": "KR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "452",
+    "iso": "VN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "454",
+    "iso": "HK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "455",
+    "iso": "MO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "456",
+    "iso": "KH",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "457",
+    "iso": "LA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "460",
+    "iso": "CN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "461",
+    "iso": "CN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "466",
+    "iso": "TW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "467",
+    "iso": "KP",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "470",
+    "iso": "BD",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "472",
+    "iso": "MV",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "502",
+    "iso": "MY",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "505",
+    "iso": "AU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "510",
+    "iso": "ID",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "514",
+    "iso": "TL",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "515",
+    "iso": "PH",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "520",
+    "iso": "TH",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "525",
+    "iso": "SG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "528",
+    "iso": "BN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "530",
+    "iso": "NZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "534",
+    "iso": "MP",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "535",
+    "iso": "GU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "536",
+    "iso": "NR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "537",
+    "iso": "PG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "539",
+    "iso": "TO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "540",
+    "iso": "SB",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "541",
+    "iso": "VU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "542",
+    "iso": "FJ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "543",
+    "iso": "WF",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "544",
+    "iso": "AS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "545",
+    "iso": "KI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "546",
+    "iso": "NC",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "547",
+    "iso": "PF",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "548",
+    "iso": "CK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "549",
+    "iso": "WS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "550",
+    "iso": "FM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "551",
+    "iso": "MH",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "552",
+    "iso": "PW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "553",
+    "iso": "TV",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "554",
+    "iso": "TK",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "555",
+    "iso": "NU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "602",
+    "iso": "EG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "603",
+    "iso": "DZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "604",
+    "iso": "MA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "605",
+    "iso": "TN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "606",
+    "iso": "LY",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "607",
+    "iso": "GM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "608",
+    "iso": "SN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "609",
+    "iso": "MR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "610",
+    "iso": "ML",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "611",
+    "iso": "GN",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "612",
+    "iso": "CI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "613",
+    "iso": "BF",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "614",
+    "iso": "NE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "615",
+    "iso": "TG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "616",
+    "iso": "BJ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "617",
+    "iso": "MU",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "618",
+    "iso": "LR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "619",
+    "iso": "SL",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "620",
+    "iso": "GH",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "621",
+    "iso": "NG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "622",
+    "iso": "TD",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "623",
+    "iso": "CF",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "624",
+    "iso": "CM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "625",
+    "iso": "CV",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "626",
+    "iso": "ST",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "627",
+    "iso": "GQ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "628",
+    "iso": "GA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "629",
+    "iso": "CG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "630",
+    "iso": "CD",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "631",
+    "iso": "AO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "632",
+    "iso": "GW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "633",
+    "iso": "SC",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "634",
+    "iso": "SD",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "635",
+    "iso": "RW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "636",
+    "iso": "ET",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "637",
+    "iso": "SO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "638",
+    "iso": "DJ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "639",
+    "iso": "KE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "640",
+    "iso": "TZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "641",
+    "iso": "UG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "642",
+    "iso": "BI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "643",
+    "iso": "MZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "645",
+    "iso": "ZM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "646",
+    "iso": "MG",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "647",
+    "iso": "RE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "648",
+    "iso": "ZW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "649",
+    "iso": "NA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "650",
+    "iso": "MW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "651",
+    "iso": "LS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "652",
+    "iso": "BW",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "653",
+    "iso": "SZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "654",
+    "iso": "KM",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "655",
+    "iso": "ZA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "657",
+    "iso": "ER",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "658",
+    "iso": "SH",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "659",
+    "iso": "SS",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "702",
+    "iso": "BZ",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "704",
+    "iso": "GT",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "706",
+    "iso": "SV",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "708",
+    "iso": "HN",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "710",
+    "iso": "NI",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "712",
+    "iso": "CR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "714",
+    "iso": "PA",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "716",
+    "iso": "PE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "722",
+    "iso": "AR",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "724",
+    "iso": "BR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "730",
+    "iso": "CL",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "732",
+    "iso": "CO",
+    "smallestDigitsMCC": 3
+  },
+  {
+    "mcc": "734",
+    "iso": "VE",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "736",
+    "iso": "BO",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "738",
+    "iso": "GY",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "740",
+    "iso": "EC",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "742",
+    "iso": "GF",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "744",
+    "iso": "PY",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "746",
+    "iso": "SR",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "748",
+    "iso": "UY",
+    "smallestDigitsMCC": 2
+  },
+  {
+    "mcc": "750",
+    "iso": "FK",
+    "smallestDigitsMCC": 2
+  }
+]
