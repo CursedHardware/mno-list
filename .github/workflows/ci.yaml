@@ -55,8 +55,9 @@ jobs:
     runs-on: ubuntu-22.04
     needs: build
     permissions:
-      id-token: write
       contents: write
+    outputs:
+      changed: ${{ steps.commit.outputs.changes_detected }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -66,12 +67,14 @@ jobs:
           name: carriers
           path: carriers
       - uses: stefanzweifel/git-auto-commit-action@v5
+        id: commit
         with:
           commit_message: '[skip ci] Apply automatic changes'
           file_pattern: carriers/*
   deploy-npm:
     runs-on: ubuntu-22.04
-    needs: build
+    if: ${{ needs.push.outputs.changed == 'true' }}
+    needs: push
     permissions:
       id-token: write
       packages: write
