@@ -1,0 +1,33 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MCC Table",
+  "type": "array",
+  "items": {
+    "$ref": "#/definitions/entry"
+  },
+  "definitions": {
+    "entry": {
+      "type": "object",
+      "properties": {
+        "mcc": {
+          "type": "string",
+          "description": "The Mobile Country Code"
+        },
+        "iso": {
+          "type": "string",
+          "description": "The ISO country code associated with the MCC code"
+        },
+        "smallestDigitsMCC": {
+          "type": "number",
+          "description": "The smallest number of digits in the MNC code"
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "mcc",
+        "iso",
+        "smallestDigitsMCC"
+      ]
+    }
+  }
+}

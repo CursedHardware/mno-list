@@ -40,4 +40,10 @@ export namespace google {
         readonly iccid_prefix?: readonly string[];
         readonly privilege_access_rule?: readonly string[];
     }
+
+    export interface MCCEntry {
+        readonly mcc: string;
+        readonly iso: string;
+        readonly smallestDigitsMCC: number;
+    }
 }

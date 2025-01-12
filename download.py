@@ -9,7 +9,7 @@ from peewee import SqliteDatabase
 from requests import Session
 from requests_cache import CachedSession
 
-from handlers import google, mccmnc_dot_net, mccmnc_dot_com
+from handlers import google, mccmnc_dot_net, mccmnc_dot_com, mcc_table
 from handlers.database import db
 from handlers.rebuild import rebuild_carriers, export_carriers
 from handlers.utils import CustomEncoder, emit_file
@@ -34,6 +34,8 @@ def main():
         save_file(list(export_carriers()), name="unified")
         print("Downloading from Google")
         save_file(list(google.fetch(session)), name="google")
+        save_file(list(mcc_table.fetch(session)), name="mcc-table")
+
 
 
 def save_file(carriers: list[dict[str, str]], name: str):
