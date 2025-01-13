@@ -27,7 +27,17 @@
           }
         },
         "carrier_config": {
-          "type": "object"
+          "oneOf": [
+            {
+              "type": "object"
+            },
+            {
+              "type": "array",
+              "items": {
+                "type": "object"
+              }
+            }
+          ]
         }
       },
       "additionalProperties": false,

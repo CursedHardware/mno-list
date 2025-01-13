@@ -27,7 +27,7 @@ export namespace google {
         readonly parent_canonical_id: number;
         readonly carrier_name: string | null;
         readonly carrier_attribute: readonly CarrierAttribute[];
-        readonly carrier_config?: Record<string, boolean | string | string[] | number | number[]>;
+        readonly carrier_config?: CarrierConfig | readonly CarrierConfig[];
     }
 
     export interface CarrierAttribute {
@@ -41,6 +41,10 @@ export namespace google {
         readonly iccid_prefix?: readonly string[];
         readonly privilege_access_rule?: readonly string[];
     }
+
+    export type CarrierConfig = {
+        readonly [name: string]: boolean | string | string[] | number | number[];
+    };
 
     export interface MCCEntry {
         readonly mcc: string;

@@ -73,7 +73,10 @@ def load_carrier_configs(session: requests.Session):
             if root.tag == "carrier_config":
                 configs[carrier_id] = parse_bundle(root)
             elif root.tag == "carrier_config_list":
-                configs[carrier_id] = [parse_bundle(config) for config in root.iter("carrier_config")]
+                if len(root) == 1:
+                    configs[carrier_id] = parse_bundle(root[0])
+                elif len(root) > 1:
+                    configs[carrier_id] = [parse_bundle(config) for config in root.iter("carrier_config")]
     return configs
 
 
