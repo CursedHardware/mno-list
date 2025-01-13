@@ -18,6 +18,8 @@ RE_CARRIER_ID = re.compile(r"^carrier_config_carrierid_(?P<carrier_id>\d+)")
 
 def fetch(session: requests.Session):
     for carrier_id, config in load_carrier_configs(session).items():
+        if not config:
+            continue
         yield {
             "carrier_id": carrier_id,
             "carrier_config": config,
