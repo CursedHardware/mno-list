@@ -59,11 +59,11 @@
       "gba_ua_security_protocol": 65536,
       "gba_ua_tls_cipher_suite": 47,
       "default_mtu": 1440,
-      "carrier_name": null,
-      "carrier_vvm_package_name": null,
-      "vvm_destination_number": null,
-      "vvm_type": null,
-      "call_composer_picture_server_url": null,
+      "carrier_name": "T-Mobile",
+      "carrier_vvm_package_name": "com.tmobile.vvm.application",
+      "vvm_destination_number": "122",
+      "vvm_type": "vvm_type_cvvm",
+      "call_composer_picture_server_url": "https://ue.fcs.mstore.msg.t-mobile.com/restclient/V1/FCS/Upload",
       "wfc_operator_error_codes": [
         "REG09|0"
       ],
@@ -74,8 +74,8 @@
         "7B68FD9D4E7610C9CB35FC0C6CC06EA04C6906E3DFA9F48F9A05460AF36BFFFC:com.tmobile.rsuapp,com.tmobile.echolocate,com.tmobile.services.nameid,com.tmobile.pr.mytmobile,com.tmobile.vvm.application"
       ],
       "ratchet_nr_advanced_bandwidth_if_rrc_idle": true,
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,30;connected,legacy,30;not_restricted_rrc_idle,legacy,30;not_restricted_rrc_con,legacy,30",
       "additional_nr_advanced_bands": [
         41
       ],
@@ -169,7 +169,7 @@
     "carrier_config": {
       "carrier_default_wfc_ims_roaming_enabled": true,
       "carrier_supports_ss_over_ut": true,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,10;connected,legacy,10;not_restricted_rrc_idle,legacy,10;not_restricted_rrc_con,legacy,10",
       "carrier_certificate": [
         "191A9C9711282CCD1133C9F9EFA7D1077BCAAFB99E379A438207EE0D86218917:de.telekom.tsc",
         "EE403A97B076CDEA7A8E8E9BC8011C0A45CEC08905F400EBECE62C946614977D:de.telekom.appstarter,de.telekom.android.customercenter",
@@ -496,7 +496,7 @@
     ],
     "carrier_config": {
       "show_4g_for_lte_data_icon": true,
-      "default_vm_number": null,
+      "default_vm_number": "66477",
       "non_roaming_operator": [
         "23201"
       ]
@@ -607,7 +607,7 @@
       "maxMessageSize": 1048576,
       "maxImageWidth": 2592,
       "default_mtu": 1358,
-      "default_vm_number": null
+      "default_vm_number": "+31654501233"
     }
   },
   {
@@ -756,7 +756,7 @@
       "volte_replacement_rat": 3,
       "wfc_spn_format_idx": 11,
       "default_mtu": 1358,
-      "default_vm_number": null,
+      "default_vm_number": "5500",
       "carrier_certificate": [
         "0318ED2A8B33CE173C7ABE3F647D263810994CF489C8FCD27A8CAAFCF2822A88:com.appseleration.android.selfcare,com.appseleration.speedtest"
       ]
@@ -836,7 +836,7 @@
       "show_4g_for_lte_data_icon": true,
       "smsToMmsTextThreshold": 10,
       "default_mtu": 1358,
-      "default_vm_number": null,
+      "default_vm_number": "121",
       "feature_access_codes": [
         "153",
         "132",
@@ -868,7 +868,7 @@
       "carrier_volte_available": true,
       "volte_replacement_rat": 3,
       "default_mtu": 1358,
-      "default_vm_number": null,
+      "default_vm_number": "42020",
       "carrier_certificate": [
         "EEFD6F2D255BAE73FDEDB112CF60DEEBD82ABFD1846D7E8A4B4896EF6A1BAE4A:it.vodafone.my190"
       ]
@@ -935,7 +935,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.phone,com.orange.orangeetmoi,com.orange.mysosh,com.orange.obl,com.orange.orangepro,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.orangeetmoi"
     }
   },
   {
@@ -996,7 +996,7 @@
         "214020",
         "214021"
       ],
-      "call_redirection_service_component_name": null,
+      "call_redirection_service_component_name": "com.movistar.android.mimovistar.es/com.tuenti.messenger.callinterceptor.CallInterceptorService",
       "carrier_service_name_array": [
         "Atenci\u00f3n al Cliente",
         "At. Cliente (extranjero)",
@@ -1160,9 +1160,9 @@
     ],
     "carrier_config": {
       "carrier_name_override": true,
-      "carrier_name": null,
+      "carrier_name": "SETAR",
       "default_mtu": 1500,
-      "5g_icon_configuration": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
       "hide_lte_plus_data_icon": false,
       "enabledMMS": true,
       "enableMultipartSMS": true,
@@ -1462,7 +1462,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.obw,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.obw"
     }
   },
   {
@@ -1584,8 +1584,8 @@
       "recipientLimit": 20,
       "smsToMmsTextThreshold": 8,
       "default_mtu": 1428,
-      "emailGatewayNumber": null,
-      "gps.lpp_profile": null,
+      "emailGatewayNumber": "6245",
+      "gps.lpp_profile": "2",
       "non_roaming_operator": [
         "302"
       ],
@@ -1688,7 +1688,7 @@
       "maxMessageSize": 614400,
       "maxImageWidth": 2592,
       "default_mtu": 1358,
-      "sim_country_iso_override": null,
+      "sim_country_iso_override": "ca",
       "non_roaming_operator": [
         "302"
       ]
@@ -1925,7 +1925,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.mobinilandme,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.mobinilandme"
     }
   },
   {
@@ -1965,7 +1965,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.phone,com.orange.miorange,com.orange.bluu.jazztel,com.orange.miamena,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.miorange"
     }
   },
   {
@@ -2093,8 +2093,8 @@
       "prefer_2g": false,
       "show_4g_for_lte_data_icon": true,
       "wfc_spn_format_idx": 1,
-      "carrier_name": null,
-      "sim_country_iso_override": null,
+      "carrier_name": "Virgin",
+      "sim_country_iso_override": "gb",
       "non_roaming_operator": [
         "23430",
         "23431",
@@ -2129,7 +2129,7 @@
       "prefer_2g": false,
       "show_4g_for_lte_data_icon": true,
       "wfc_spn_format_idx": 1,
-      "carrier_name": null,
+      "carrier_name": "EE",
       "non_roaming_operator": [
         "23430",
         "23431",
@@ -2242,7 +2242,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.ogn,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.ogn"
     }
   },
   {
@@ -2288,7 +2288,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.caraibe.orangeetmoicaraibe,com.orange.caraibe.soshcaraibe,com.orange.update,com.orange.phone"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.caraibe.orangeetmoicaraibe"
     }
   },
   {
@@ -2688,7 +2688,7 @@
     ],
     "carrier_config": {
       "carrier_name_override": true,
-      "carrier_name": null
+      "carrier_name": "Orange-IL"
     }
   },
   {
@@ -2778,7 +2778,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.ojo,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.ojo"
     }
   },
   {
@@ -2806,8 +2806,8 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,31;connected,legacy,31;connected_mmwave,not_restricted_rrc_con,31;connected,not_restricted_rrc_con,31;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "allow_emergency_numbers_in_call_log": true,
       "allow_hold_call_during_emergency": false,
       "carrier_volte_available": true,
@@ -3020,7 +3020,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.phone,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.phone"
     }
   },
   {
@@ -3089,7 +3089,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.meditel.mediteletmoi,com.orange.phone.mea,com.orange.ma.entreprise,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.meditel.mediteletmoi"
     }
   },
   {
@@ -3119,7 +3119,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.omd,com.orange.phone,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.omd"
     }
   },
   {
@@ -3453,7 +3453,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.contultauorange,com.orange.phone,ro.orange.yoxo,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.contultauorange"
     }
   },
   {
@@ -4062,7 +4062,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1228800,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -4119,7 +4119,7 @@
       "volte_replacement_rat": 3,
       "ims_dtmf_tone_delay": 120,
       "default_mtu": 1430,
-      "carrier_name": null,
+      "carrier_name": "AT&T",
       "non_roaming_operator": [
         "310",
         "311",
@@ -4167,9 +4167,9 @@
         "#8",
         "#9"
       ],
-      "5g_icon_display_grace_period": null,
+      "5g_icon_display_grace_period": "connected_mmwave,any,30",
       "inflate_signal_strength": true,
-      "5g_icon_configuration": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
       "nr_advanced_threshold_bandwidth_khz": 50000,
       "include_lte_for_nr_advanced_threshold_bandwidth": true
     }
@@ -4459,7 +4459,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -4579,7 +4579,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1228800,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -4913,7 +4913,7 @@
       }
     ],
     "carrier_config": {
-      "default_vm_number": null
+      "default_vm_number": "135"
     }
   },
   {
@@ -5110,7 +5110,7 @@
       "maxImageWidth": 2592,
       "maxMessageSize": 2097152,
       "default_mtu": 1400,
-      "default_vm_number": null,
+      "default_vm_number": "+61101",
       "carrier_metered_apn_types_strings": [
         "default",
         "dun",
@@ -5378,7 +5378,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.phone,com.orange.myorange.obe,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.obe"
     }
   },
   {
@@ -5408,7 +5408,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.obf,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.obf"
     }
   },
   {
@@ -5834,8 +5834,8 @@
       "maxMessageSize": 1048576,
       "maxImageWidth": 2592,
       "default_mtu": 1430,
-      "carrier_name": null,
-      "gps.lpp_profile": null,
+      "carrier_name": "Rogers",
+      "gps.lpp_profile": "2",
       "read_only_apn_types": [
         "*"
       ],
@@ -5877,12 +5877,12 @@
       "recipientLimit": 10,
       "smsToMmsTextThreshold": 5,
       "default_mtu": 1410,
-      "gps.lpp_profile": null,
+      "gps.lpp_profile": "3",
       "read_only_apn_types": [
         "*"
       ],
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,connected_rrc_idle:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,connected,30;connected_mmwave,connected_rrc_idle,30;connected_mmwave,not_restricted_rrc_idle,30;connected_mmwave,not_restricted_rrc_con,30",
       "additional_nr_advanced_bands": [
         78
       ],
@@ -5966,7 +5966,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.ocf,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.ocf"
     }
   },
   {
@@ -6112,7 +6112,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.oci,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.oci"
     }
   },
   {
@@ -6286,7 +6286,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.ocm,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.ocm"
     }
   },
   {
@@ -6574,7 +6574,7 @@
       "maxImageHeight": 1944,
       "maxImageWidth": 2592,
       "maxMessageSize": 614400,
-      "default_vm_number": null,
+      "default_vm_number": "+491793000333",
       "use_only_dialed_sim_ecc_list": true
     }
   },
@@ -7066,7 +7066,7 @@
       "prefer_2g": false,
       "show_4g_for_lte_data_icon": true,
       "smsToMmsTextThreshold": 10,
-      "default_vm_number": null,
+      "default_vm_number": "901",
       "non_roaming_operator": [
         "23420",
         "23426",
@@ -7282,7 +7282,7 @@
     ],
     "carrier_config": {
       "show_4g_for_lte_data_icon": true,
-      "default_vm_number": null
+      "default_vm_number": "121"
     }
   },
   {
@@ -8144,8 +8144,8 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,31;connected,legacy,31;connected_mmwave,not_restricted_rrc_con,31;connected,not_restricted_rrc_con,31;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "carrier_supports_ss_over_ut": true,
       "show_4g_for_lte_data_icon": true,
       "allow_emergency_numbers_in_call_log": true,
@@ -8153,7 +8153,7 @@
       "nr_timers_reset_if_non_endc_and_rrc_idle": true,
       "carrier_name_override": true,
       "default_mtu": 1420,
-      "carrier_name": null,
+      "carrier_name": "au",
       "carrier_certificate": [
         "108897103871B684844AA7C791E0C812AB3966576FB5D3713C2D11794C0600AD:com.kddi.cs.app001",
         "5EA3181DF228B4F8B0DECC10B21783F8C6C397F1290F2395FE3E6FDB2B52E991:jp.uqmobile.uqmobileportalapp",
@@ -8438,7 +8438,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.phone.mea,com.orange.myorange.omg,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.omg"
     }
   },
   {
@@ -9094,7 +9094,7 @@
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.phone,pl.orange.mojeorange,com.orange.update",
         "b71c30c980ee10e1c53fe17f21323d4a518f1bffcc2917df26a9098364aa9b26:com.orange.rn.dop"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "pl.orange.mojeorange"
     }
   },
   {
@@ -9323,7 +9323,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.ionicframework.orangeetmoiorm564631,com.orange.phone,com.mysosh.re,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.ionicframework.orangeetmoiorm564631"
     }
   },
   {
@@ -9821,7 +9821,7 @@
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.phone,com.orange.update",
         "6ae20c0e468b99d1f3d35a7cb959ab64cbcee802461ce9d38f099c90d245bfbf:sk.orange.android.orangego"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "sk.orange.android.orangego"
     }
   },
   {
@@ -9863,7 +9863,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.osl,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.osl"
     }
   },
   {
@@ -9929,7 +9929,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.osn,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.osn"
     }
   },
   {
@@ -10640,7 +10640,7 @@
       "allow_hold_call_during_emergency": false,
       "csp_enabled": true,
       "show_4g_for_3g_data_icon": true,
-      "5g_icon_configuration": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
       "nr_advanced_threshold_bandwidth_khz": 50000,
       "maxImageHeight": 1944,
       "maxMessageSize": 614400,
@@ -10728,7 +10728,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -10797,11 +10797,11 @@
       "smsToMmsTextThreshold": 6,
       "volte_replacement_rat": 6,
       "default_mtu": 1422,
-      "carrier_eri_file_name": null,
-      "carrier_name": null,
-      "emailGatewayNumber": null,
-      "httpParams": null,
-      "naiSuffix": null,
+      "carrier_eri_file_name": "eri_310120.xml",
+      "carrier_name": "Sprint",
+      "emailGatewayNumber": "6245",
+      "httpParams": "X-MDN: ##LINE1##|Proxy-Authorization: Basic ##NAI##",
+      "naiSuffix": ":pcs",
       "mmi_two_digit_number_pattern": [
         "*2"
       ]
@@ -10828,7 +10828,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -10980,9 +10980,9 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 8388608,
       "maxImageWidth": 4320,
-      "httpParams": null,
+      "httpParams": "X-MDN: ##LINE1##",
       "inflate_signal_strength": true,
-      "5g_icon_configuration": null
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G"
     }
   },
   {
@@ -11114,7 +11114,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1228800,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -11314,7 +11314,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1258291,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -11411,9 +11411,9 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 4320,
-      "httpParams": null,
-      "emailGatewayNumber": null,
-      "sim_country_iso_override": null
+      "httpParams": "X-CS3G-MDN: 1##LINE1NOCOUNTRYCODE##",
+      "emailGatewayNumber": "6245",
+      "sim_country_iso_override": "us"
     }
   },
   {
@@ -11560,13 +11560,13 @@
       "volte_replacement_rat": 6,
       "wfc_spn_format_idx": 1,
       "default_mtu": 1438,
-      "carrier_eri_file_name": null,
-      "carrier_name": null,
-      "default_vm_number": null,
-      "emailGatewayNumber": null,
-      "httpParams": null,
-      "uaProfTagName": null,
-      "sim_country_iso_override": null,
+      "carrier_eri_file_name": "eri_311480.xml",
+      "carrier_name": "Verizon",
+      "default_vm_number": "*86",
+      "emailGatewayNumber": "6245",
+      "httpParams": "x-up-calling-line-id: 1##LINE1NOCOUNTRYCODE##|X-VzW-MDN: 1##LINE1NOCOUNTRYCODE##",
+      "uaProfTagName": "Profile",
+      "sim_country_iso_override": "us",
       "boosted_lte_earfcns": [
         "600-1199",
         "1950-2399"
@@ -11657,9 +11657,9 @@
         82,
         83
       ],
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
-      "5g_icon_display_secondary_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,connected_rrc_idle:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,10;connected_mmwave,any,3",
+      "5g_icon_display_secondary_grace_period": "connected_mmwave,not_restricted_rrc_idle,60;connected_mmwave,connected_rrc_idle,60",
       "inflate_signal_strength": true,
       "additional_nr_advanced_bands": [
         48,
@@ -11784,7 +11784,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -11837,7 +11837,7 @@
       "maxSubjectLength": 80,
       "recipientLimit": 20,
       "smsToMmsTextThreshold": 1,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -11871,7 +11871,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1228800,
       "maxImageWidth": 4320,
-      "httpParams": null,
+      "httpParams": "X-MDN: ##LINE1##",
       "inflate_signal_strength": true
     }
   },
@@ -11945,10 +11945,10 @@
       "maxMessageSize": 1048576,
       "cdma_3waycall_flash_delay": 300,
       "maxImageWidth": 2592,
-      "httpParams": null,
-      "emailGatewayNumber": null,
-      "naiSuffix": null,
-      "carrier_eri_file_name": null,
+      "httpParams": "X-MDN: ##LINE1##|Proxy-Authorization: Basic ##NAI##",
+      "emailGatewayNumber": "6245",
+      "naiSuffix": ":pcs",
+      "carrier_eri_file_name": "eri_311490.xml",
       "mmi_two_digit_number_pattern": [
         "*2"
       ]
@@ -12330,8 +12330,8 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,31;connected,legacy,31;connected_mmwave,not_restricted_rrc_con,31;connected,not_restricted_rrc_con,31;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "carrier_default_wfc_ims_roaming_enabled": true,
       "hide_lte_plus_data_icon": false,
       "support_ims_conference_event_package": false,
@@ -12390,8 +12390,8 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,31;connected,legacy,31;connected_mmwave,not_restricted_rrc_con,31;connected,not_restricted_rrc_con,31;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "carrier_default_wfc_ims_roaming_enabled": true,
       "carrier_supports_ss_over_ut": true,
       "hide_lte_plus_data_icon": false,
@@ -12440,8 +12440,8 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,31;connected,legacy,31;connected_mmwave,not_restricted_rrc_con,31;connected,not_restricted_rrc_con,31;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "carrier_supports_ss_over_ut": true,
       "hide_lte_plus_data_icon": false,
       "support_ims_conference_event_package": false,
@@ -12489,8 +12489,8 @@
       "maxImageWidth": 2592,
       "maxMessageSize": 1048576,
       "default_mtu": 1450,
-      "carrier_instant_lettering_encoding": null,
-      "carrier_instant_lettering_invalid_chars": null,
+      "carrier_instant_lettering_encoding": "EUC-KR",
+      "carrier_instant_lettering_invalid_chars": "[\"<>\\\\\\n]",
       "bandwidth": [
         "GPRS:24,24",
         "EDGE:70,18",
@@ -12548,9 +12548,9 @@
       "maxImageWidth": 2592,
       "carrier_instant_lettering_length_limit": 16,
       "default_mtu": 1440,
-      "carrier_instant_lettering_invalid_chars": null,
-      "carrier_instant_lettering_escaped_chars": null,
-      "carrier_instant_lettering_encoding": null,
+      "carrier_instant_lettering_invalid_chars": "[\\n]",
+      "carrier_instant_lettering_escaped_chars": "\"\\",
+      "carrier_instant_lettering_encoding": "EUC-KR",
       "bandwidth": [
         "GPRS:24,24",
         "EDGE:70,18",
@@ -12608,9 +12608,9 @@
       "maxImageWidth": 2592,
       "carrier_instant_lettering_length_limit": 64,
       "default_mtu": 1428,
-      "carrier_instant_lettering_invalid_chars": null,
-      "carrier_instant_lettering_encoding": null,
-      "carrier_name": null,
+      "carrier_instant_lettering_invalid_chars": "[\"<>\\\\\\n]",
+      "carrier_instant_lettering_encoding": "EUC-KR",
+      "carrier_name": "LG U+",
       "bandwidth": [
         "GPRS:24,24",
         "EDGE:70,18",
@@ -12669,8 +12669,8 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,31;connected,legacy,31;connected_mmwave,not_restricted_rrc_con,31;connected,not_restricted_rrc_con,31;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "carrier_supports_ss_over_ut": true,
       "show_4g_for_lte_data_icon": true,
       "enabledMMS": true,
@@ -12687,7 +12687,7 @@
       "volte_replacement_rat": 3,
       "ims_dtmf_tone_delay": 215,
       "default_mtu": 1422,
-      "default_vm_number": null,
+      "default_vm_number": "1416",
       "carrier_certificate": [
         "8CD14DE82459630273B8D4C4F0C7C042FA0EF419C2B76A0AAD3D7A0646B015B9:jp.linemo.app,jp.ymobile.app.esim,jp.co.softbank.wispr.froyo"
       ]
@@ -12713,7 +12713,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 2592,
-      "sim_country_iso_override": null
+      "sim_country_iso_override": "ca"
     }
   },
   {
@@ -12911,7 +12911,7 @@
     ],
     "carrier_config": {
       "show_4g_for_lte_data_icon": true,
-      "sim_country_iso_override": null,
+      "sim_country_iso_override": "es",
       "non_roaming_operator": [
         "21401",
         "21402",
@@ -13000,7 +13000,7 @@
     "carrier_config": {
       "allow_emergency_numbers_in_call_log": true,
       "skip_cf_fail_to_disable_dialog": true,
-      "sim_country_iso_override": null,
+      "sim_country_iso_override": "mx",
       "mmi_two_digit_number_pattern": [
         "#9"
       ]
@@ -13355,7 +13355,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.otn,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.otn"
     }
   },
   {
@@ -13505,7 +13505,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.ogw,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.ogw"
     }
   },
   {
@@ -13599,10 +13599,10 @@
       "maxMessageSize": 1048576,
       "cdma_3waycall_flash_delay": 300,
       "maxImageWidth": 2592,
-      "httpParams": null,
-      "emailGatewayNumber": null,
-      "naiSuffix": null,
-      "carrier_eri_file_name": null,
+      "httpParams": "X-MDN: ##LINE1##|Proxy-Authorization: Basic ##NAI##",
+      "emailGatewayNumber": "6245",
+      "naiSuffix": ":pcs",
+      "carrier_eri_file_name": "eri_311870.xml",
       "mmi_two_digit_number_pattern": [
         "*2"
       ]
@@ -13665,11 +13665,11 @@
       "maxMessageSize": 1048576,
       "maxSubjectLength": 80,
       "recipientLimit": 20,
-      "carrier_eri_file_name": null,
-      "emailGatewayNumber": null,
-      "httpParams": null,
-      "sim_country_iso_override": null,
-      "uaProfTagName": null,
+      "carrier_eri_file_name": "eri_311220.xml",
+      "emailGatewayNumber": "6245",
+      "httpParams": "x-vzw-mdn: 1##LINE1NOCOUNTRYCODE##",
+      "sim_country_iso_override": "us",
+      "uaProfTagName": "x-wap-profile",
       "carrier_certificate": [
         "8C960CA3CBF4A9DA851774F2DE072E57B1289A9CF7D6BDA4A6B386A42BC4FFB3:com.trustonic.telecoms.standard.dlc,com.trustonic.telecoms.client.standard.dlc.playground,com.trustonic.telecoms.standard.dpc",
         "7413E2B365230E1BCB294D687C3B87EE5BC7E3F9:com.trustonic.telecoms.standard.dlc,com.trustonic.telecoms.client.standard.dlc.playground,com.trustonic.telecoms.standard.dpc"
@@ -13850,7 +13850,7 @@
     "carrier_config": {
       "carrier_default_wfc_ims_roaming_enabled": true,
       "carrier_name_override": true,
-      "carrier_name": null,
+      "carrier_name": "airtel",
       "httpSocketTimeout": 300000,
       "roaming_operator": [
         "404",
@@ -13890,8 +13890,8 @@
       "maxMessageSize": 1048576,
       "maxImageWidth": 2592,
       "default_mtu": 1410,
-      "carrier_name": null,
-      "gps.lpp_profile": null,
+      "carrier_name": "Fido",
+      "gps.lpp_profile": "2",
       "read_only_apn_types": [
         "*"
       ],
@@ -14448,8 +14448,8 @@
       "carrier_name_override": true,
       "carrier_volte_available": true,
       "force_home_network": true,
-      "carrier_name": null,
-      "sim_country_iso_override": null,
+      "carrier_name": "Google Fi",
+      "sim_country_iso_override": "us",
       "carrier_certificate": [
         "4C36AF4A5BDAD97C1F3D8B283416D244496C2AC5EAFE8226079EF6F676FD1859:com.google.android.apps.tycho"
       ]
@@ -14468,7 +14468,7 @@
     ],
     "carrier_config": {
       "carrier_name_override": true,
-      "carrier_name": null,
+      "carrier_name": "Golan Telecom",
       "non_roaming_operator": [
         "42502"
       ]
@@ -14496,8 +14496,8 @@
     ],
     "carrier_config": {
       "carrier_name_override": true,
-      "carrier_name": null,
-      "sim_country_iso_override": null,
+      "carrier_name": "HOT mobile",
+      "sim_country_iso_override": "il",
       "non_roaming_operator": [
         "42503"
       ]
@@ -14823,8 +14823,8 @@
       "maxMessageSize": 1228800,
       "maxImageWidth": 4320,
       "default_mtu": 1440,
-      "httpParams": null,
-      "carrier_name": null
+      "httpParams": "X-MDN: ##LINE1##",
+      "carrier_name": "T-Mobile"
     }
   },
   {
@@ -14903,7 +14903,7 @@
       "hide_ims_apn": true,
       "httpSocketTimeout": 300000,
       "volte_replacement_rat": 3,
-      "carrier_name": null,
+      "carrier_name": "JIO",
       "roaming_operator": [
         "404",
         "405"
@@ -14937,8 +14937,8 @@
     ],
     "carrier_config": {
       "carrier_supports_ss_over_ut": true,
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,connected,30;connected_mmwave,not_restricted_rrc_idle,30;connected_mmwave,not_restricted_rrc_con,30",
       "additional_nr_advanced_bands": [
         78
       ],
@@ -15539,14 +15539,14 @@
       "smsToMmsTextThreshold": 7,
       "volte_replacement_rat": 6,
       "wfc_spn_format_idx": 1,
-      "carrier_eri_file_name": null,
-      "carrier_name": null,
-      "cdma_home_registered_plmn_name": null,
-      "default_vm_number": null,
-      "emailGatewayNumber": null,
-      "httpParams": null,
-      "sim_country_iso_override": null,
-      "uaProfTagName": null,
+      "carrier_eri_file_name": "eri_311480_BA01450000000000.xml",
+      "carrier_name": "Verizon",
+      "cdma_home_registered_plmn_name": "XFINITY Mobile",
+      "default_vm_number": "*86",
+      "emailGatewayNumber": "6245",
+      "httpParams": "x-up-calling-line-id: 1##LINE1NOCOUNTRYCODE##|X-VzW-MDN: 1##LINE1NOCOUNTRYCODE##",
+      "sim_country_iso_override": "us",
+      "uaProfTagName": "Profile",
       "boosted_lte_earfcns": [
         "600-1199",
         "1950-2399"
@@ -15676,7 +15676,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.oml,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.oml"
     }
   },
   {
@@ -15694,7 +15694,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.olr,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.olr"
     }
   },
   {
@@ -15712,7 +15712,7 @@
       "carrier_certificate": [
         "b67affcda89e3193b1595036d7c6cdbe22be5ca24c9f6cf93fc6b48f91d7310d:com.orange.myorange.ocd,com.orange.phone.mea,com.orange.update"
       ],
-      "config_plans_package_override": null
+      "config_plans_package_override": "com.orange.myorange.ocd"
     }
   },
   {
@@ -16257,8 +16257,8 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,connected,30;connected_mmwave,not_restricted_rrc_idle,30;connected_mmwave,not_restricted_rrc_con,30",
       "additional_nr_advanced_bands": [
         78
       ],
@@ -16381,7 +16381,7 @@
       "prefer_2g": false,
       "show_4g_for_lte_data_icon": true,
       "smsToMmsTextThreshold": 10,
-      "default_vm_number": null,
+      "default_vm_number": "905",
       "non_roaming_operator": [
         "23420",
         "23426",
@@ -16578,7 +16578,7 @@
       }
     ],
     "carrier_config": {
-      "sim_country_iso_override": null
+      "sim_country_iso_override": "jp"
     }
   },
   {
@@ -16650,15 +16650,15 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,31;connected,legacy,31;connected_mmwave,not_restricted_rrc_con,31;connected,not_restricted_rrc_con,31;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "carrier_supports_ss_over_ut": true,
       "show_4g_for_lte_data_icon": true,
       "allow_emergency_numbers_in_call_log": true,
       "disable_dun_apn_while_roaming_with_preset_apn": true,
       "nr_timers_reset_if_non_endc_and_rrc_idle": true,
       "carrier_name_override": true,
-      "carrier_name": null,
+      "carrier_name": "UQ mobile",
       "carrier_certificate": [
         "108897103871B684844AA7C791E0C812AB3966576FB5D3713C2D11794C0600AD:com.kddi.cs.app001",
         "5EA3181DF228B4F8B0DECC10B21783F8C6C397F1290F2395FE3E6FDB2B52E991:jp.uqmobile.uqmobileportalapp",
@@ -16856,7 +16856,7 @@
       "prefer_2g": false,
       "show_4g_for_lte_data_icon": true,
       "smsToMmsTextThreshold": 10,
-      "default_vm_number": null,
+      "default_vm_number": "443",
       "non_roaming_operator": [
         "23420",
         "23426",
@@ -17012,7 +17012,7 @@
       }
     ],
     "carrier_config": {
-      "sim_country_iso_override": null,
+      "sim_country_iso_override": "it",
       "carrier_certificate": [
         "8227db5476f1d42a17bead90b73c8624b262152edad34ebd8f7e6472a47c6e03:fr.freemobile.android.mobileconf,fr.freemobile.android.freenetworkmonitor,it.iliad.android.mobileconf,it.iliad.android.iccid,fr.freemobile.android.mobilestest,it.iliad,it.iliad.business,it.iliad.test"
       ]
@@ -17114,7 +17114,7 @@
       }
     ],
     "carrier_config": {
-      "sim_country_iso_override": null,
+      "sim_country_iso_override": "re",
       "carrier_certificate": [
         "d543e9f245aa584a84c608069cffe1f507be61eb496d7585ac02a2fce05dcb28:fr.freemobile.android.mobileconf,fr.freemobile.android.freenetworkmonitor,fr.freemobile.android.mobilestest,re.free.moncomptefree"
       ]
@@ -17195,7 +17195,7 @@
       }
     ],
     "carrier_config": {
-      "sim_country_iso_override": null
+      "sim_country_iso_override": "bs"
     }
   },
   {
@@ -17329,12 +17329,12 @@
       "maxMessageSize": 614400,
       "maxImageWidth": 2592,
       "vvm_port_number": 5499,
-      "vvm_destination_number": null,
-      "vvm_type": null,
+      "vvm_destination_number": "223",
+      "vvm_type": "vvm_type_omtp",
       "carrier_vvm_package_name": [
         "com.coriolis.visualvoicemailcoriolis"
       ],
-      "sim_country_iso_override": null,
+      "sim_country_iso_override": "fr",
       "non_roaming_operator": [
         "20801",
         "20810"
@@ -17376,7 +17376,7 @@
       }
     ],
     "carrier_config": {
-      "sim_country_iso_override": null
+      "sim_country_iso_override": "gb"
     }
   },
   {
@@ -17404,7 +17404,7 @@
       }
     ],
     "carrier_config": {
-      "sim_country_iso_override": null
+      "sim_country_iso_override": "gb"
     }
   },
   {
@@ -17427,7 +17427,7 @@
       }
     ],
     "carrier_config": {
-      "sim_country_iso_override": null
+      "sim_country_iso_override": "gb"
     }
   },
   {
@@ -17562,7 +17562,7 @@
       "carrier_certificate": [
         "D8EFE020E48AEC0A21E67EFC8FAFC2E674A05C74970381D99175E23C084B7BF0:com.visiblemobile.flagship"
       ],
-      "emailGatewayNumber": null
+      "emailGatewayNumber": "6245"
     }
   },
   {
@@ -17916,7 +17916,7 @@
     ],
     "carrier_config": {
       "carrier_name_override": true,
-      "carrier_name": null
+      "carrier_name": "YouPhone"
     }
   },
   {
@@ -17932,7 +17932,7 @@
     ],
     "carrier_config": {
       "carrier_name_override": true,
-      "carrier_name": null
+      "carrier_name": "Home Cellular"
     }
   },
   {
@@ -17948,7 +17948,7 @@
     ],
     "carrier_config": {
       "carrier_name_override": true,
-      "carrier_name": null
+      "carrier_name": "Rami Levy"
     }
   },
   {
@@ -18733,7 +18733,7 @@
     "carrier_config": {
       "allow_emergency_numbers_in_call_log": true,
       "show_apn_setting_cdma": true,
-      "sim_country_iso_override": null,
+      "sim_country_iso_override": "cn",
       "ascii_7_bit_support_for_long_message": true,
       "telephony_network_capability_priorities": [
         "eims:90",
@@ -19014,8 +19014,8 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 4320,
-      "httpParams": null,
-      "emailGatewayNumber": null
+      "httpParams": "X-MDN: ##LINE1##",
+      "emailGatewayNumber": "6245"
     }
   },
   {
@@ -19536,7 +19536,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 4320,
-      "httpParams": null
+      "httpParams": "X-MDN: ##LINE1##"
     }
   },
   {
@@ -20649,8 +20649,8 @@
       "display_hd_audio_property": false,
       "carrier_name_override": true,
       "auto_retry_failed_wifi_emergency_call": true,
-      "default_vm_number": null,
-      "carrier_name": null,
+      "default_vm_number": "3311",
+      "carrier_name": "Telekom",
       "carrier_certificate": [
         "191A9C9711282CCD1133C9F9EFA7D1077BCAAFB99E379A438207EE0D86218917:de.telekom.tsc",
         "EE403A97B076CDEA7A8E8E9BC8011C0A45CEC08905F400EBECE62C946614977D:de.telekom.appstarter,de.telekom.android.customercenter",
@@ -21180,8 +21180,8 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,15;connected,legacy,15;connected_mmwave,not_restricted_rrc_con,15;connected,not_restricted_rrc_con,15;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "enabledMMS": false,
       "maxMessageSize": 2097152,
       "maxImageHeight": 1944,
@@ -21270,8 +21270,8 @@
       "mmi_two_digit_number_pattern": [
         "*2"
       ],
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,30;connected,legacy,30;not_restricted_rrc_idle,legacy,30;not_restricted_rrc_con,legacy,30",
       "additional_nr_advanced_bands": [
         41
       ],
@@ -22517,15 +22517,15 @@
       }
     ],
     "carrier_config": {
-      "5g_icon_configuration": null,
-      "5g_icon_display_grace_period": null,
+      "5g_icon_configuration": "connected_mmwave:5G,connected:5G,not_restricted_rrc_idle:5G",
+      "5g_icon_display_grace_period": "connected_mmwave,legacy,31;connected,legacy,31;connected_mmwave,not_restricted_rrc_con,31;connected,not_restricted_rrc_con,31;not_restricted_rrc_idle,not_restricted_rrc_con,15",
       "carrier_supports_ss_over_ut": true,
       "show_4g_for_lte_data_icon": true,
       "allow_emergency_numbers_in_call_log": true,
       "disable_dun_apn_while_roaming_with_preset_apn": true,
       "nr_timers_reset_if_non_endc_and_rrc_idle": true,
       "carrier_name_override": true,
-      "carrier_name": null,
+      "carrier_name": "povo",
       "carrier_certificate": [
         "108897103871B684844AA7C791E0C812AB3966576FB5D3713C2D11794C0600AD:com.kddi.cs.app001",
         "5EA3181DF228B4F8B0DECC10B21783F8C6C397F1290F2395FE3E6FDB2B52E991:jp.uqmobile.uqmobileportalapp",
@@ -23332,14 +23332,14 @@
       "smsToMmsTextThreshold": 7,
       "volte_replacement_rat": 6,
       "wfc_spn_format_idx": 1,
-      "carrier_eri_file_name": null,
-      "carrier_name": null,
-      "cdma_home_registered_plmn_name": null,
-      "default_vm_number": null,
-      "emailGatewayNumber": null,
-      "httpParams": null,
-      "sim_country_iso_override": null,
-      "uaProfTagName": null,
+      "carrier_eri_file_name": "eri_311480_BA01450000000000.xml",
+      "carrier_name": "Xfinity Mobile",
+      "cdma_home_registered_plmn_name": "Xfinity Mobile",
+      "default_vm_number": "*86",
+      "emailGatewayNumber": "6245",
+      "httpParams": "x-up-calling-line-id:1##LINE1NOCOUNTRYCODE##|X-VzW-MDN: 1##LINE1NOCOUNTRYCODE##",
+      "sim_country_iso_override": "us",
+      "uaProfTagName": "Profile",
       "boosted_lte_earfcns": [
         "600-1199",
         "1950-2399"
@@ -23643,7 +23643,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 2592,
-      "carrier_name": null,
+      "carrier_name": "SSi Mobile",
       "non_roaming_operator": [
         "302480"
       ]
@@ -23671,7 +23671,7 @@
       "maxSubjectLength": 80,
       "maxMessageSize": 1048576,
       "maxImageWidth": 2592,
-      "carrier_name": null,
+      "carrier_name": "Eeyou Mobilit\u00e9",
       "non_roaming_operator": [
         "302480"
       ]
@@ -24903,7 +24903,7 @@
         "4AD124DE517BC6BA915B88C17F0AADF764469842156325C26B7CD8B888C41C71:com.tracfone.esimapp",
         "55BB3B316919620008AA76A4891E90384BFF2A76AE95C395FE738C2AC609F13F:com.tracfone.tracfone.myaccount,com.tracfone.straighttalk.myaccount,com.tracfone.net10.myaccount,com.tracfone.simplemobile.myaccount,com.tracfone.total.myaccount,com.tracfone.wfm.myaccount"
       ],
-      "5g_icon_configuration": null,
+      "5g_icon_configuration": "connected_mmwave:5G_Plus,connected:5G,not_restricted_rrc_idle:5G,not_restricted_rrc_con:5G",
       "nr_advanced_threshold_bandwidth_khz": 50000,
       "inflate_signal_strength": true
     }
