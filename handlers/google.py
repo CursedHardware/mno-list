@@ -55,7 +55,7 @@ def load_carrier_configs(session: requests.Session):
                 bundle[field_name] = [int(item.get("value")) for item in element.iter("item")]
             elif element.tag == "string":
                 field_name = field_name.removesuffix("_string")
-                bundle[field_name] = element.get("value")
+                bundle[field_name] = element.get("value") or element.text
             elif element.tag == "string-array":
                 field_name = field_name.removesuffix("_string_array")
                 bundle[field_name] = [item.get("value") for item in element.iter("item")]
