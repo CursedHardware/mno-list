@@ -465,10 +465,6 @@
     }
   },
   {
-    "carrier_id": 1338,
-    "carrier_config": {}
-  },
-  {
     "carrier_id": 1341,
     "carrier_config": {
       "carrier_certificate": [
@@ -1181,10 +1177,6 @@
     }
   },
   {
-    "carrier_id": 1673,
-    "carrier_config": {}
-  },
-  {
     "carrier_id": 1676,
     "carrier_config": {
       "carrier_certificate": [
@@ -1802,10 +1794,6 @@
         "*2"
       ]
     }
-  },
-  {
-    "carrier_id": 1864,
-    "carrier_config": {}
   },
   {
     "carrier_id": 1873,
@@ -3901,10 +3889,6 @@
       "httpParams": "X-MDN: ##LINE1##",
       "emailGatewayNumber": "6245"
     }
-  },
-  {
-    "carrier_id": 2263,
-    "carrier_config": {}
   },
   {
     "carrier_id": 2264,
