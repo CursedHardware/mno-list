@@ -21040,33 +21040,31 @@
         ]
       }
     ],
-    "carrier_config": [
-      {
-        "show_4g_for_lte_data_icon": true,
-        "non_roaming_operator": [
-          "21401",
-          "21402",
-          "21403",
-          "21404",
-          "21406",
-          "21407",
-          "21408",
-          "21409",
-          "214010",
-          "214011",
-          "214012",
-          "214013",
-          "214014",
-          "214015",
-          "214016",
-          "214017",
-          "214018",
-          "214019",
-          "214020",
-          "214021"
-        ]
-      }
-    ]
+    "carrier_config": {
+      "show_4g_for_lte_data_icon": true,
+      "non_roaming_operator": [
+        "21401",
+        "21402",
+        "21403",
+        "21404",
+        "21406",
+        "21407",
+        "21408",
+        "21409",
+        "214010",
+        "214011",
+        "214012",
+        "214013",
+        "214014",
+        "214015",
+        "214016",
+        "214017",
+        "214018",
+        "214019",
+        "214020",
+        "214021"
+      ]
+    }
   },
   {
     "canonical_id": 2421,
@@ -23180,12 +23178,10 @@
         ]
       }
     ],
-    "carrier_config": [
-      {
-        "show_4g_for_lte_data_icon": true,
-        "display_hd_audio_property": false
-      }
-    ]
+    "carrier_config": {
+      "show_4g_for_lte_data_icon": true,
+      "display_hd_audio_property": false
+    }
   },
   {
     "canonical_id": 2552,
