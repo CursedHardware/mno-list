@@ -25,6 +25,9 @@
           "items": {
             "$ref": "#/definitions/carrier_attribute"
           }
+        },
+        "carrier_config": {
+          "type": "object"
         }
       },
       "additionalProperties": false,

@@ -22,6 +22,7 @@ NPM_PATH = BASE_PATH / "npm" / "carriers"
 
 def main():
     session = Session() if IS_CI else CachedSession(".cache")
+    session.headers["accept-encoding"] = "gzip"
     db.initialize(SqliteDatabase(":memory:" if IS_CI else "plmn.sqlite"))
     with db, session:
         print("Downloading from mcc-mnc.net")

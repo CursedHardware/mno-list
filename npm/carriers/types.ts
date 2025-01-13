@@ -27,6 +27,7 @@ export namespace google {
         readonly parent_canonical_id: number;
         readonly carrier_name: string | null;
         readonly carrier_attribute: readonly CarrierAttribute[];
+        readonly carrier_config?: Record<string, boolean | string | string[] | number | number[]>;
     }
 
     export interface CarrierAttribute {
