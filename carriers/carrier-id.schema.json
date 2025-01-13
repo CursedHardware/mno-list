@@ -25,19 +25,6 @@
           "items": {
             "$ref": "#/definitions/carrier_attribute"
           }
-        },
-        "carrier_config": {
-          "oneOf": [
-            {
-              "type": "object"
-            },
-            {
-              "type": "array",
-              "items": {
-                "type": "object"
-              }
-            }
-          ]
         }
       },
       "additionalProperties": false,

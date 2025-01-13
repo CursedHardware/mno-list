@@ -1,5 +1,5 @@
-import type {google} from "./types";
+import type {carrierId} from "./types";
 
-declare const entries: readonly google.MCCEntry[];
+declare const entries: readonly carrierId.MCCEntry[];
 
 export = entries;

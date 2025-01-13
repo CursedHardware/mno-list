@@ -17,12 +17,12 @@ The list of carrier is from the following sources:
 
 > The data source from <https://source.android.com/docs/core/connect/carrierid>
 >
-> [JSON Schema](google.schema.json) is the file format schema
+> [JSON Schema](carrier-id.schema.json) is the file format schema
 
-- [google.json](google.json) is [JSON] version
-- [google.min.json](google.min.json) is minified [JSON] version
-- [google.cbor.gz](google.cbor.gz) is gzipped [CBOR] version
-- [google.msgpack.gz](google.msgpack.gz) is gzipped [MsgPack] version
+- [carrier-id.json](carrier-id.json) is [JSON] version
+- [carrier-id.min.json](carrier-id.min.json) is mcinified [JSON] version
+- [carrier-id.cbor.gz](carrier-id.cbor.gz) is gzipped [CBOR] version
+- [carrier-id.msgpack.gz](carrier-id.msgpack.gz) is gzipped [MsgPack] version
 
 [JSON]: https://www.json.org
 

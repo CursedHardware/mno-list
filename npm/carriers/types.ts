@@ -21,13 +21,12 @@ export namespace unified {
  *
  * @see https://source.android.com/docs/core/connect/carrierid
  **/
-export namespace google {
+export namespace carrierId {
     export interface CarrierId {
         readonly canonical_id: number;
         readonly parent_canonical_id: number;
         readonly carrier_name: string | null;
         readonly carrier_attribute: readonly CarrierAttribute[];
-        readonly carrier_config?: CarrierConfig | readonly CarrierConfig[];
     }
 
     export interface CarrierAttribute {
@@ -42,13 +41,20 @@ export namespace google {
         readonly privilege_access_rule?: readonly string[];
     }
 
-    export type CarrierConfig = {
-        readonly [name: string]: boolean | string | string[] | number | number[];
-    };
-
     export interface MCCEntry {
         readonly mcc: string;
         readonly iso: string;
         readonly smallestDigitsMCC: number;
     }
+}
+
+export namespace carrierConfig {
+    export interface Entry {
+        readonly carrier_id: number;
+        readonly carrier_config: CarrierConfig | readonly CarrierConfig[];
+    }
+
+    export type CarrierConfig = {
+        readonly [name: string]: boolean | string | string[] | number | number[];
+    };
 }
