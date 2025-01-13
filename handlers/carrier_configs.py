@@ -1,6 +1,7 @@
 import os
 import re
 import tarfile
+from collections import defaultdict
 from io import BytesIO
 from urllib.parse import urljoin
 
@@ -16,14 +17,16 @@ CARRIER_CONFIG_URL = urljoin(
 
 RE_CARRIER_ID = re.compile(r"^carrier_config_carrierid_(?P<carrier_id>\d+)")
 
+
 def fetch(session: requests.Session):
-    for carrier_id, config in load_carrier_configs(session).items():
-        if not config:
+    for carrier_id, configs in load_carrier_configs(session).items():
+        if len(configs) == 0:
             continue
         yield {
             "carrier_id": carrier_id,
-            "carrier_config": config,
+            "carrier_config": configs[0] if len(configs) == 1 else configs,
         }
+
 
 def load_carrier_configs(session: requests.Session):
     response = session.get(url=CARRIER_CONFIG_URL)
@@ -54,7 +57,7 @@ def load_carrier_configs(session: requests.Session):
                 bundle[field_name] = [item.get("value") for item in element.iter("item")]
         return bundle
 
-    configs: dict[int, list[dict] | dict] = {}
+    configs = defaultdict(list[dict])
     with tarfile.open(fileobj=BytesIO(response.content), mode="r:gz") as tar:
         for name in tar.getnames():
             matched = RE_CARRIER_ID.match(name)
@@ -63,11 +66,10 @@ def load_carrier_configs(session: requests.Session):
 
             carrier_id = int(matched.group("carrier_id"))
             root: etree.ElementBase = etree.fromstringlist(tar.extractfile(name))
+            bundles: list[dict] = []
             if root.tag == "carrier_config":
-                configs[carrier_id] = parse_bundle(root)
+                bundles = [parse_bundle(root)]
             elif root.tag == "carrier_config_list":
-                if len(root) == 1:
-                    configs[carrier_id] = parse_bundle(root[0])
-                elif len(root) > 1:
-                    configs[carrier_id] = [parse_bundle(config) for config in root.iter("carrier_config")]
+                bundles = [parse_bundle(config) for config in root.iter("carrier_config")]
+            configs[carrier_id] = [bundle for bundle in bundles if bundle]
     return configs
