@@ -10,21 +10,22 @@
       "properties": {
         "canonical_id": {
           "type": "number",
-          "description": "The unique identifier for the carrier"
+          "description": "A unique canonical number designated to a carrier."
         },
         "parent_canonical_id": {
           "type": "number",
-          "description": "The parent carrier's unique identifier"
+          "description": "A unique canonical number to represent its parent carrier."
         },
         "carrier_name": {
           "type": "string",
-          "description": "The name of the carrier"
+          "description": "A user-friendly carrier name (not localized)."
         },
         "carrier_attribute": {
           "type": "array",
           "items": {
             "$ref": "#/definitions/carrier_attribute"
-          }
+          },
+          "description": "Carrier attributes to match a carrier. At least one value is required."
         }
       },
       "additionalProperties": false,
@@ -39,31 +40,40 @@
       "type": "object",
       "properties": {
         "mccmnc_tuple": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "The MCC and MNC that map to this carrier."
         },
         "imsi_prefix_xpattern": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "Prefix of IMSI (International Mobile Subscriber Identity) in decimal format."
         },
         "spn": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "The Service Provider Name. Read from subscription EF_SPN."
         },
         "plmn": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "PLMN network name. Read from subscription EF_PNN."
         },
         "gid1": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "Group Identifier Level 1 for a GSM phone. Read from subscription EF_GID1."
         },
         "gid2": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "Group Identifier Level 2 for a GSM phone. Read from subscription EF_GID2."
         },
         "preferred_apn": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "The Access Point Name."
         },
         "iccid_prefix": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "Prefix of Integrated Circuit Card Identifier. Read from subscription EF_ICCID."
         },
         "privilege_access_rule": {
-          "$ref": "#/definitions/string_array"
+          "$ref": "#/definitions/string_array",
+          "description": "Carrier Privilege Access Rule in hex string."
         }
       },
       "additionalProperties": false,
