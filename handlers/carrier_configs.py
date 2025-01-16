@@ -33,28 +33,29 @@ def load_carrier_configs(session: requests.Session):
     response.raise_for_status()
 
     def parse_bundle(tree):
-        bundle = dict()
+        bundle: dict[str, bool | int | list[int] | str | list[str]] = dict()
+
+        def get_value(ele: etree.ElementBase) -> str:
+            return ele.get("value") or ele.text
+
+        def get_items(ele: etree.ElementBase) -> list[str]:
+            return [item.get("value") or item.text for item in ele.iter("item")]
+
         for element in tree:
             element: etree.ElementBase
             field_name = element.get("name")
             if field_name is None:
                 continue
-            field_name = field_name.removesuffix("_" + element.tag.replace("-", "_"))
             if element.tag == "boolean":
-                field_name = field_name.removesuffix("_bool")
-                bundle[field_name] = element.get("value") == "true"
+                bundle[field_name.removesuffix("_bool")] = get_value(element) == "true"
             elif element.tag == "int":
-                field_name = field_name.removesuffix("_int")
-                bundle[field_name] = int(element.get("value"))
+                bundle[field_name.removesuffix("_int")] = int(get_value(element))
             elif element.tag == "int-array":
-                field_name = field_name.removesuffix("_int_array")
-                bundle[field_name] = [int(item.get("value")) for item in element.iter("item")]
+                bundle[field_name.removesuffix("_int_array")] = list(map(int, get_items(element)))
             elif element.tag == "string":
-                field_name = field_name.removesuffix("_string")
-                bundle[field_name] = element.get("value") or element.text
+                bundle[field_name.removesuffix("_string")] = get_value(element)
             elif element.tag == "string-array":
-                field_name = field_name.removesuffix("_string_array")
-                bundle[field_name] = [item.get("value") for item in element.iter("item")]
+                bundle[field_name.removesuffix("_string_array")] = get_items(element)
         return bundle
 
     configs = defaultdict(list[dict])
