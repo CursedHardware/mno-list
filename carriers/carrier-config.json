@@ -3230,13 +3230,14 @@
         83
       ],
       "carrier_certificate": [
-        "31b4c17315c2269040d535f7b6a79cf4d11517c664d9de8f1ddf4f8a785aad47:com.xfinity.digitalhome",
-        "c9133e8168f97573c8c567f46777dff74ade0c015ecf2c5e91be3e4e76ddcae2:com.xfinity.digitalhome.debug",
+        "953f5a4c22e7fd16adc3f12eb038682aad377fef9a18b9d12c1abea78911c749:com.xfinity.digitalhome",
+        "06aada946110e64414aebe3af34ae06baf239ef75c947149fb67263d8a2547c3:com.xfinity.digitalhome.debug",
         "141E264EB08B576F6C32E49FD47A34300553A132EC5EB1DD58B354A0B15A5E40:com.xfinitymobile.cometcarrierservice",
-        "c9133e8168f97573c8c567f46777dff74ade0c015ecf2c5e91be3e4e76ddcae2:com.xfinity.dh.xm",
+        "06aada946110e64414aebe3af34ae06baf239ef75c947149fb67263d8a2547c3:com.xfinity.dh.xm.app",
         "914C26403B57D2D482359FC235CC825AD00D52B0121C18EF2B2B9D4DDA4B8996:com.comcast.mobile.mxs",
         "953f5a4c22e7fd16adc3f12eb038682aad377fef9a18b9d12c1abea78911c749:com.xfinity.mobile.spamfilter",
-        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.mobile.spamfilter"
+        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.mobile.spamfilter",
+        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.digitalhome"
       ],
       "additional_nr_advanced_bands": [
         48,
@@ -4452,13 +4453,14 @@
     "carrier_id": 2532,
     "carrier_config": {
       "carrier_certificate": [
-        "31b4c17315c2269040d535f7b6a79cf4d11517c664d9de8f1ddf4f8a785aad47:com.xfinity.digitalhome",
-        "c9133e8168f97573c8c567f46777dff74ade0c015ecf2c5e91be3e4e76ddcae2:com.xfinity.digitalhome.debug",
+        "953f5a4c22e7fd16adc3f12eb038682aad377fef9a18b9d12c1abea78911c749:com.xfinity.digitalhome",
+        "06aada946110e64414aebe3af34ae06baf239ef75c947149fb67263d8a2547c3:com.xfinity.digitalhome.debug",
         "141E264EB08B576F6C32E49FD47A34300553A132EC5EB1DD58B354A0B15A5E40:com.xfinitymobile.cometcarrierservice",
-        "c9133e8168f97573c8c567f46777dff74ade0c015ecf2c5e91be3e4e76ddcae2:com.xfinity.dh.xm",
+        "06aada946110e64414aebe3af34ae06baf239ef75c947149fb67263d8a2547c3:com.xfinity.dh.xm.app",
         "914C26403B57D2D482359FC235CC825AD00D52B0121C18EF2B2B9D4DDA4B8996:com.comcast.mobile.mxs",
         "953f5a4c22e7fd16adc3f12eb038682aad377fef9a18b9d12c1abea78911c749:com.xfinity.mobile.spamfilter",
-        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.mobile.spamfilter"
+        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.mobile.spamfilter",
+        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.digitalhome"
       ]
     }
   },
@@ -4634,13 +4636,14 @@
         83
       ],
       "carrier_certificate": [
-        "31b4c17315c2269040d535f7b6a79cf4d11517c664d9de8f1ddf4f8a785aad47:com.xfinity.digitalhome",
-        "c9133e8168f97573c8c567f46777dff74ade0c015ecf2c5e91be3e4e76ddcae2:com.xfinity.digitalhome.debug",
+        "953f5a4c22e7fd16adc3f12eb038682aad377fef9a18b9d12c1abea78911c749:com.xfinity.digitalhome",
+        "06aada946110e64414aebe3af34ae06baf239ef75c947149fb67263d8a2547c3:com.xfinity.digitalhome.debug",
         "141E264EB08B576F6C32E49FD47A34300553A132EC5EB1DD58B354A0B15A5E40:com.xfinitymobile.cometcarrierservice",
-        "c9133e8168f97573c8c567f46777dff74ade0c015ecf2c5e91be3e4e76ddcae2:com.xfinity.dh.xm",
+        "06aada946110e64414aebe3af34ae06baf239ef75c947149fb67263d8a2547c3:com.xfinity.dh.xm.app",
         "914C26403B57D2D482359FC235CC825AD00D52B0121C18EF2B2B9D4DDA4B8996:com.comcast.mobile.mxs",
         "953f5a4c22e7fd16adc3f12eb038682aad377fef9a18b9d12c1abea78911c749:com.xfinity.mobile.spamfilter",
-        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.mobile.spamfilter"
+        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.mobile.spamfilter",
+        "3557afac6c4a4951b6d669408dc35bf6dfb1b1536eeb465493f9d29ad166c91d:com.xfinity.digitalhome"
       ],
       "additional_nr_advanced_bands": [
         48,
