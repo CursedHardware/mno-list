@@ -8,7 +8,7 @@ from urllib.parse import urljoin
 import requests
 from lxml import etree
 
-BRANCH = "refs/heads/main"
+BRANCH = "HEAD"
 
 CARRIER_CONFIG_URL = urljoin(
     base="https://android.googlesource.com/platform/packages/apps/CarrierConfig/",

@@ -8,7 +8,7 @@ from .carrierId_pb2 import CarrierList, CarrierAttribute
 from .plmn import PLMN
 from .utils import clean_space
 
-BRANCH = "refs/heads/main"
+BRANCH = "HEAD"
 
 CARRIER_LIST_URL = urljoin(
     base="https://android.googlesource.com/platform/packages/providers/TelephonyProvider/",
