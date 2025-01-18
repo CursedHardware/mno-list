@@ -25,7 +25,6 @@
           "310660",
           "310800",
           "311490",
-          "311660",
           "311882",
           "312250"
         ]
@@ -5455,13 +5454,11 @@
   {
     "canonical_id": 1453,
     "parent_canonical_id": 0,
-    "carrier_name": "Telefonica",
+    "carrier_name": "O2",
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
-          "26203",
-          "26205",
-          "26277"
+          "26203"
         ]
       }
     ]
@@ -5469,12 +5466,12 @@
   {
     "canonical_id": 1454,
     "parent_canonical_id": 0,
-    "carrier_name": "o2",
+    "carrier_name": "O2",
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
           "26207",
-          "26208"
+          "26211"
         ]
       }
     ]
@@ -5487,18 +5484,6 @@
       {
         "mccmnc_tuple": [
           "26210"
-        ]
-      }
-    ]
-  },
-  {
-    "canonical_id": 1456,
-    "parent_canonical_id": 0,
-    "carrier_name": "O2 (Germany) GmbH & Co. OHG",
-    "carrier_attribute": [
-      {
-        "mccmnc_tuple": [
-          "26211"
         ]
       }
     ]
@@ -6526,6 +6511,7 @@
         "mccmnc_tuple": [
           "40434",
           "40438",
+          "40439",
           "40451",
           "40453",
           "40454",
@@ -6535,6 +6521,7 @@
           "40459",
           "40462",
           "40464",
+          "40465",
           "40466",
           "40471",
           "40472",
@@ -8572,7 +8559,7 @@
   {
     "canonical_id": 1727,
     "parent_canonical_id": 0,
-    "carrier_name": "Josa Babilon-T",
+    "carrier_name": "Babilon-Mobile",
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
@@ -11278,7 +11265,6 @@
           "310660",
           "310800",
           "311490",
-          "311660",
           "311882",
           "312250"
         ],
@@ -14021,14 +14007,6 @@
         "mccmnc_tuple": [
           "23439"
         ]
-      },
-      {
-        "mccmnc_tuple": [
-          "24007"
-        ],
-        "imsi_prefix_xpattern": [
-          "240075610"
-        ]
       }
     ]
   },
@@ -14040,8 +14018,7 @@
       {
         "mccmnc_tuple": [
           "23410",
-          "23439",
-          "24007"
+          "23439"
         ],
         "spn": [
           "jump"
@@ -16803,7 +16780,7 @@
   {
     "canonical_id": 2360,
     "parent_canonical_id": 0,
-    "carrier_name": "Telefonica",
+    "carrier_name": "O2",
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
@@ -16819,7 +16796,7 @@
   {
     "canonical_id": 2361,
     "parent_canonical_id": 0,
-    "carrier_name": "o2",
+    "carrier_name": "O2",
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
@@ -17556,7 +17533,6 @@
         "mccmnc_tuple": [
           "310240",
           "311490",
-          "311660",
           "311882",
           "312250"
         ],
@@ -18014,6 +17990,16 @@
       {
         "mccmnc_tuple": [
           "313460"
+        ]
+      },
+      {
+        "mccmnc_tuple": [
+          "302220",
+          "311588",
+          "313460"
+        ],
+        "gid1": [
+          "6624"
         ]
       }
     ]
@@ -20787,6 +20773,134 @@
       {
         "mccmnc_tuple": [
           "25097"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2649,
+    "parent_canonical_id": 0,
+    "carrier_name": "Private FR",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "208180"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2650,
+    "parent_canonical_id": 0,
+    "carrier_name": "T-Mobile - Private 5G",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "311660"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2651,
+    "parent_canonical_id": 0,
+    "carrier_name": "KPN Lab",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "20469"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2652,
+    "parent_canonical_id": 0,
+    "carrier_name": "OXIO",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "314720",
+          "334170"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2653,
+    "parent_canonical_id": 0,
+    "carrier_name": "Cox MSO",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "314420"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2654,
+    "parent_canonical_id": 0,
+    "carrier_name": "Mediacom Mobile",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "311480"
+        ],
+        "gid1": [
+          "ba01700000000000"
+        ],
+        "gid2": [
+          "c400000000000000"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2655,
+    "parent_canonical_id": 0,
+    "carrier_name": "Optimum",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "310240"
+        ],
+        "spn": [
+          "Optimum"
+        ],
+        "gid1": [
+          "6784"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2656,
+    "parent_canonical_id": 0,
+    "carrier_name": "Mettel",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "20601",
+          "20801",
+          "21407",
+          "314610",
+          "90101"
+        ],
+        "gid1": [
+          "880a3e"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2657,
+    "parent_canonical_id": 0,
+    "carrier_name": "CiFi",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "50557"
         ]
       }
     ]
