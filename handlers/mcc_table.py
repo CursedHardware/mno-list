@@ -9,7 +9,7 @@ BASE_URL = "https://android.googlesource.com/platform/frameworks/opt/telephony/"
 BRANCH = "HEAD"
 FILEPATH = "src/java/com/android/internal/telephony/MccTable.java"
 
-RE_MCC_ENTRY = re.compile(r"new MccEntry\((?P<mcc>\d+), \"(?P<iso>\w+)\", (?P<n>\d+)\)")
+RE_MCC_ENTRY = re.compile(r'\(\s*(?P<mcc>\d{3}),\s*"(?P<iso>\w{2})",\s*(?P<n>\d)')
 
 
 def fetch(session: requests.Session):
