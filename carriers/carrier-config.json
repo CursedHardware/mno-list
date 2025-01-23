@@ -5133,12 +5133,10 @@
   {
     "carrier_id": 718,
     "carrier_config": {
-      "carrier_name_override": true,
       "display_voicemail_number_as_default_call_forwarding_number": true,
       "prefer_2g": false,
       "show_4g_for_lte_data_icon": true,
       "wfc_spn_format_idx": 1,
-      "carrier_name": "EE",
       "non_roaming_operator": [
         "23430",
         "23431",
