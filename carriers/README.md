@@ -20,7 +20,7 @@ The list of carrier is from the following sources:
 > [JSON Schema](carrier-id.schema.json) is the file format schema
 
 - [carrier-id.json](carrier-id.json) is [JSON] version
-- [carrier-id.min.json](carrier-id.min.json) is mcinified [JSON] version
+- [carrier-id.min.json](carrier-id.min.json) is minified [JSON] version
 - [carrier-id.cbor.gz](carrier-id.cbor.gz) is gzipped [CBOR] version
 - [carrier-id.msgpack.gz](carrier-id.msgpack.gz) is gzipped [MsgPack] version
 
