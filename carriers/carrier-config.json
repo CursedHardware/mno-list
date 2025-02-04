@@ -2705,6 +2705,17 @@
     }
   },
   {
+    "carrier_id": 2006,
+    "carrier_config": {
+      "carrier_volte_available": true,
+      "enhanced_4g_lte_on_by_default": true,
+      "hide_enhanced_4g_lte": false,
+      "carrier_supports_ss_over_ut": true,
+      "carrier_wfc_ims_available": true,
+      "carrier_default_wfc_ims_enabled": true
+    }
+  },
+  {
     "carrier_id": 2008,
     "carrier_config": {
       "carrier_default_wfc_ims_roaming_enabled": true,
