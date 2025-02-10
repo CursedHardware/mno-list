@@ -4728,6 +4728,21 @@
     }
   },
   {
+    "carrier_id": 2652,
+    "carrier_config": {
+      "allow_hold_call_during_emergency": false,
+      "carrier_supports_ss_over_ut": true,
+      "carrier_volte_available": true,
+      "carrier_name_override": false,
+      "csp_enabled": false,
+      "hide_ims_apn": true,
+      "show_4g_for_lte_data_icon": true,
+      "display_hd_audio_property": false,
+      "allow_hold_in_ims_call": true,
+      "volte_replacement_rat": 3
+    }
+  },
+  {
     "carrier_id": 26,
     "carrier_config": {
       "carrier_supports_ss_over_ut": true,
