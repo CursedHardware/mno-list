@@ -3662,7 +3662,14 @@
   {
     "carrier_id": 2130,
     "carrier_config": {
-      "sim_country_iso_override": "bs"
+      "sim_country_iso_override": "bs",
+      "carrier_volte_available": true,
+      "carrier_supports_ss_over_ut": true,
+      "hide_ims_apn": true,
+      "carrier_ussd_method": 1,
+      "imsvoice.conference_subscribe_type": 1,
+      "imsvoice.conference_factory_uri": "conf_uri@ims.mnc049.mcc364.3gppnetwork.org",
+      "carrier_name": "aliv"
     }
   },
   {
