@@ -4701,6 +4701,14 @@
     }
   },
   {
+    "carrier_id": 2599,
+    "carrier_config": {
+      "carrier_name_override": true,
+      "carrier_volte_available": true,
+      "carrier_name": "NetGenuity"
+    }
+  },
+  {
     "carrier_id": 25,
     "carrier_config": {
       "carrier_supports_ss_over_ut": true,
