@@ -4245,6 +4245,16 @@
     }
   },
   {
+    "carrier_id": 2447,
+    "carrier_config": {
+      "show_4g_for_lte_data_icon": true,
+      "carrier_volte_available": true,
+      "carrier_certificate": [
+        "D0635100654A8CE8680CF8D5FD098483CC2EFAB3C58A983839C49262F8EAF221:md.idc.my"
+      ]
+    }
+  },
+  {
     "carrier_id": 2459,
     "carrier_config": {
       "force_home_network": true,
