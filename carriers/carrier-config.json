@@ -1696,7 +1696,21 @@
       ],
       "boosted_nrarfcns": [
         "200000-866666"
-      ]
+      ],
+      "satellite_attach_supported": false,
+      "satellite_esos_supported": true,
+      "satellite_nidd_apn_name": "VZWNTN.LBO",
+      "satellite_roaming_p2p_sms_supported": true,
+      "satellite_display_name": "Satellite",
+      "satellite_entitlement_supported": true,
+      "override_wfc_roaming_mode_while_using_ntn": true,
+      "emergency_messaging_supported": true,
+      "remove_satellite_plmn_in_manual_network_scan": true,
+      "carrier_roaming_ntn_connect_type": 1,
+      "satellite_connection_hysteresis_sec": 0,
+      "satellite_entitlement_status_refresh_days": 7,
+      "carrier_roaming_ntn_emergency_call_to_satellite_handover_type": 1,
+      "satellite_information_redirect_url": "https://www.verizon.com/wireless-devices/smartphones/messages-via-satellite/"
     }
   },
   {
@@ -4259,6 +4273,18 @@
     "carrier_config": {
       "force_home_network": true,
       "inflate_signal_strength": true
+    }
+  },
+  {
+    "carrier_id": 2464,
+    "carrier_config": {
+      "carrier_name_override": true,
+      "carrier_volte_available": true,
+      "carrier_name": "mobi",
+      "carrier_certificate": [
+        "CA357AC6A590067CB064D081960AFAF88F3157DE8E7D3B77EDE78FFAA1A519B7:com.mobi.stitch,com.mobi.stitch.test",
+        "70907933D77B20329475188F12D3AAA2BE20CDA25A1D86DD9DE9CA2FC0A989D3:com.mobi.stitch,com.mobi.stitch.test"
+      ]
     }
   },
   {
