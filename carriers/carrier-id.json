@@ -747,7 +747,7 @@
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
-          "344030"
+          "34403"
         ]
       }
     ]
@@ -1499,27 +1499,22 @@
         ],
         "spn": [
           "Cablemovil",
+          "EUSKALTEL",
+          "Euskaltel",
           "Guuk",
           "LLAMAYA",
           "Lebara",
           "Lycamobile",
           "MASMOVIL",
           "Pepephone",
-          "Sweno",
-          "Yoigo"
-        ]
-      },
-      {
-        "mccmnc_tuple": [
-          "21404"
-        ],
-        "imsi_prefix_xpattern": [
-          "2140423"
-        ],
-        "spn": [
-          "EUSKALTEL",
+          "Populoos",
+          "R",
           "RACC",
+          "RACCtel+",
+          "Sweno",
+          "Tu Operador",
           "Virgin telco",
+          "Yoigo",
           "mobilR",
           "telecable"
         ]
@@ -2459,7 +2454,7 @@
   {
     "canonical_id": 905,
     "parent_canonical_id": 0,
-    "carrier_name": "Moldcell GSM",
+    "carrier_name": "Moldcell",
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
@@ -2771,7 +2766,7 @@
   {
     "canonical_id": 1014,
     "parent_canonical_id": 0,
-    "carrier_name": "Vip mobile d.o.o.",
+    "carrier_name": "A1 SRB",
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
@@ -11655,16 +11650,10 @@
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
-          "21421"
-        ]
-      },
-      {
-        "mccmnc_tuple": [
           "21403"
         ],
         "spn": [
-          "JAZZTEL",
-          "Jazztel"
+          "JAZZTEL"
         ]
       }
     ]
@@ -14273,6 +14262,14 @@
         ],
         "spn": [
           "Lycamobile"
+        ]
+      },
+      {
+        "mccmnc_tuple": [
+          "23430"
+        ],
+        "spn": [
+          "LycaMobile"
         ]
       }
     ]
@@ -19102,6 +19099,14 @@
           "26203293x",
           "26203330x"
         ]
+      },
+      {
+        "mccmnc_tuple": [
+          "20801"
+        ],
+        "spn": [
+          "1&1"
+        ]
       }
     ]
   },
@@ -19634,7 +19639,7 @@
   {
     "canonical_id": 2570,
     "parent_canonical_id": 0,
-    "carrier_name": "Netcom O",
+    "carrier_name": "Orange MVNOs",
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
@@ -19642,7 +19647,10 @@
         ],
         "spn": [
           "Mobile O",
+          "NETWORTH",
+          "NORDNET",
           "Netcom Mobile",
+          "SEWAN",
           "YouPrice O"
         ]
       }
@@ -20489,6 +20497,7 @@
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
+          "20404",
           "20801",
           "22201",
           "23410",
@@ -20497,7 +20506,7 @@
           "45400",
           "45412",
           "45435",
-          "72432",
+          "72418",
           "72454",
           "732101",
           "90101",
@@ -20699,12 +20708,6 @@
       {
         "mccmnc_tuple": [
           "722210"
-        ],
-        "spn": [
-          "imowi"
-        ],
-        "gid1": [
-          "722210"
         ]
       }
     ]
@@ -20881,14 +20884,14 @@
     "carrier_attribute": [
       {
         "mccmnc_tuple": [
-          "20601",
+          "206018",
           "20801",
           "21407",
           "314610",
           "90101"
         ],
         "gid1": [
-          "880a3e"
+          "8915518f"
         ]
       }
     ]
@@ -20901,6 +20904,126 @@
       {
         "mccmnc_tuple": [
           "50557"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2658,
+    "parent_canonical_id": 0,
+    "carrier_name": "Lycamobile",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "23812"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2659,
+    "parent_canonical_id": 0,
+    "carrier_name": "Brisanet",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "72477"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2660,
+    "parent_canonical_id": 0,
+    "carrier_name": "eSIM Go",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "23415"
+        ],
+        "spn": [
+          "eSIM Go"
+        ],
+        "gid1": [
+          "0033"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2661,
+    "parent_canonical_id": 0,
+    "carrier_name": "Finetwork",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "21406"
+        ],
+        "spn": [
+          "Finetwork"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2662,
+    "parent_canonical_id": 0,
+    "carrier_name": "Oceus",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "314360"
+        ],
+        "spn": [
+          "OceusNet"
+        ],
+        "gid1": [
+          "ffff"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2663,
+    "parent_canonical_id": 0,
+    "carrier_name": "TextNow Wireless",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "314730"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2664,
+    "parent_canonical_id": 0,
+    "carrier_name": "Popcorn",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "302220",
+          "311588",
+          "313460"
+        ],
+        "gid1": [
+          "7911"
+        ]
+      }
+    ]
+  },
+  {
+    "canonical_id": 2665,
+    "parent_canonical_id": 0,
+    "carrier_name": "iWay",
+    "carrier_attribute": [
+      {
+        "mccmnc_tuple": [
+          "22873"
+        ],
+        "spn": [
+          "iWay",
+          "ispmobile"
         ]
       }
     ]
